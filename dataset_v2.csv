@@ -1,0 +1,1351 @@
+Pokedex Number,Pokemon Name,Alternate Form Name,Legendary Type,Pokemon Height,Pokemon Weight,Primary Type,Secondary Type,Male Ratio,Female Ratio,Base Happiness,Game(s) of Origin,Health Stat,Attack Stat,Defense Stat,Special Attack Stat,Special Defense Stat,Speed Stat,Base Stat Total,Health EV,Attack EV,Defense EV,Special Attack EV,Special Defense EV,Speed EV,EV Yield Total,Catch Rate,Experience Growth,Experience Growth Total,Primary Egg Group,Secondary Egg Group,Egg Cycle Count
+1,Bulbasaur,NULL,NULL,0.7,6.9,Grass,Poison,87.5,12.5,50,Red,45,49,49,65,65,45,318,0,0,0,1,0,0,1,45,Medium Slow,1059860,Monster,Grass,20
+2,Ivysaur,NULL,NULL,1.0,13.0,Grass,Poison,87.5,12.5,50,Red,60,62,63,80,80,60,405,0,0,0,1,1,0,2,45,Medium Slow,1059860,Monster,Grass,20
+3,Venusaur,NULL,NULL,2.0,100.0,Grass,Poison,87.5,12.5,50,Red,80,82,83,100,100,80,525,0,0,0,2,1,0,3,45,Medium Slow,1059860,Monster,Grass,20
+3,Venusaur,Mega,NULL,2.4,155.5,Grass,Poison,87.5,12.5,70,X,80,100,123,122,120,80,625,0,0,0,2,1,0,3,45,Medium Slow,1059860,Monster,Grass,20
+4,Charmander,NULL,NULL,0.6,8.5,Fire,NULL,87.5,12.5,50,Red,39,52,43,60,50,65,309,0,0,0,0,0,1,1,45,Medium Slow,1059860,Monster,Dragon,20
+5,Charmeleon,NULL,NULL,1.1,19.0,Fire,NULL,87.5,12.5,50,Red,58,64,58,80,65,80,405,0,0,0,1,0,1,2,45,Medium Slow,1059860,Monster,Dragon,20
+6,Charizard,NULL,NULL,1.7,90.5,Fire,Flying,87.5,12.5,50,Red,78,84,78,109,85,100,534,0,0,0,3,0,0,3,45,Medium Slow,1059860,Monster,Dragon,20
+6,Charizard,Mega X,NULL,1.7,110.5,Fire,Dragon,87.5,12.5,70,X,78,130,111,130,85,100,634,0,0,0,3,0,0,3,45,Medium Slow,1059860,Monster,Dragon,20
+6,Charizard,Mega Y,NULL,1.7,100.5,Fire,Flying,87.5,12.5,70,X,78,104,78,159,115,100,634,0,0,0,3,0,0,3,45,Medium Slow,1059860,Monster,Dragon,20
+7,Squirtle,NULL,NULL,0.5,9.0,Water,NULL,87.5,12.5,50,Red,44,48,65,50,64,43,314,0,0,1,0,0,0,1,45,Medium Slow,1059860,Monster,Water 1,20
+8,Wartortle,NULL,NULL,1.0,22.5,Water,NULL,87.5,12.5,50,Red,59,63,80,65,80,58,405,0,0,1,0,1,0,2,45,Medium Slow,1059860,Monster,Water 1,20
+9,Blastoise,NULL,NULL,1.6,85.5,Water,NULL,87.5,12.5,50,Red,79,83,100,85,105,78,530,0,0,0,0,3,0,3,45,Medium Slow,1059860,Monster,Water 1,20
+9,Blastoise,Mega,NULL,1.6,101.1,Water,NULL,87.5,12.5,70,X,79,103,120,135,115,78,630,0,0,0,0,3,0,3,45,Medium Slow,1059860,Monster,Water 1,20
+10,Caterpie,NULL,NULL,0.3,2.9,Bug,NULL,50.0,50.0,50,Red,45,30,35,20,20,45,195,1,0,0,0,0,0,1,255,Medium Fast,1000000,Bug,NULL,15
+11,Metapod,NULL,NULL,0.7,9.9,Bug,NULL,50.0,50.0,50,Red,50,20,55,25,25,30,205,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+12,Butterfree,NULL,NULL,1.1,32.0,Bug,Flying,50.0,50.0,50,Red,60,45,50,90,80,70,395,0,0,0,2,1,0,3,45,Medium Fast,1000000,Bug,NULL,15
+13,Weedle,NULL,NULL,0.3,3.2,Bug,Poison,50.0,50.0,50,Red,40,35,30,20,20,50,195,0,0,0,0,0,1,1,255,Medium Fast,1000000,Bug,NULL,15
+14,Kakuna,NULL,NULL,0.6,10.0,Bug,Poison,50.0,50.0,50,Red,45,25,50,25,25,35,205,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+15,Beedrill,NULL,NULL,1.0,29.5,Bug,Poison,50.0,50.0,50,Red,65,90,40,45,80,75,395,0,2,0,0,1,0,3,45,Medium Fast,1000000,Bug,NULL,15
+15,Beedrill,Mega,NULL,1.4,40.5,Bug,Poison,50.0,50.0,70,Omega Ruby,65,150,40,15,80,145,495,0,2,0,0,1,0,3,45,Medium Fast,1000000,Bug,NULL,15
+16,Pidgey,NULL,NULL,0.3,1.8,Normal,Flying,50.0,50.0,50,Red,40,45,40,35,35,56,251,0,0,0,0,0,1,1,255,Medium Slow,1059860,Flying,NULL,15
+17,Pidgeotto,NULL,NULL,1.1,30.0,Normal,Flying,50.0,50.0,50,Red,63,60,55,50,50,71,349,0,0,0,0,0,2,2,120,Medium Slow,1059860,Flying,NULL,15
+18,Pidgeot,NULL,NULL,1.5,39.5,Normal,Flying,50.0,50.0,50,Red,83,80,75,70,70,101,479,0,0,0,0,0,3,3,45,Medium Slow,1059860,Flying,NULL,15
+18,Pidgeot,Mega,NULL,2.2,50.5,Normal,Flying,50.0,50.0,70,Omega Ruby,83,80,80,135,80,121,579,0,0,0,0,0,3,3,45,Medium Slow,1059860,Flying,NULL,15
+19,Rattata,NULL,NULL,0.3,3.5,Normal,NULL,50.0,50.0,50,Red,30,56,35,25,35,72,253,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,15
+19,Rattata,Alola,NULL,0.3,3.8,Dark,Normal,50.0,50.0,70,Sun,30,56,35,25,35,72,253,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,15
+20,Raticate,NULL,NULL,0.7,18.5,Normal,NULL,50.0,50.0,50,Red,55,81,60,50,70,97,413,0,0,0,0,0,2,2,127,Medium Fast,1000000,Field,NULL,15
+20,Raticate,Alola,NULL,0.7,25.5,Dark,Normal,50.0,50.0,70,Sun,75,71,70,40,80,77,413,0,0,0,0,0,2,2,127,Medium Fast,1000000,Field,NULL,15
+21,Spearow,NULL,NULL,0.3,2.0,Normal,Flying,50.0,50.0,50,Red,40,60,30,31,31,70,262,0,0,0,0,0,1,1,255,Medium Fast,1000000,Flying,NULL,15
+22,Fearow,NULL,NULL,1.2,38.0,Normal,Flying,50.0,50.0,50,Red,65,90,65,61,61,100,442,0,0,0,0,0,2,2,90,Medium Fast,1000000,Flying,NULL,15
+23,Ekans,NULL,NULL,2.0,6.9,Poison,NULL,50.0,50.0,50,Red,35,60,44,40,54,55,288,0,1,0,0,0,0,1,255,Medium Fast,1000000,Field,Dragon,20
+24,Arbok,NULL,NULL,3.5,65.0,Poison,NULL,50.0,50.0,50,Red,60,95,69,65,79,80,448,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,Dragon,20
+25,Pikachu,NULL,NULL,0.4,6.0,Electric,NULL,50.0,50.0,50,Red,35,55,40,50,50,90,320,0,0,0,0,0,2,2,190,Medium Fast,1000000,Field,Fairy,10
+25,Pikachu,Starter,NULL,0.4,6.0,Electric,NULL,50.0,50.0,70,Let's Go Pikachu,45,80,50,75,60,120,430,0,0,0,0,0,2,2,190,Medium Fast,1000000,Field,Fairy,10
+26,Raichu,NULL,NULL,0.8,30.0,Electric,NULL,50.0,50.0,50,Red,60,90,55,90,80,110,485,0,0,0,0,0,3,3,75,Medium Fast,1000000,Field,Fairy,10
+26,Raichu,NULL,NULL,0.8,30.0,Electric,NULL,50.0,50.0,50,Red,60,90,55,90,80,110,485,0,0,0,0,0,3,3,75,Medium Fast,1000000,Field,Fairy,10
+26,Raichu,NULL,NULL,0.8,30.0,Electric,NULL,50.0,50.0,50,Red,60,90,55,90,80,110,485,0,0,0,0,0,3,3,75,Medium Fast,1000000,Field,Fairy,10
+26,Raichu,Alola,NULL,0.7,21.0,Electric,Psychic,50.0,50.0,50,Sun,60,85,50,95,85,110,485,0,0,0,0,0,3,3,75,Medium Fast,1000000,Field,Fairy,10
+26,Raichu,Alola,NULL,0.7,21.0,Electric,Psychic,50.0,50.0,50,Sun,60,85,50,95,85,110,485,0,0,0,0,0,3,3,75,Medium Fast,1000000,Field,Fairy,10
+27,Sandshrew,NULL,NULL,0.6,12.0,Ground,NULL,50.0,50.0,50,Red,50,75,85,20,30,40,300,0,0,1,0,0,0,1,255,Medium Fast,1000000,Field,NULL,20
+27,Sandshrew,Alola,NULL,0.7,40.0,Ice,Steel,50.0,50.0,50,Sun,50,75,90,10,35,40,300,0,0,1,0,0,0,1,255,Medium Fast,1000000,Field,NULL,20
+28,Sandslash,NULL,NULL,1.0,29.5,Ground,NULL,50.0,50.0,50,Red,75,100,110,45,55,65,450,0,0,2,0,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+28,Sandslash,Alola,NULL,1.2,55.0,Ice,Steel,50.0,50.0,50,Sun,75,100,120,25,65,65,450,0,0,2,0,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+29,Nidoran (Female),NULL,NULL,0.4,7.0,Poison,NULL,0.0,100.0,50,Red,55,47,52,40,40,41,275,1,0,0,0,0,0,1,235,Medium Slow,1059860,Monster,Field,20
+30,Nidorina,NULL,NULL,0.8,20.0,Poison,NULL,0.0,100.0,50,Red,70,62,67,55,55,56,365,2,0,0,0,0,0,2,120,Medium Slow,1059860,No Eggs Discovered,NULL,20
+31,Nidoqueen,NULL,NULL,1.3,60.0,Poison,Ground,0.0,100.0,50,Red,90,92,87,75,85,76,505,3,0,0,0,0,0,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,20
+32,Nidoran (Male),NULL,NULL,0.5,9.0,Poison,NULL,100.0,0.0,50,Red,46,57,40,40,40,50,273,0,1,0,0,0,0,1,235,Medium Slow,1059860,Monster,Field,20
+33,Nidorino,NULL,NULL,0.9,19.5,Poison,NULL,100.0,0.0,50,Red,61,72,57,55,55,65,365,0,2,0,0,0,0,2,120,Medium Slow,1059860,Monster,Field,20
+34,Nidoking,NULL,NULL,1.4,62.0,Poison,Ground,100.0,0.0,50,Red,81,102,77,85,75,85,505,0,3,0,0,0,0,3,45,Medium Slow,1059860,Monster,Field,20
+35,Clefairy,NULL,NULL,0.6,7.5,Fairy,NULL,25.0,75.0,140,Red,70,45,48,60,65,35,323,2,0,0,0,0,0,2,150,Fast,800000,Fairy,NULL,20
+36,Clefable,NULL,NULL,1.3,40.0,Fairy,NULL,25.0,75.0,140,Red,95,70,73,95,90,60,483,3,0,0,0,0,0,3,25,Fast,800000,Fairy,NULL,10
+37,Vulpix,NULL,NULL,0.6,9.9,Fire,NULL,25.0,75.0,50,Red,38,41,40,50,65,65,299,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+37,Vulpix,Alola,NULL,0.6,9.9,Ice,NULL,25.0,75.0,50,Sun,38,41,40,50,65,65,299,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+38,Ninetales,NULL,NULL,1.1,19.9,Fire,NULL,25.0,75.0,50,Red,73,76,75,81,100,100,505,0,0,0,0,1,1,2,75,Medium Fast,1000000,Field,NULL,20
+38,Ninetales,Alola,NULL,1.1,19.9,Ice,Fairy,25.0,75.0,50,Sun,73,67,75,81,100,109,505,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+39,Jigglypuff,NULL,NULL,0.5,5.5,Normal,Fairy,25.0,75.0,50,Red,115,45,20,45,25,20,270,2,0,0,0,0,0,2,170,Fast,800000,Fairy,NULL,10
+40,Wigglytuff,NULL,NULL,1.0,12.0,Normal,Fairy,25.0,75.0,50,Red,140,70,45,85,50,45,435,3,0,0,0,0,0,3,50,Fast,800000,Fairy,NULL,10
+41,Zubat,NULL,NULL,0.8,7.5,Poison,Flying,50.0,50.0,50,Red,40,45,35,30,40,55,245,0,0,0,0,0,1,1,255,Medium Fast,1000000,Flying,NULL,15
+42,Golbat,NULL,NULL,1.6,55.0,Poison,Flying,50.0,50.0,50,Red,75,80,70,65,75,95,460,0,0,0,0,0,2,2,90,Medium Fast,1000000,Flying,NULL,15
+43,Oddish,NULL,NULL,0.5,5.4,Grass,Poison,50.0,50.0,50,Red,45,50,55,75,65,30,320,0,0,0,1,0,0,1,255,Medium Slow,1059860,Grass,NULL,20
+44,Gloom,NULL,NULL,0.8,8.6,Grass,Poison,50.0,50.0,50,Red,60,65,70,85,75,40,395,0,0,0,2,0,0,2,120,Medium Slow,1059860,Grass,NULL,20
+45,Vileplume,NULL,NULL,1.2,18.6,Grass,Poison,50.0,50.0,50,Red,75,80,85,110,90,50,490,0,0,0,3,0,0,3,45,Medium Slow,1059860,Grass,NULL,20
+46,Paras,NULL,NULL,0.3,5.4,Bug,Grass,50.0,50.0,50,Red,35,70,55,45,55,25,285,0,1,0,0,0,0,1,190,Medium Fast,1000000,Bug,Grass,20
+47,Parasect,NULL,NULL,1.0,29.5,Bug,Grass,50.0,50.0,50,Red,60,95,80,60,80,30,405,0,2,1,0,0,0,3,75,Medium Fast,1000000,Bug,Grass,20
+48,Venonat,NULL,NULL,1.0,30.0,Bug,Poison,50.0,50.0,50,Red,60,55,50,40,55,45,305,0,0,0,0,1,0,1,190,Medium Fast,1000000,Bug,NULL,20
+49,Venomoth,NULL,NULL,1.5,12.5,Bug,Poison,50.0,50.0,50,Red,70,65,60,90,75,90,450,0,0,0,1,0,1,2,75,Medium Fast,1000000,Bug,NULL,20
+50,Diglett,NULL,NULL,0.2,0.8,Ground,NULL,50.0,50.0,50,Red,10,55,25,35,45,95,265,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+50,Diglett,Alola,NULL,0.2,1.0,Ground,Steel,50.0,50.0,50,Sun,10,55,30,35,45,90,265,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+51,Dugtrio,Alola,NULL,0.7,66.6,Ground,Steel,50.0,50.0,50,Sun,35,100,60,50,70,110,425,0,2,0,0,0,0,2,50,Medium Fast,1000000,Field,NULL,20
+51,Dugtrio,NULL,NULL,0.7,33.3,Ground,NULL,50.0,50.0,50,Red,35,100,50,50,70,120,425,0,0,0,0,0,2,2,50,Medium Fast,1000000,Field,NULL,20
+52,Meowth,NULL,NULL,0.4,4.2,Normal,NULL,50.0,50.0,50,Red,40,45,35,40,40,90,290,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+52,Meowth,Alola,NULL,0.4,4.2,Dark,NULL,50.0,50.0,50,Sun,40,35,35,50,40,90,290,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+52,Meowth,Galar,NULL,0.4,7.5,Steel,NULL,50.0,50.0,50,Sword,50,65,55,40,40,40,290,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+53,Persian,NULL,NULL,1.0,32.0,Normal,NULL,50.0,50.0,50,Red,65,70,60,65,65,115,440,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,20
+53,Persian,Alola,NULL,1.1,33.0,Dark,NULL,50.0,50.0,50,Sun,65,60,60,75,65,115,440,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,20
+54,Psyduck,NULL,NULL,0.8,19.6,Water,NULL,50.0,50.0,50,Red,50,52,48,65,50,55,320,0,0,0,1,0,0,1,190,Medium Fast,1000000,Water 1,Field,20
+55,Golduck,NULL,NULL,1.7,76.6,Water,NULL,50.0,50.0,50,Red,80,82,78,95,80,85,500,0,0,0,2,0,0,2,75,Medium Fast,1000000,Water 1,Field,20
+56,Mankey,NULL,NULL,0.5,28.0,Fighting,NULL,50.0,50.0,50,Red,40,80,35,35,45,70,305,0,1,0,0,0,0,1,190,Medium Fast,1000000,Field,NULL,20
+57,Primeape,NULL,NULL,1.0,32.0,Fighting,NULL,50.0,50.0,50,Red,65,105,60,60,70,95,455,0,2,0,0,0,0,2,75,Medium Fast,1000000,Field,NULL,20
+58,Growlithe,NULL,NULL,0.7,19.0,Fire,NULL,75.0,25.0,50,Red,55,70,45,70,50,60,350,0,1,0,0,0,0,1,190,Slow,1250000,Field,NULL,20
+58,Growlithe,Hisui,NULL,0.8,22.7,Fire,Rock,75.0,25.0,50,Legends Arceus,60,75,45,65,50,55,350,0,1,0,0,0,0,1,235,Slow,1250000,Field,NULL,20
+59,Arcanine,NULL,NULL,1.9,155.0,Fire,NULL,75.0,25.0,50,Red,90,110,80,100,80,95,555,0,2,0,0,0,0,2,75,Slow,1250000,Field,NULL,20
+59,Arcanine,Hisui,NULL,2.0,168.0,Fire,Rock,75.0,25.0,50,Legends Arceus,95,115,80,95,80,90,555,0,2,0,0,0,0,2,135,Slow,1250000,Field,NULL,20
+60,Poliwag,NULL,NULL,0.6,12.4,Water,NULL,50.0,50.0,50,Red,40,50,40,40,40,90,300,0,0,0,0,0,1,1,255,Medium Slow,1059860,Water 1,NULL,20
+61,Poliwhirl,NULL,NULL,1.0,20.0,Water,NULL,50.0,50.0,50,Red,65,65,65,50,50,90,385,0,0,0,0,0,2,2,120,Medium Slow,1059860,Water 1,NULL,20
+62,Poliwrath,NULL,NULL,1.3,54.0,Water,Fighting,50.0,50.0,50,Red,90,95,95,70,90,70,510,0,0,3,0,0,0,3,45,Medium Slow,1059860,Water 1,NULL,20
+63,Abra,NULL,NULL,0.9,19.5,Psychic,NULL,75.0,25.0,50,Red,25,20,15,105,55,90,310,0,0,0,1,0,0,1,200,Medium Slow,1059860,Human-Like,NULL,20
+64,Kadabra,NULL,NULL,1.3,56.5,Psychic,NULL,75.0,25.0,50,Red,40,35,30,120,70,105,400,0,0,0,2,0,0,2,100,Medium Slow,1059860,Human-Like,NULL,20
+65,Alakazam,NULL,NULL,1.5,48.0,Psychic,NULL,75.0,25.0,50,Red,55,50,45,135,95,120,500,0,0,0,3,0,0,3,50,Medium Slow,1059860,Human-Like,NULL,20
+65,Alakazam,NULL,NULL,1.5,48.0,Psychic,NULL,75.0,25.0,50,Red,55,50,45,135,95,120,500,0,0,0,3,0,0,3,50,Medium Slow,1059860,Human-Like,NULL,20
+65,Alakazam,Mega,NULL,1.2,48.0,Psychic,NULL,75.0,25.0,70,X,55,50,65,175,105,150,600,0,0,0,3,0,0,3,50,Medium Slow,1059860,Human-Like,NULL,20
+66,Machop,NULL,NULL,0.8,19.5,Fighting,NULL,75.0,25.0,50,Red,70,80,50,35,35,35,305,0,1,0,0,0,0,1,180,Medium Slow,1059860,Human-Like,NULL,20
+67,Machoke,NULL,NULL,1.5,70.5,Fighting,NULL,75.0,25.0,50,Red,80,100,70,50,60,45,405,0,2,0,0,0,0,2,90,Medium Slow,1059860,Human-Like,NULL,20
+68,Machamp,NULL,NULL,1.6,130.0,Fighting,NULL,75.0,25.0,50,Red,90,130,80,65,85,55,505,0,3,0,0,0,0,3,45,Medium Slow,1059860,Human-Like,NULL,20
+68,Machamp,NULL,NULL,1.6,130.0,Fighting,NULL,75.0,25.0,50,Red,90,130,80,65,85,55,505,0,3,0,0,0,0,3,45,Medium Slow,1059860,Human-Like,NULL,20
+69,Bellsprout,NULL,NULL,0.7,4.0,Grass,Poison,50.0,50.0,50,Red,50,75,35,70,30,40,300,0,1,0,0,0,0,1,255,Medium Slow,1059860,Grass,NULL,20
+70,Weepinbell,NULL,NULL,1.0,6.4,Grass,Poison,50.0,50.0,50,Red,65,90,50,85,45,55,390,0,2,0,0,0,0,2,120,Medium Slow,1059860,Grass,NULL,20
+71,Victreebel,NULL,NULL,1.7,15.5,Grass,Poison,50.0,50.0,50,Red,80,105,65,100,70,70,490,0,3,0,0,0,0,3,45,Medium Slow,1059860,Grass,NULL,20
+72,Tentacool,NULL,NULL,0.9,45.5,Water,Poison,50.0,50.0,50,Red,40,40,35,50,100,70,335,0,0,0,0,1,0,1,190,Slow,1250000,Water 3,NULL,20
+73,Tentacruel,NULL,NULL,1.6,55.0,Water,Poison,50.0,50.0,50,Red,80,70,65,80,120,100,515,0,0,0,0,2,0,2,60,Slow,1250000,Water 3,NULL,20
+74,Geodude,NULL,NULL,0.4,20.0,Rock,Ground,50.0,50.0,50,Red,40,80,100,30,30,20,300,0,0,1,0,0,0,1,255,Medium Slow,1059860,Mineral,NULL,15
+74,Geodude,Alola,NULL,0.4,20.3,Rock,Electric,50.0,50.0,70,Sun,40,80,100,30,30,20,300,0,0,1,0,0,0,1,255,Medium Slow,1059860,Mineral,NULL,15
+75,Graveler,Alola,NULL,1.0,110.0,Rock,Electric,50.0,50.0,70,Sun,55,95,115,45,45,35,390,0,0,2,0,0,0,2,120,Medium Slow,1059860,Mineral,NULL,15
+75,Graveler,NULL,NULL,1.0,105.0,Rock,Ground,50.0,50.0,50,Red,55,95,115,45,45,35,390,0,0,2,0,0,0,2,120,Medium Slow,1059860,Mineral,NULL,15
+76,Golem,NULL,NULL,1.4,300.0,Rock,Ground,50.0,50.0,50,Red,80,120,130,55,65,45,495,0,0,3,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,15
+76,Golem,NULL,NULL,1.4,300.0,Rock,Ground,50.0,50.0,50,Red,80,120,130,55,65,45,495,0,0,3,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,15
+76,Golem,Alola,NULL,1.7,316.0,Rock,Electric,50.0,50.0,70,Sun,80,120,130,55,65,45,495,0,0,3,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,15
+77,Ponyta,Galar,NULL,0.8,24.0,Psychic,NULL,50.0,50.0,50,Sword,50,85,55,65,65,90,410,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+77,Ponyta,NULL,NULL,1.0,30.0,Fire,NULL,50.0,50.0,50,Red,50,85,55,65,65,90,410,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+78,Rapidash,NULL,NULL,1.7,95.0,Fire,NULL,50.0,50.0,50,Red,65,100,70,80,80,105,500,0,0,0,0,0,2,2,60,Medium Fast,1000000,Field,NULL,20
+78,Rapidash,Galar,NULL,1.7,80.0,Psychic,Fairy,50.0,50.0,50,Sword,65,100,70,80,80,105,500,0,0,0,0,0,2,2,60,Medium Fast,1000000,Field,NULL,20
+79,Slowpoke,Galar,NULL,1.2,36.0,Psychic,NULL,50.0,50.0,50,Sword,90,65,65,40,40,15,315,1,0,0,0,0,0,1,190,Medium Fast,1000000,Monster,Water 1,20
+79,Slowpoke,NULL,NULL,1.2,36.0,Water,Psychic,50.0,50.0,50,Red,90,65,65,40,40,15,315,1,0,0,0,0,0,1,190,Medium Fast,1000000,Monster,Water 1,20
+80,Slowbro,Mega,NULL,2.0,120.0,Water,Psychic,50.0,50.0,70,Omega Ruby,95,75,180,130,80,30,590,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,Water 1,20
+80,Slowbro,Galar,NULL,1.6,70.5,Poison,Psychic,50.0,50.0,50,Sword,95,100,95,100,70,30,490,0,2,0,0,0,0,2,75,Medium Fast,1000000,Monster,Water 1,20
+80,Slowbro,NULL,NULL,1.6,78.5,Water,Psychic,50.0,50.0,50,Red,95,75,110,100,80,30,490,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,Water 1,20
+81,Magnemite,NULL,NULL,0.3,6.0,Electric,Steel,0.0,0.0,50,Red,25,35,70,95,55,45,325,0,0,0,1,0,0,1,190,Medium Fast,1000000,Mineral,NULL,20
+82,Magneton,NULL,NULL,1.0,60.0,Electric,Steel,0.0,0.0,50,Red,50,60,95,120,70,70,465,0,0,0,2,0,0,2,60,Medium Fast,1000000,Mineral,NULL,20
+83,Farfetch'd,NULL,NULL,0.8,15.0,Normal,Flying,50.0,50.0,50,Red,52,90,55,58,62,60,377,0,1,0,0,0,0,1,45,Medium Fast,1000000,Flying,Field,20
+83,Farfetch'd,Galar,NULL,0.8,42.0,Fighting,NULL,50.0,50.0,50,Sword,52,95,55,58,62,55,377,0,1,0,0,0,0,1,45,Medium Fast,1000000,Flying,Field,20
+84,Doduo,NULL,NULL,1.4,39.2,Normal,Flying,50.0,50.0,50,Red,35,85,45,35,35,75,310,0,1,0,0,0,0,1,190,Medium Fast,1000000,Flying,NULL,20
+85,Dodrio,NULL,NULL,1.8,85.2,Normal,Flying,50.0,50.0,50,Red,60,110,70,60,60,110,470,0,2,0,0,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+86,Seel,NULL,NULL,1.1,90.0,Water,NULL,50.0,50.0,50,Red,65,45,55,45,70,45,325,0,0,0,0,1,0,1,190,Medium Fast,1000000,Water 1,Field,20
+87,Dewgong,NULL,NULL,1.7,120.0,Water,Ice,50.0,50.0,50,Red,90,70,80,70,95,70,475,0,0,0,0,2,0,2,75,Medium Fast,1000000,Water 1,Field,20
+88,Grimer,NULL,NULL,0.9,30.0,Poison,NULL,50.0,50.0,50,Red,80,80,50,40,50,25,325,1,0,0,0,0,0,1,190,Medium Fast,1000000,Amorphous,NULL,20
+88,Grimer,Alola,NULL,0.7,42.0,Poison,Dark,50.0,50.0,50,Sun,80,80,50,40,50,25,325,1,0,0,0,0,0,1,190,Medium Fast,1000000,Amorphous,NULL,20
+89,Muk,Alola,NULL,1.0,52.0,Poison,Dark,50.0,50.0,50,Sun,105,105,75,65,100,50,500,1,1,0,0,0,0,2,75,Medium Fast,1000000,Amorphous,NULL,20
+89,Muk,NULL,NULL,1.2,30.0,Poison,NULL,50.0,50.0,50,Red,105,105,75,65,100,50,500,1,1,0,0,0,0,2,75,Medium Fast,1000000,Amorphous,NULL,20
+90,Shellder,NULL,NULL,0.3,4.0,Water,NULL,50.0,50.0,50,Red,30,65,100,45,25,40,305,0,0,1,0,0,0,1,190,Slow,1250000,Water 3,NULL,20
+91,Cloyster,NULL,NULL,1.5,132.5,Water,Ice,50.0,50.0,50,Red,50,95,180,85,45,70,525,0,0,2,0,0,0,2,60,Slow,1250000,Water 3,NULL,20
+92,Gastly,NULL,NULL,1.3,0.1,Ghost,Poison,50.0,50.0,50,Red,30,35,30,100,35,80,310,0,0,0,1,0,0,1,190,Medium Slow,1059860,Amorphous,NULL,20
+93,Haunter,NULL,NULL,1.6,0.1,Ghost,Poison,50.0,50.0,50,Red,45,50,45,115,55,95,405,0,0,0,2,0,0,2,90,Medium Slow,1059860,Amorphous,NULL,20
+94,Gengar,NULL,NULL,1.5,40.5,Ghost,Poison,50.0,50.0,50,Red,60,65,60,130,75,110,500,0,0,0,3,0,0,3,45,Medium Slow,1059860,Amorphous,NULL,20
+94,Gengar,NULL,NULL,1.5,40.5,Ghost,Poison,50.0,50.0,50,Red,60,65,60,130,75,110,500,0,0,0,3,0,0,3,45,Medium Slow,1059860,Amorphous,NULL,20
+94,Gengar,Mega,NULL,1.4,40.5,Ghost,Poison,50.0,50.0,70,X,60,65,80,170,95,130,600,0,0,0,3,0,0,3,45,Medium Slow,1059860,Amorphous,NULL,20
+95,Onix,NULL,NULL,8.8,210.0,Rock,Ground,50.0,50.0,50,Red,35,45,160,30,45,70,385,0,0,1,0,0,0,1,45,Medium Fast,1000000,Mineral,NULL,25
+96,Drowzee,NULL,NULL,1.0,32.4,Psychic,NULL,50.0,50.0,50,Red,60,48,45,43,90,42,328,0,0,0,0,1,0,1,190,Medium Fast,1000000,Human-Like,NULL,20
+97,Hypno,NULL,NULL,1.6,75.6,Psychic,NULL,50.0,50.0,50,Red,85,73,70,73,115,67,483,0,0,0,0,2,0,2,75,Medium Fast,1000000,Human-Like,NULL,20
+98,Krabby,NULL,NULL,0.4,6.5,Water,NULL,50.0,50.0,50,Red,30,105,90,25,25,50,325,0,1,0,0,0,0,1,225,Medium Fast,1000000,Water 3,NULL,20
+99,Kingler,NULL,NULL,1.3,60.0,Water,NULL,50.0,50.0,50,Red,55,130,115,50,50,75,475,0,2,0,0,0,0,2,60,Medium Fast,1000000,Water 3,NULL,20
+100,Voltorb,NULL,NULL,0.5,10.5,Electric,NULL,0.0,0.0,50,Red,40,30,50,55,55,100,330,0,0,0,0,0,1,1,190,Medium Fast,1000000,Mineral,NULL,20
+100,Voltorb,Hisui,NULL,0.5,13.0,Electric,Grass,0.0,0.0,50,Legends Arceus,40,30,50,55,55,100,330,0,0,0,0,0,1,1,235,Medium Fast,1000000,Mineral,NULL,20
+101,Electrode,NULL,NULL,1.2,66.6,Electric,NULL,0.0,0.0,50,Red,60,50,70,80,80,150,490,0,0,0,0,0,2,2,60,Medium Fast,1000000,Mineral,NULL,20
+101,Electrode,Hisui,NULL,1.2,71.0,Electric,Grass,0.0,0.0,50,Legends Arceus,60,50,70,80,80,150,490,0,0,0,0,0,2,2,135,Medium Fast,1000000,Mineral,NULL,20
+102,Exeggcute,NULL,NULL,0.4,2.5,Grass,Psychic,50.0,50.0,50,Red,60,40,80,60,45,40,325,0,0,1,0,0,0,1,90,Slow,1250000,Grass,NULL,20
+103,Exeggutor,NULL,NULL,2.0,120.0,Grass,Psychic,50.0,50.0,50,Red,95,95,85,125,75,55,530,0,0,0,2,0,0,2,45,Slow,1250000,Grass,NULL,20
+103,Exeggutor,NULL,NULL,2.0,120.0,Grass,Psychic,50.0,50.0,50,Red,95,95,85,125,75,55,530,0,0,0,2,0,0,2,45,Slow,1250000,Grass,NULL,20
+103,Exeggutor,NULL,NULL,2.0,120.0,Grass,Psychic,50.0,50.0,50,Red,95,95,85,125,75,55,530,0,0,0,2,0,0,2,45,Slow,1250000,Grass,NULL,20
+103,Exeggutor,Alola,NULL,10.9,415.6,Grass,Dragon,50.0,50.0,50,Sun,95,105,85,125,75,45,530,0,0,0,2,0,0,2,45,Slow,1250000,Grass,NULL,20
+103,Exeggutor,Alola,NULL,10.9,415.6,Grass,Dragon,50.0,50.0,50,Sun,95,105,85,125,75,45,530,0,0,0,2,0,0,2,45,Slow,1250000,Grass,NULL,20
+104,Cubone,NULL,NULL,0.4,6.5,Ground,NULL,50.0,50.0,50,Red,50,50,95,40,50,35,320,0,0,1,0,0,0,1,190,Medium Fast,1000000,Monster,NULL,20
+105,Marowak,NULL,NULL,1.0,45.0,Ground,NULL,50.0,50.0,50,Red,60,80,110,50,80,45,425,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,NULL,20
+105,Marowak,NULL,NULL,1.0,45.0,Ground,NULL,50.0,50.0,50,Red,60,80,110,50,80,45,425,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,NULL,20
+105,Marowak,NULL,NULL,1.0,45.0,Ground,NULL,50.0,50.0,50,Red,60,80,110,50,80,45,425,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,NULL,20
+105,Marowak,Alola,NULL,1.0,34.0,Ghost,Fire,50.0,50.0,50,Sun,60,80,110,50,80,45,425,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,NULL,20
+105,Marowak,Alola,NULL,1.0,34.0,Ghost,Fire,50.0,50.0,50,Sun,60,80,110,50,80,45,425,0,0,2,0,0,0,2,75,Medium Fast,1000000,Monster,NULL,20
+106,Hitmonlee,NULL,NULL,1.5,49.8,Fighting,NULL,100.0,0.0,50,Red,50,120,53,35,110,87,455,0,2,0,0,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+107,Hitmonchan,NULL,NULL,1.4,50.2,Fighting,NULL,100.0,0.0,50,Red,50,105,79,35,110,76,455,0,0,0,0,2,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+108,Lickitung,NULL,NULL,1.2,65.5,Normal,NULL,50.0,50.0,50,Red,90,55,75,60,75,30,385,2,0,0,0,0,0,2,45,Medium Fast,1000000,Monster,NULL,20
+109,Koffing,NULL,NULL,0.6,1.0,Poison,NULL,50.0,50.0,50,Red,40,65,95,60,45,35,340,0,0,1,0,0,0,1,190,Medium Fast,1000000,Amorphous,NULL,20
+110,Weezing,NULL,NULL,1.2,9.5,Poison,NULL,50.0,50.0,50,Red,65,90,120,85,70,60,490,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+110,Weezing,Galar,NULL,3.0,16.0,Poison,Fairy,50.0,50.0,50,Sword,65,90,120,85,70,60,490,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+111,Rhyhorn,NULL,NULL,1.0,115.0,Ground,Rock,50.0,50.0,50,Red,80,85,95,30,30,25,345,0,0,1,0,0,0,1,120,Slow,1250000,Monster,Field,20
+112,Rhydon,NULL,NULL,1.9,120.0,Ground,Rock,50.0,50.0,50,Red,105,130,120,45,45,40,485,0,2,0,0,0,0,2,60,Slow,1250000,Monster,Field,20
+113,Chansey,NULL,NULL,1.1,34.6,Normal,NULL,0.0,100.0,140,Red,250,5,5,35,105,50,450,2,0,0,0,0,0,2,30,Fast,800000,Fairy,NULL,40
+114,Tangela,NULL,NULL,1.0,35.0,Grass,NULL,50.0,50.0,50,Red,65,55,115,100,40,60,435,0,0,1,0,0,0,1,45,Medium Fast,1000000,Grass,NULL,20
+115,Kangaskhan,NULL,NULL,2.2,80.0,Normal,NULL,0.0,100.0,50,Red,105,95,80,40,80,90,490,2,0,0,0,0,0,2,45,Medium Fast,1000000,Monster,NULL,20
+115,Kangaskhan,Mega,NULL,2.2,100.0,Normal,NULL,0.0,100.0,70,X,105,125,100,60,100,100,590,2,0,0,0,0,0,2,45,Medium Fast,1000000,Monster,NULL,20
+116,Horsea,NULL,NULL,0.4,8.0,Water,NULL,50.0,50.0,50,Red,30,40,70,70,25,60,295,0,0,0,1,0,0,1,225,Medium Fast,1000000,Water 1,Dragon,20
+117,Seadra,NULL,NULL,1.2,25.0,Water,NULL,50.0,50.0,50,Red,55,65,95,95,45,85,440,0,0,1,1,0,0,2,75,Medium Fast,1000000,Water 1,Dragon,20
+118,Goldeen,NULL,NULL,0.6,15.0,Water,NULL,50.0,50.0,50,Red,45,67,60,35,50,63,320,0,1,0,0,0,0,1,225,Medium Fast,1000000,Water 2,NULL,20
+119,Seaking,NULL,NULL,1.3,39.0,Water,NULL,50.0,50.0,50,Red,80,92,65,65,80,68,450,0,2,0,0,0,0,2,60,Medium Fast,1000000,Water 2,NULL,20
+120,Staryu,NULL,NULL,0.8,34.5,Water,NULL,0.0,0.0,50,Red,30,45,55,70,55,85,340,0,0,0,0,0,1,1,225,Slow,1250000,Water 3,NULL,20
+121,Starmie,NULL,NULL,1.1,80.0,Water,Psychic,0.0,0.0,50,Red,60,75,85,100,85,115,520,0,0,0,0,0,2,2,60,Slow,1250000,Water 3,NULL,20
+122,Mr. Mime,NULL,NULL,1.3,54.5,Psychic,Fairy,50.0,50.0,50,Red,40,45,65,100,120,90,460,0,0,0,0,2,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+122,Mr. Mime,Galar,NULL,1.4,56.0,Ice,Psychic,50.0,50.0,50,Sword,50,65,65,90,90,100,460,0,0,0,0,2,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+123,Scyther,NULL,NULL,1.5,56.0,Bug,Flying,50.0,50.0,50,Red,70,110,80,55,80,105,500,0,1,0,0,0,0,1,45,Medium Fast,1000000,Bug,NULL,25
+124,Jynx,NULL,NULL,1.4,40.6,Ice,Psychic,0.0,100.0,50,Red,65,50,35,115,95,95,455,0,0,0,2,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+125,Electabuzz,NULL,NULL,1.1,30.0,Electric,NULL,75.0,25.0,50,Red,65,83,57,95,85,105,490,0,0,0,0,0,2,2,45,Medium Fast,1000000,Human-Like,NULL,25
+126,Magmar,NULL,NULL,1.3,44.5,Fire,NULL,75.0,25.0,50,Red,65,95,57,100,85,93,495,0,0,0,2,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+127,Pinsir,NULL,NULL,1.5,55.0,Bug,NULL,50.0,50.0,50,Red,65,125,100,55,70,85,500,0,2,0,0,0,0,2,45,Slow,1250000,Bug,NULL,25
+127,Pinsir,Mega,NULL,1.7,59.0,Bug,Flying,50.0,50.0,70,X,65,155,120,65,90,105,600,0,2,0,0,0,0,2,45,Slow,1250000,Bug,NULL,25
+128,Tauros,NULL,NULL,1.4,88.4,Normal,NULL,100.0,0.0,50,Red,75,100,95,40,70,110,490,0,1,0,0,0,1,2,45,Slow,1250000,Field,NULL,20
+128,Tauros,Paldean Combat Breed,NULL,1.4,115.0,Fighting,NULL,100.0,0.0,70,Scarlet,75,110,105,30,70,100,490,0,1,0,0,0,1,2,45,Slow,1250000,Field,NULL,20
+128,Tauros,Paldean Blaze Breed,NULL,1.4,85.0,Fighting,Fire,100.0,0.0,70,Scarlet,75,110,105,30,70,100,490,0,1,0,0,0,1,2,45,Slow,1250000,Field,NULL,20
+128,Tauros,Paldean Aqua Breed,NULL,1.4,110.0,Fighting,Water,100.0,0.0,70,Scarlet,75,110,105,30,70,100,490,0,1,0,0,0,1,2,45,Slow,1250000,Field,NULL,20
+129,Magikarp,NULL,NULL,0.9,10.0,Water,NULL,50.0,50.0,50,Red,20,10,55,15,20,80,200,0,0,0,0,0,1,1,255,Slow,1250000,Water 2,Dragon,5
+130,Gyarados,NULL,NULL,6.5,235.0,Water,Flying,50.0,50.0,50,Red,95,125,79,60,100,81,540,0,2,0,0,0,0,2,45,Slow,1250000,Water 2,Dragon,5
+130,Gyarados,Mega,NULL,6.5,305.0,Water,Dark,50.0,50.0,70,X,95,155,109,70,130,81,640,0,2,0,0,0,0,2,45,Slow,1250000,Water 2,Dragon,5
+131,Lapras,NULL,NULL,2.5,220.0,Water,Ice,50.0,50.0,50,Red,130,85,80,85,95,60,535,2,0,0,0,0,0,2,45,Slow,1250000,Monster,Water 1,40
+132,Ditto,NULL,NULL,0.3,4.0,Normal,NULL,0.0,0.0,50,Red,48,48,48,48,48,48,288,1,0,0,0,0,0,1,35,Medium Fast,1000000,Ditto,NULL,20
+133,Eevee,NULL,NULL,0.3,6.5,Normal,NULL,87.5,12.5,50,Red,55,55,50,45,65,55,325,0,0,0,0,1,0,1,45,Medium Fast,1000000,Field,NULL,35
+133,Eevee,Starter,NULL,0.3,6.5,Normal,NULL,87.5,12.5,70,Let's Go Pikachu,65,75,70,65,85,75,435,0,0,0,0,1,0,1,45,Medium Fast,1000000,Field,NULL,35
+134,Vaporeon,NULL,NULL,1.0,29.0,Water,NULL,87.5,12.5,50,Red,130,65,60,110,95,65,525,2,0,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+135,Jolteon,NULL,NULL,0.8,24.5,Electric,NULL,87.5,12.5,50,Red,65,65,60,110,95,130,525,0,0,0,0,0,2,2,45,Medium Fast,1000000,Field,NULL,35
+136,Flareon,NULL,NULL,0.9,25.0,Fire,NULL,87.5,12.5,50,Red,65,130,60,95,110,65,525,0,2,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+137,Porygon,NULL,NULL,0.8,36.5,Normal,NULL,0.0,0.0,50,Red,65,60,70,85,75,40,395,0,0,0,1,0,0,1,45,Medium Fast,1000000,Mineral,NULL,20
+138,Omanyte,NULL,NULL,0.4,7.5,Rock,Water,87.5,12.5,50,Red,35,40,100,90,55,35,355,0,0,1,0,0,0,1,45,Medium Fast,1000000,Water 1,Water 3,30
+139,Omastar,NULL,NULL,1.0,35.0,Rock,Water,87.5,12.5,50,Red,70,60,125,115,70,55,495,0,0,2,0,0,0,2,45,Medium Fast,1000000,Water 1,Water 3,30
+140,Kabuto,NULL,NULL,0.5,11.5,Rock,Water,87.5,12.5,50,Red,30,80,90,55,45,55,355,0,0,1,0,0,0,1,45,Medium Fast,1000000,Water 1,Water 3,30
+141,Kabutops,NULL,NULL,1.3,40.5,Rock,Water,87.5,12.5,50,Red,60,115,105,65,70,80,495,0,2,0,0,0,0,2,45,Medium Fast,1000000,Water 1,Water 3,30
+142,Aerodactyl,NULL,NULL,1.8,59.0,Rock,Flying,87.5,12.5,50,Red,80,105,65,60,75,130,515,0,0,0,0,0,2,2,45,Slow,1250000,Flying,NULL,35
+142,Aerodactyl,Mega,NULL,2.1,79.0,Rock,Flying,87.5,12.5,70,X,80,135,85,70,95,150,615,0,0,0,0,0,2,2,45,Slow,1250000,Flying,NULL,35
+143,Snorlax,NULL,NULL,2.1,460.0,Normal,NULL,87.5,12.5,50,Red,160,110,65,65,110,30,540,2,0,0,0,0,0,2,25,Slow,1250000,Monster,NULL,40
+144,Articuno,NULL,Sub-Legendary,1.7,55.4,Ice,Flying,0.0,0.0,35,Red,90,85,100,95,125,85,580,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+144,Articuno,Galar,Sub-Legendary,1.7,50.9,Psychic,Flying,0.0,0.0,35,Sword,90,85,85,125,100,95,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+145,Zapdos,NULL,Sub-Legendary,1.6,52.6,Electric,Flying,0.0,0.0,35,Red,90,90,85,125,90,100,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+145,Zapdos,Galar,Sub-Legendary,1.6,58.2,Fighting,Flying,0.0,0.0,35,Sword,90,125,90,85,90,100,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+146,Moltres,NULL,Sub-Legendary,2.0,60.0,Fire,Flying,0.0,0.0,35,Red,90,100,90,125,85,90,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+146,Moltres,Galar,Sub-Legendary,2.0,66.0,Dark,Flying,0.0,0.0,35,Sword,90,85,90,100,125,90,580,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+147,Dratini,NULL,NULL,1.8,3.3,Dragon,NULL,50.0,50.0,35,Red,41,64,45,50,50,50,300,0,1,0,0,0,0,1,45,Slow,1250000,Water 1,Dragon,40
+148,Dragonair,NULL,NULL,4.0,16.5,Dragon,NULL,50.0,50.0,35,Red,61,84,65,70,70,70,420,0,2,0,0,0,0,2,45,Slow,1250000,Water 1,Dragon,40
+149,Dragonite,NULL,NULL,2.2,210.0,Dragon,Flying,50.0,50.0,35,Red,91,134,95,100,100,80,600,0,3,0,0,0,0,3,45,Slow,1250000,Water 1,Dragon,40
+150,Mewtwo,NULL,Legendary,2.0,122.0,Psychic,NULL,0.0,0.0,0,Red,106,110,90,154,90,130,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+150,Mewtwo,Mega X,Legendary,2.3,127.0,Psychic,NULL,0.0,0.0,0,X,106,190,100,154,100,130,780,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+150,Mewtwo,Mega Y,Legendary,1.5,33.0,Psychic,NULL,0.0,0.0,0,X,106,150,70,194,120,140,780,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+151,Mew,NULL,Mythical,0.4,4.0,Psychic,NULL,0.0,0.0,100,Red,100,100,100,100,100,100,600,3,0,0,0,0,0,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,120
+152,Chikorita,NULL,NULL,0.9,6.4,Grass,NULL,87.5,12.5,50,Gold,45,49,65,49,65,45,318,0,0,0,0,1,0,1,45,Medium Slow,1059860,Monster,Grass,20
+153,Bayleef,NULL,NULL,1.2,15.8,Grass,NULL,87.5,12.5,50,Gold,60,62,80,63,80,60,405,0,0,1,0,1,0,2,45,Medium Slow,1059860,Monster,Grass,20
+154,Meganium,NULL,NULL,1.8,100.5,Grass,NULL,87.5,12.5,50,Gold,80,82,100,83,100,80,525,0,0,1,0,2,0,3,45,Medium Slow,1059860,Monster,Grass,20
+155,Cyndaquil,NULL,NULL,0.5,7.9,Fire,NULL,87.5,12.5,50,Gold,39,52,43,60,50,65,309,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,NULL,20
+156,Quilava,NULL,NULL,0.9,19.0,Fire,NULL,87.5,12.5,50,Gold,58,64,58,80,65,80,405,0,0,0,1,0,1,2,45,Medium Slow,1059860,Field,NULL,20
+157,Typhlosion,NULL,NULL,1.7,79.5,Fire,NULL,87.5,12.5,50,Gold,78,84,78,109,85,100,534,0,0,0,3,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+157,Typhlosion,Hisui,NULL,1.6,69.8,Fire,Ghost,87.5,12.5,50,Legends Arceus,73,84,78,119,85,95,534,0,0,0,3,0,0,3,55,Medium Slow,1059860,Field,NULL,20
+157,Typhlosion,Hisui,NULL,1.6,69.8,Fire,Ghost,87.5,12.5,50,Legends Arceus,73,84,78,119,85,95,534,0,0,0,3,0,0,3,55,Medium Slow,1059860,Field,NULL,20
+158,Totodile,NULL,NULL,0.6,9.5,Water,NULL,87.5,12.5,50,Gold,50,65,64,44,48,43,314,0,1,0,0,0,0,1,45,Medium Slow,1059860,Monster,Water 1,20
+159,Croconaw,NULL,NULL,1.1,25.0,Water,NULL,87.5,12.5,50,Gold,65,80,80,59,63,58,405,0,1,1,0,0,0,2,45,Medium Slow,1059860,Monster,Water 1,20
+160,Feraligatr,NULL,NULL,2.3,88.8,Water,NULL,87.5,12.5,50,Gold,85,105,100,79,83,78,530,0,2,1,0,0,0,3,45,Medium Slow,1059860,Monster,Water 1,20
+161,Sentret,NULL,NULL,0.8,6.0,Normal,NULL,50.0,50.0,50,Gold,35,46,34,35,45,20,215,0,1,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+162,Furret,NULL,NULL,1.8,32.5,Normal,NULL,50.0,50.0,50,Gold,85,76,64,45,55,90,415,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,15
+163,Hoothoot,NULL,NULL,0.7,21.2,Normal,Flying,50.0,50.0,50,Gold,60,30,30,36,56,50,262,1,0,0,0,0,0,1,255,Medium Fast,1000000,Flying,NULL,15
+164,Noctowl,NULL,NULL,1.6,40.8,Normal,Flying,50.0,50.0,50,Gold,100,50,50,86,96,70,452,2,0,0,0,0,0,2,90,Medium Fast,1000000,Flying,NULL,15
+165,Ledyba,NULL,NULL,1.0,10.8,Bug,Flying,50.0,50.0,50,Gold,40,20,30,40,80,55,265,0,0,0,0,1,0,1,255,Fast,800000,Bug,NULL,15
+166,Ledian,NULL,NULL,1.4,35.6,Bug,Flying,50.0,50.0,50,Gold,55,35,50,55,110,85,390,0,0,0,0,2,0,2,90,Fast,800000,Bug,NULL,15
+167,Spinarak,NULL,NULL,0.5,8.5,Bug,Poison,50.0,50.0,50,Gold,40,60,40,40,40,30,250,0,1,0,0,0,0,1,255,Fast,800000,Bug,NULL,15
+168,Ariados,NULL,NULL,1.1,33.5,Bug,Poison,50.0,50.0,50,Gold,70,90,70,60,70,40,400,0,2,0,0,0,0,2,90,Fast,800000,Bug,NULL,15
+169,Crobat,NULL,NULL,1.8,75.0,Poison,Flying,50.0,50.0,50,Gold,85,90,80,70,80,130,535,0,0,0,0,0,3,3,90,Medium Fast,1000000,Flying,NULL,15
+170,Chinchou,NULL,NULL,0.5,12.0,Water,Electric,50.0,50.0,50,Gold,75,38,38,56,56,67,330,1,0,0,0,0,0,1,190,Slow,1250000,Water 2,NULL,20
+171,Lanturn,NULL,NULL,1.2,22.5,Water,Electric,50.0,50.0,50,Gold,125,58,58,76,76,67,460,2,0,0,0,0,0,2,75,Slow,1250000,Water 2,NULL,20
+172,Pichu,NULL,NULL,0.3,2.0,Electric,NULL,50.0,50.0,50,Gold,20,40,15,35,35,60,205,0,0,0,0,0,1,1,190,Medium Fast,1000000,No Eggs Discovered,NULL,10
+173,Cleffa,NULL,NULL,0.3,3.0,Fairy,NULL,25.0,75.0,140,Gold,50,25,28,45,55,15,218,0,0,0,0,1,0,1,150,Fast,800000,No Eggs Discovered,NULL,10
+174,Igglybuff,NULL,NULL,0.3,1.0,Normal,Fairy,25.0,75.0,50,Gold,90,30,15,40,20,15,210,1,0,0,0,0,0,1,170,Fast,800000,No Eggs Discovered,NULL,10
+175,Togepi,NULL,NULL,0.3,1.5,Fairy,NULL,87.5,12.5,50,Gold,35,20,65,40,65,20,245,0,0,0,0,1,0,1,190,Fast,800000,No Eggs Discovered,NULL,10
+176,Togetic,NULL,NULL,0.6,3.2,Fairy,Flying,87.5,12.5,50,Gold,55,40,85,80,105,40,405,0,0,0,0,2,0,2,75,Fast,800000,Flying,Fairy,10
+177,Natu,NULL,NULL,0.2,2.0,Psychic,Flying,50.0,50.0,50,Gold,40,50,45,70,45,70,320,0,0,0,1,0,0,1,190,Medium Fast,1000000,Flying,NULL,20
+178,Xatu,NULL,NULL,1.5,15.0,Psychic,Flying,50.0,50.0,50,Gold,65,75,70,95,70,95,470,0,0,0,1,0,1,2,75,Medium Fast,1000000,Flying,NULL,20
+179,Mareep,NULL,NULL,0.6,7.8,Electric,NULL,50.0,50.0,50,Gold,55,40,40,65,45,35,280,0,0,0,1,0,0,1,235,Medium Slow,1059860,Monster,Field,20
+180,Flaaffy,NULL,NULL,0.8,13.3,Electric,NULL,50.0,50.0,50,Gold,70,55,55,80,60,45,365,0,0,0,2,0,0,2,120,Medium Slow,1059860,Monster,Field,20
+181,Ampharos,NULL,NULL,1.4,61.5,Electric,NULL,50.0,50.0,50,Gold,90,75,85,115,90,55,510,0,0,0,3,0,0,3,45,Medium Slow,1059860,Monster,Field,20
+181,Ampharos,Mega,NULL,1.4,61.5,Electric,Dragon,50.0,50.0,70,X,90,95,105,165,110,45,610,0,0,0,3,0,0,3,45,Medium Slow,1059860,Monster,Field,20
+182,Bellossom,NULL,NULL,0.4,5.8,Grass,NULL,50.0,50.0,50,Gold,75,80,95,90,100,50,490,0,0,0,0,3,0,3,45,Medium Slow,1059860,Grass,NULL,20
+183,Marill,NULL,NULL,0.4,8.5,Water,Fairy,50.0,50.0,50,Gold,70,20,50,20,50,40,250,2,0,0,0,0,0,2,190,Fast,800000,Water 1,Fairy,10
+184,Azumarill,NULL,NULL,0.8,28.5,Water,Fairy,50.0,50.0,50,Gold,100,50,80,60,80,50,420,3,0,0,0,0,0,3,75,Fast,800000,Water 1,Fairy,10
+185,Sudowoodo,NULL,NULL,1.2,38.0,Rock,NULL,50.0,50.0,50,Gold,70,110,115,30,65,30,420,0,0,2,0,0,0,2,65,Medium Fast,1000000,Mineral,NULL,20
+186,Politoed,NULL,NULL,1.1,33.9,Water,NULL,50.0,50.0,50,Gold,90,75,75,90,100,70,500,0,0,0,0,3,0,3,45,Medium Slow,1059860,Water 1,NULL,20
+187,Hoppip,NULL,NULL,0.4,0.5,Grass,Flying,50.0,50.0,50,Gold,35,35,40,35,55,50,250,0,0,0,0,1,0,1,255,Medium Slow,1059860,Fairy,Grass,20
+188,Skiploom,NULL,NULL,0.6,1.0,Grass,Flying,50.0,50.0,50,Gold,55,45,50,45,65,80,340,0,0,0,0,0,2,2,120,Medium Slow,1059860,Fairy,Grass,20
+189,Jumpluff,NULL,NULL,0.8,3.0,Grass,Flying,50.0,50.0,50,Gold,75,55,70,55,95,110,460,0,0,0,0,0,3,3,45,Medium Slow,1059860,Fairy,Grass,20
+190,Aipom,NULL,NULL,0.8,11.5,Normal,NULL,50.0,50.0,50,Gold,55,70,55,40,55,85,360,0,0,0,0,0,1,1,45,Fast,800000,Field,NULL,20
+191,Sunkern,NULL,NULL,0.3,1.8,Grass,NULL,50.0,50.0,50,Gold,30,30,30,30,30,30,180,0,0,0,1,0,0,1,235,Medium Slow,1059860,Grass,NULL,20
+192,Sunflora,NULL,NULL,0.8,8.5,Grass,NULL,50.0,50.0,50,Gold,75,75,55,105,85,30,425,0,0,0,2,0,0,2,120,Medium Slow,1059860,Grass,NULL,20
+193,Yanma,NULL,NULL,1.2,38.0,Bug,Flying,50.0,50.0,50,Gold,65,65,45,75,45,95,390,0,0,0,0,0,1,1,75,Medium Fast,1000000,Bug,NULL,20
+194,Wooper,NULL,NULL,0.4,8.5,Water,Ground,50.0,50.0,50,Gold,55,45,45,25,25,15,210,1,0,0,0,0,0,1,255,Medium Fast,1000000,Water 1,Field,20
+194,Wooper,Paldea,NULL,0.4,11.0,Poison,Ground,50.0,50.0,70,Scarlet,55,45,45,25,25,15,210,1,0,0,0,0,0,1,255,Medium Fast,1000000,Water 1,Field,20
+195,Quagsire,NULL,NULL,1.4,75.0,Water,Ground,50.0,50.0,50,Gold,95,85,85,65,65,35,430,2,0,0,0,0,0,2,90,Medium Fast,1000000,Water 1,Field,20
+196,Espeon,NULL,NULL,0.9,26.5,Psychic,NULL,87.5,12.5,50,Gold,65,65,60,130,95,110,525,0,0,0,2,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+197,Umbreon,NULL,NULL,1.0,27.0,Dark,NULL,87.5,12.5,35,Gold,95,65,110,60,130,65,525,0,0,0,0,2,0,2,45,Medium Fast,1000000,Field,NULL,35
+198,Murkrow,NULL,NULL,0.5,2.1,Dark,Flying,50.0,50.0,35,Gold,60,85,42,85,42,91,405,0,0,0,0,0,1,1,30,Medium Slow,1059860,Flying,NULL,20
+199,Slowking,NULL,NULL,2.0,79.5,Water,Psychic,50.0,50.0,50,Gold,95,75,80,100,110,30,490,0,0,0,0,3,0,3,70,Medium Fast,1000000,Monster,Water 1,20
+199,Slowking,Galar,NULL,1.8,79.5,Poison,Psychic,50.0,50.0,50,Sword,95,65,80,110,110,30,490,0,0,0,0,2,0,2,70,Medium Fast,1000000,Monster,Water 1,20
+200,Misdreavus,NULL,NULL,0.7,1.0,Ghost,NULL,50.0,50.0,35,Gold,60,60,60,85,85,85,435,0,0,0,0,1,0,1,45,Fast,800000,Amorphous,NULL,25
+201,Unown,NULL,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,A,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,B,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,C,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,D,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,E,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,G,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,H,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,I,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,J,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,K,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,L,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,M,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,N,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,O,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,P,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,Q,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,R,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,S,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,T,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,U,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,V,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,W,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,X,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,Y,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,Z,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Gold,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,!,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Ruby,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+201,Unown,?,NULL,0.5,5.0,Psychic,NULL,0.0,0.0,50,Ruby,48,72,48,72,48,48,336,0,1,0,1,0,0,2,225,Medium Fast,1000000,No Eggs Discovered,NULL,40
+202,Wobbuffet,NULL,NULL,1.3,28.5,Psychic,NULL,50.0,50.0,50,Gold,190,33,58,33,58,33,405,2,0,0,0,0,0,2,45,Medium Fast,1000000,Amorphous,NULL,20
+203,Girafarig,NULL,NULL,1.5,41.5,Normal,Psychic,50.0,50.0,50,Gold,70,80,65,90,65,85,455,0,0,0,2,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+204,Pineco,NULL,NULL,0.6,7.2,Bug,NULL,50.0,50.0,50,Gold,50,65,90,35,35,15,290,0,0,1,0,0,0,1,190,Medium Fast,1000000,Bug,NULL,20
+205,Forretress,NULL,NULL,1.2,125.8,Bug,Steel,50.0,50.0,50,Gold,75,90,140,60,60,40,465,0,0,2,0,0,0,2,75,Medium Fast,1000000,Bug,NULL,20
+206,Dunsparce,NULL,NULL,1.5,14.0,Normal,NULL,50.0,50.0,50,Gold,100,70,70,65,65,45,415,1,0,0,0,0,0,1,190,Medium Fast,1000000,Field,NULL,20
+207,Gligar,NULL,NULL,1.1,64.8,Ground,Flying,50.0,50.0,50,Gold,65,75,105,35,65,85,430,0,0,1,0,0,0,1,60,Medium Slow,1059860,Bug,NULL,20
+208,Steelix,NULL,NULL,9.2,400.0,Steel,Ground,50.0,50.0,50,Gold,75,85,200,55,65,30,510,0,0,2,0,0,0,2,25,Medium Fast,1000000,Mineral,NULL,25
+208,Steelix,Mega,NULL,10.5,740.0,Steel,Ground,50.0,50.0,70,Omega Ruby,75,125,230,55,95,30,610,0,0,2,0,0,0,2,25,Medium Fast,1000000,Mineral,NULL,25
+209,Snubbull,NULL,NULL,0.6,7.8,Fairy,NULL,25.0,75.0,50,Gold,60,80,50,40,40,30,300,0,1,0,0,0,0,1,190,Fast,800000,Field,Fairy,20
+210,Granbull,NULL,NULL,1.4,48.7,Fairy,NULL,25.0,75.0,50,Gold,90,120,75,60,60,45,450,0,2,0,0,0,0,2,75,Fast,800000,Field,Fairy,20
+211,Qwilfish,NULL,NULL,0.5,3.9,Water,Poison,50.0,50.0,50,Gold,65,95,85,55,55,85,440,0,1,0,0,0,0,1,45,Medium Fast,1000000,Water 2,NULL,20
+211,Qwilfish,Hisui,NULL,0.5,3.9,Dark,Poison,50.0,50.0,50,Legends Arceus,65,95,85,55,55,85,440,0,1,0,0,0,0,1,235,Medium Fast,1000000,Water 2,NULL,20
+212,Scizor,NULL,NULL,1.8,118.0,Bug,Steel,50.0,50.0,50,Gold,70,130,100,55,80,65,500,0,2,0,0,0,0,2,25,Medium Fast,1000000,Bug,NULL,25
+212,Scizor,Mega,NULL,2.0,125.0,Bug,Steel,50.0,50.0,70,X,70,150,140,65,100,75,600,0,2,0,0,0,0,2,25,Medium Fast,1000000,Bug,NULL,25
+213,Shuckle,NULL,NULL,0.6,20.5,Bug,Rock,50.0,50.0,50,Gold,20,10,230,10,230,5,505,0,0,1,0,1,0,2,190,Medium Slow,1059860,Bug,NULL,20
+214,Heracross,NULL,NULL,1.5,54.0,Bug,Fighting,50.0,50.0,50,Gold,80,125,75,40,95,85,500,0,2,0,0,0,0,2,45,Slow,1250000,Bug,NULL,25
+214,Heracross,Mega,NULL,1.7,62.5,Bug,Fighting,50.0,50.0,70,X,80,185,115,40,105,75,600,0,2,0,0,0,0,2,45,Slow,1250000,Bug,NULL,25
+215,Sneasel,NULL,NULL,0.9,28.0,Dark,Ice,50.0,50.0,35,Gold,55,95,55,35,75,115,430,0,0,0,0,0,1,1,60,Medium Slow,1059860,Field,NULL,20
+215,Sneasel,Hisui,NULL,0.9,27.0,Fighting,Poison,50.0,50.0,35,Legends Arceus,55,95,55,35,75,115,430,0,0,0,0,0,1,1,235,Medium Slow,1059860,Field,NULL,20
+216,Teddiursa,NULL,NULL,0.6,8.8,Normal,NULL,50.0,50.0,50,Gold,60,80,50,50,50,40,330,0,1,0,0,0,0,1,120,Medium Fast,1000000,Field,NULL,20
+217,Ursaring,NULL,NULL,1.8,125.8,Normal,NULL,50.0,50.0,50,Gold,90,130,75,75,75,55,500,0,2,0,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+218,Slugma,NULL,NULL,0.7,35.0,Fire,NULL,50.0,50.0,50,Gold,40,40,40,70,40,20,250,0,0,0,1,0,0,1,190,Medium Fast,1000000,Amorphous,NULL,20
+219,Magcargo,NULL,NULL,0.8,55.0,Fire,Rock,50.0,50.0,50,Gold,60,50,120,90,80,30,430,0,0,2,0,0,0,2,75,Medium Fast,1000000,Amorphous,NULL,20
+220,Swinub,NULL,NULL,0.4,6.5,Ice,Ground,50.0,50.0,50,Gold,50,50,40,30,30,50,250,0,1,0,0,0,0,1,225,Slow,1250000,Field,NULL,20
+221,Piloswine,NULL,NULL,1.1,55.8,Ice,Ground,50.0,50.0,50,Gold,100,100,80,60,60,50,450,1,1,0,0,0,0,2,75,Slow,1250000,Field,NULL,20
+222,Corsola,NULL,NULL,0.6,5.0,Water,Rock,25.0,75.0,50,Gold,65,55,95,65,95,35,410,0,0,1,0,1,0,2,60,Fast,800000,Water 1,Water 3,20
+222,Corsola,Galar,NULL,0.6,0.5,Ghost,NULL,25.0,75.0,50,Sword,60,55,100,65,100,30,410,0,0,1,0,1,0,2,60,Fast,800000,Water 1,Water 3,20
+223,Remoraid,NULL,NULL,0.6,12.0,Water,NULL,50.0,50.0,50,Gold,35,65,35,65,35,65,300,0,0,0,1,0,0,1,190,Medium Fast,1000000,Water 1,Water 2,20
+224,Octillery,NULL,NULL,0.9,28.5,Water,NULL,50.0,50.0,50,Gold,75,105,75,105,75,45,480,0,1,0,1,0,0,2,75,Medium Fast,1000000,Water 1,Water 2,20
+225,Delibird,NULL,NULL,0.9,16.0,Ice,Flying,50.0,50.0,50,Gold,45,55,45,65,45,75,330,0,0,0,0,0,1,1,45,Fast,800000,Water 1,Field,20
+226,Mantine,NULL,NULL,2.1,220.0,Water,Flying,50.0,50.0,50,Gold,85,40,70,80,140,70,485,0,0,0,0,2,0,2,25,Slow,1250000,Water 1,NULL,25
+227,Skarmory,NULL,NULL,1.7,50.5,Steel,Flying,50.0,50.0,50,Gold,65,80,140,40,70,70,465,0,0,2,0,0,0,2,25,Slow,1250000,Flying,NULL,25
+228,Houndour,NULL,NULL,0.6,10.8,Dark,Fire,50.0,50.0,35,Gold,45,60,30,80,50,65,330,0,0,0,1,0,0,1,120,Slow,1250000,Field,NULL,20
+229,Houndoom,NULL,NULL,1.4,35.0,Dark,Fire,50.0,50.0,35,Gold,75,90,50,110,80,95,500,0,0,0,2,0,0,2,45,Slow,1250000,Field,NULL,20
+229,Houndoom,Mega,NULL,1.9,49.5,Dark,Fire,50.0,50.0,35,X,75,90,90,140,90,115,600,0,0,0,2,0,0,2,45,Slow,1250000,Field,NULL,20
+230,Kingdra,NULL,NULL,1.8,152.0,Water,Dragon,50.0,50.0,50,Gold,75,95,95,95,95,85,540,0,1,0,1,1,0,3,45,Medium Fast,1000000,Water 1,Dragon,20
+231,Phanpy,NULL,NULL,0.5,33.5,Ground,NULL,50.0,50.0,50,Gold,90,60,60,40,40,40,330,1,0,0,0,0,0,1,120,Medium Fast,1000000,Field,NULL,20
+232,Donphan,NULL,NULL,1.1,120.0,Ground,NULL,50.0,50.0,50,Gold,90,120,120,60,60,50,500,0,1,1,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+233,Porygon2,NULL,NULL,0.6,32.5,Normal,NULL,0.0,0.0,50,Gold,85,80,90,105,95,60,515,0,0,0,2,0,0,2,45,Medium Fast,1000000,Mineral,NULL,20
+234,Stantler,NULL,NULL,1.4,71.2,Normal,NULL,50.0,50.0,50,Gold,73,95,62,85,65,85,465,0,1,0,0,0,0,1,45,Slow,1250000,Field,NULL,20
+235,Smeargle,NULL,NULL,1.2,58.0,Normal,NULL,50.0,50.0,50,Gold,55,20,35,20,45,75,250,0,0,0,0,0,1,1,45,Fast,800000,Field,NULL,20
+236,Tyrogue,NULL,NULL,0.7,21.0,Fighting,NULL,100.0,0.0,50,Gold,35,35,35,35,35,35,210,0,1,0,0,0,0,1,75,Medium Fast,1000000,No Eggs Discovered,NULL,25
+237,Hitmontop,NULL,NULL,1.4,48.0,Fighting,NULL,100.0,0.0,50,Gold,50,95,95,35,110,70,455,0,0,0,0,2,0,2,45,Medium Fast,1000000,Human-Like,NULL,25
+238,Smoochum,NULL,NULL,0.4,6.0,Ice,Psychic,0.0,100.0,50,Gold,45,30,15,85,65,65,305,0,0,0,1,0,0,1,45,Medium Fast,1000000,No Eggs Discovered,NULL,25
+239,Elekid,NULL,NULL,0.6,23.5,Electric,NULL,75.0,25.0,50,Gold,45,63,37,65,55,95,360,0,0,0,0,0,1,1,45,Medium Fast,1000000,No Eggs Discovered,NULL,25
+240,Magby,NULL,NULL,0.7,21.4,Fire,NULL,75.0,25.0,50,Gold,45,75,37,70,55,83,365,0,0,0,0,0,1,1,45,Medium Fast,1000000,No Eggs Discovered,NULL,25
+241,Miltank,NULL,NULL,1.2,75.5,Normal,NULL,0.0,100.0,50,Gold,95,80,105,40,70,100,490,0,0,2,0,0,0,2,45,Slow,1250000,Field,NULL,20
+242,Blissey,NULL,NULL,1.5,46.8,Normal,NULL,0.0,100.0,140,Gold,255,10,10,75,135,55,540,3,0,0,0,0,0,3,30,Fast,800000,Fairy,NULL,40
+243,Raikou,NULL,Sub-Legendary,1.9,178.0,Electric,NULL,0.0,0.0,35,Gold,90,85,75,115,100,115,580,0,0,0,1,0,2,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+244,Entei,NULL,Sub-Legendary,2.1,198.0,Fire,NULL,0.0,0.0,35,Gold,115,115,85,90,75,100,580,1,2,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+245,Suicune,NULL,Sub-Legendary,2.0,187.0,Water,NULL,0.0,0.0,35,Gold,100,75,115,90,115,85,580,0,0,1,0,2,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+246,Larvitar,NULL,NULL,0.6,72.0,Rock,Ground,50.0,50.0,35,Gold,50,64,50,45,50,41,300,0,1,0,0,0,0,1,45,Slow,1250000,Monster,NULL,40
+247,Pupitar,NULL,NULL,1.2,152.0,Rock,Ground,50.0,50.0,35,Gold,70,84,70,65,70,51,410,0,2,0,0,0,0,2,45,Slow,1250000,Monster,NULL,40
+248,Tyranitar,NULL,NULL,2.0,202.0,Rock,Dark,50.0,50.0,35,Gold,100,134,110,95,100,61,600,0,3,0,0,0,0,3,45,Slow,1250000,Monster,NULL,40
+248,Tyranitar,Mega,NULL,2.5,255.0,Rock,Dark,50.0,50.0,35,X,100,164,150,95,120,71,700,0,3,0,0,0,0,3,45,Slow,1250000,Monster,NULL,40
+249,Lugia,NULL,Legendary,5.2,216.0,Psychic,Flying,0.0,0.0,0,Gold,106,90,130,90,154,110,680,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+250,Ho-Oh,NULL,Legendary,3.8,199.0,Fire,Flying,0.0,0.0,0,Gold,106,130,90,110,154,90,680,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+251,Celebi,NULL,Mythical,0.6,5.0,Psychic,Grass,0.0,0.0,100,Gold,100,100,100,100,100,100,600,3,0,0,0,0,0,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,120
+252,Treecko,NULL,NULL,0.5,5.0,Grass,NULL,87.5,12.5,50,Ruby,40,45,35,65,55,70,310,0,0,0,0,0,1,1,45,Medium Slow,1059860,Monster,Dragon,20
+253,Grovyle,NULL,NULL,0.9,21.6,Grass,NULL,87.5,12.5,50,Ruby,50,65,45,85,65,95,405,0,0,0,0,0,2,2,45,Medium Slow,1059860,Monster,Dragon,20
+254,Sceptile,NULL,NULL,1.7,52.2,Grass,NULL,87.5,12.5,50,Ruby,70,85,65,105,85,120,530,0,0,0,0,0,3,3,45,Medium Slow,1059860,Monster,Dragon,20
+254,Sceptile,Mega,NULL,1.9,55.2,Grass,Dragon,87.5,12.5,70,Omega Ruby,70,110,75,145,85,145,630,0,0,0,0,0,3,3,45,Medium Slow,1059860,Monster,Dragon,20
+255,Torchic,NULL,NULL,0.4,2.5,Fire,NULL,87.5,12.5,50,Ruby,45,60,40,70,50,45,310,0,0,0,1,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+256,Combusken,NULL,NULL,0.9,19.5,Fire,Fighting,87.5,12.5,50,Ruby,60,85,60,85,60,55,405,0,1,0,1,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+257,Blaziken,NULL,NULL,1.9,52.0,Fire,Fighting,87.5,12.5,50,Ruby,80,120,70,110,70,80,530,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+257,Blaziken,Mega,NULL,1.9,52.0,Fire,Fighting,87.5,12.5,70,X,80,160,80,130,80,100,630,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+258,Mudkip,NULL,NULL,0.4,7.6,Water,NULL,87.5,12.5,50,Ruby,50,70,50,50,50,40,310,0,1,0,0,0,0,1,45,Medium Slow,1059860,Monster,Water 1,20
+259,Marshtomp,NULL,NULL,0.7,28.0,Water,Ground,87.5,12.5,50,Ruby,70,85,70,60,70,50,405,0,2,0,0,0,0,2,45,Medium Slow,1059860,Monster,Water 1,20
+260,Swampert,NULL,NULL,1.5,81.9,Water,Ground,87.5,12.5,50,Ruby,100,110,90,85,90,60,535,0,3,0,0,0,0,3,45,Medium Slow,1059860,Monster,Water 1,20
+260,Swampert,Mega,NULL,1.9,102.0,Water,Ground,87.5,12.5,70,Omega Ruby,100,150,110,95,110,70,635,0,3,0,0,0,0,3,45,Medium Slow,1059860,Monster,Water 1,20
+261,Poochyena,NULL,NULL,0.5,13.6,Dark,NULL,50.0,50.0,50,Ruby,35,55,35,30,30,35,220,0,1,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+262,Mightyena,NULL,NULL,1.0,37.0,Dark,NULL,50.0,50.0,50,Ruby,70,90,70,60,60,70,420,0,2,0,0,0,0,2,127,Medium Fast,1000000,Field,NULL,15
+263,Zigzagoon,NULL,NULL,0.4,17.5,Normal,NULL,50.0,50.0,50,Ruby,38,30,41,30,41,60,240,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,15
+263,Zigzagoon,Galar,NULL,0.4,17.5,Dark,Normal,50.0,50.0,50,Sword,38,30,41,30,41,60,240,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,15
+264,Linoone,NULL,NULL,0.5,32.5,Normal,NULL,50.0,50.0,50,Ruby,78,70,61,50,61,100,420,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,15
+264,Linoone,Galar,NULL,0.5,32.5,Dark,Normal,50.0,50.0,50,Sword,78,70,61,50,61,100,420,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,15
+265,Wurmple,NULL,NULL,0.3,3.6,Bug,NULL,50.0,50.0,50,Ruby,45,45,35,20,30,20,195,1,0,0,0,0,0,1,255,Medium Fast,1000000,Bug,NULL,15
+266,Silcoon,NULL,NULL,0.6,10.0,Bug,NULL,50.0,50.0,50,Ruby,50,35,55,25,25,15,205,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+267,Beautifly,NULL,NULL,1.0,28.4,Bug,Flying,50.0,50.0,50,Ruby,60,70,50,100,50,65,395,0,0,0,3,0,0,3,45,Medium Fast,1000000,Bug,NULL,15
+268,Cascoon,NULL,NULL,0.7,11.5,Bug,NULL,50.0,50.0,50,Ruby,50,35,55,25,25,15,205,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+269,Dustox,NULL,NULL,1.2,31.6,Bug,Poison,50.0,50.0,50,Ruby,60,50,70,50,90,65,385,0,0,0,0,3,0,3,45,Medium Fast,1000000,Bug,NULL,15
+270,Lotad,NULL,NULL,0.5,2.6,Water,Grass,50.0,50.0,50,Ruby,40,30,30,40,50,30,220,0,0,0,0,1,0,1,255,Medium Slow,1059860,Water 1,Grass,15
+271,Lombre,NULL,NULL,1.2,32.5,Water,Grass,50.0,50.0,50,Ruby,60,50,50,60,70,50,340,0,0,0,0,2,0,2,120,Medium Slow,1059860,Water 1,Grass,15
+272,Ludicolo,NULL,NULL,1.5,55.0,Water,Grass,50.0,50.0,50,Ruby,80,70,70,90,100,70,480,0,0,0,0,3,0,3,45,Medium Slow,1059860,Water 1,Grass,15
+273,Seedot,NULL,NULL,0.5,4.0,Grass,NULL,50.0,50.0,50,Ruby,40,40,50,30,30,30,220,0,0,1,0,0,0,1,255,Medium Slow,1059860,Field,Grass,15
+274,Nuzleaf,NULL,NULL,1.0,28.0,Grass,Dark,50.0,50.0,50,Ruby,70,70,40,60,40,60,340,0,2,0,0,0,0,2,120,Medium Slow,1059860,Field,Grass,15
+275,Shiftry,NULL,NULL,1.3,59.6,Grass,Dark,50.0,50.0,50,Ruby,90,100,60,90,60,80,480,0,3,0,0,0,0,3,45,Medium Slow,1059860,Fairy,Grass,15
+276,Taillow,NULL,NULL,0.3,2.3,Normal,Flying,50.0,50.0,50,Ruby,40,55,30,30,30,85,270,0,0,0,0,0,1,1,200,Medium Slow,1059860,Flying,NULL,15
+277,Swellow,NULL,NULL,0.7,19.8,Normal,Flying,50.0,50.0,50,Ruby,60,85,60,75,50,125,455,0,0,0,0,0,2,2,45,Medium Slow,1059860,Flying,NULL,15
+278,Wingull,NULL,NULL,0.6,9.5,Water,Flying,50.0,50.0,50,Ruby,40,30,30,55,30,85,270,0,0,0,0,0,1,1,190,Medium Fast,1000000,Water 1,Flying,20
+279,Pelipper,NULL,NULL,1.2,28.0,Water,Flying,50.0,50.0,50,Ruby,60,50,100,95,70,65,440,0,0,2,0,0,0,2,45,Medium Fast,1000000,Water 1,Flying,20
+280,Ralts,NULL,NULL,0.4,6.6,Psychic,Fairy,50.0,50.0,35,Ruby,28,25,25,45,35,40,198,0,0,0,1,0,0,1,235,Slow,1250000,Human-Like,Amorphous,20
+281,Kirlia,NULL,NULL,0.8,20.2,Psychic,Fairy,50.0,50.0,35,Ruby,38,35,35,65,55,50,278,0,0,0,2,0,0,2,120,Slow,1250000,Human-Like,Amorphous,20
+282,Gardevoir,NULL,NULL,1.6,48.4,Psychic,Fairy,50.0,50.0,35,Ruby,68,65,65,125,115,80,518,0,0,0,3,0,0,3,45,Slow,1250000,Human-Like,Amorphous,20
+282,Gardevoir,Mega,NULL,1.6,48.4,Psychic,Fairy,50.0,50.0,35,X,68,85,65,165,135,100,618,0,0,0,3,0,0,3,45,Slow,1250000,Amorphous,NULL,20
+283,Surskit,NULL,NULL,0.5,1.7,Bug,Water,50.0,50.0,50,Ruby,40,30,32,50,52,65,269,0,0,0,0,0,1,1,200,Medium Fast,1000000,Water 1,Bug,15
+284,Masquerain,NULL,NULL,0.8,3.6,Bug,Flying,50.0,50.0,50,Ruby,70,60,62,100,82,80,454,0,0,0,1,1,0,2,75,Medium Fast,1000000,Water 1,Bug,15
+285,Shroomish,NULL,NULL,0.4,4.5,Grass,NULL,50.0,50.0,50,Ruby,60,40,60,40,60,35,295,1,0,0,0,0,0,1,255,Fluctuating,1640000,Fairy,Grass,15
+286,Breloom,NULL,NULL,1.2,39.2,Grass,Fighting,50.0,50.0,50,Ruby,60,130,80,60,60,70,460,0,2,0,0,0,0,2,90,Fluctuating,1640000,Fairy,Grass,15
+287,Slakoth,NULL,NULL,0.8,24.0,Normal,NULL,50.0,50.0,50,Ruby,60,60,60,35,35,30,280,1,0,0,0,0,0,1,255,Slow,1250000,Field,NULL,15
+288,Vigoroth,NULL,NULL,1.4,46.5,Normal,NULL,50.0,50.0,50,Ruby,80,80,80,55,55,90,440,0,0,0,0,0,2,2,120,Slow,1250000,Field,NULL,15
+289,Slaking,NULL,NULL,2.0,130.5,Normal,NULL,50.0,50.0,50,Ruby,150,160,100,95,65,100,670,3,0,0,0,0,0,3,45,Slow,1250000,Field,NULL,15
+290,Nincada,NULL,NULL,0.5,5.5,Bug,Ground,50.0,50.0,50,Ruby,31,45,90,30,30,40,266,0,0,1,0,0,0,1,255,Erratic,600000,Bug,NULL,15
+291,Ninjask,NULL,NULL,0.8,12.0,Bug,Flying,50.0,50.0,50,Ruby,61,90,45,50,50,160,456,0,0,0,0,0,2,2,120,Erratic,600000,Bug,NULL,15
+292,Shedinja,NULL,NULL,0.8,1.2,Bug,Ghost,0.0,0.0,50,Ruby,1,90,45,30,30,40,236,2,0,0,0,0,0,2,45,Erratic,600000,Mineral,NULL,15
+293,Whismur,NULL,NULL,0.6,16.3,Normal,NULL,50.0,50.0,50,Ruby,64,51,23,51,23,28,240,1,0,0,0,0,0,1,190,Medium Slow,1059860,Monster,Field,20
+294,Loudred,NULL,NULL,1.0,40.5,Normal,NULL,50.0,50.0,50,Ruby,84,71,43,71,43,48,360,2,0,0,0,0,0,2,120,Medium Slow,1059860,Monster,Field,20
+295,Exploud,NULL,NULL,1.5,84.0,Normal,NULL,50.0,50.0,50,Ruby,104,91,63,91,73,68,490,3,0,0,0,0,0,3,45,Medium Slow,1059860,Monster,Field,20
+296,Makuhita,NULL,NULL,1.0,86.4,Fighting,NULL,75.0,25.0,50,Ruby,72,60,30,20,30,25,237,1,0,0,0,0,0,1,180,Fluctuating,1640000,Human-Like,NULL,20
+297,Hariyama,NULL,NULL,2.3,253.8,Fighting,NULL,75.0,25.0,50,Ruby,144,120,60,40,60,50,474,2,0,0,0,0,0,2,200,Fluctuating,1640000,Human-Like,NULL,20
+298,Azurill,NULL,NULL,0.2,2.0,Normal,Fairy,25.0,75.0,50,Ruby,50,20,40,20,40,20,190,1,0,0,0,0,0,1,150,Fast,800000,No Eggs Discovered,NULL,10
+299,Nosepass,NULL,NULL,1.0,97.0,Rock,NULL,50.0,50.0,50,Ruby,30,45,135,45,90,30,375,0,0,1,0,0,0,1,255,Medium Fast,1000000,Mineral,NULL,20
+300,Skitty,NULL,NULL,0.6,11.0,Normal,NULL,25.0,75.0,50,Ruby,50,45,45,35,35,50,260,0,0,0,0,0,1,1,255,Fast,800000,Field,Fairy,15
+301,Delcatty,NULL,NULL,1.1,32.6,Normal,NULL,25.0,75.0,50,Ruby,70,65,65,55,55,90,400,1,0,0,0,0,1,2,60,Fast,800000,Field,Fairy,15
+302,Sableye,NULL,NULL,0.5,11.0,Dark,Ghost,50.0,50.0,35,Ruby,50,75,75,65,65,50,380,0,1,1,0,0,0,2,45,Medium Slow,1059860,Human-Like,NULL,25
+302,Sableye,Mega,NULL,0.5,161.0,Dark,Ghost,50.0,50.0,35,Omega Ruby,50,85,125,85,115,20,480,0,1,1,0,0,0,2,45,Medium Slow,1059860,Human-Like,NULL,25
+303,Mawile,NULL,NULL,0.6,11.5,Steel,Fairy,50.0,50.0,50,Ruby,50,85,85,55,55,50,380,0,1,1,0,0,0,2,45,Fast,800000,Field,Fairy,20
+303,Mawile,Mega,NULL,1.0,23.5,Steel,Fairy,50.0,50.0,70,X,50,105,125,55,95,50,480,0,1,1,0,0,0,2,45,Fast,800000,Field,Fairy,20
+304,Aron,NULL,NULL,0.4,60.0,Steel,Rock,50.0,50.0,35,Ruby,50,70,100,40,40,30,330,0,0,1,0,0,0,1,180,Slow,1250000,Monster,NULL,35
+305,Lairon,NULL,NULL,0.9,120.0,Steel,Rock,50.0,50.0,35,Ruby,60,90,140,50,50,40,430,0,0,2,0,0,0,2,90,Slow,1250000,Monster,NULL,35
+306,Aggron,NULL,NULL,2.1,360.0,Steel,Rock,50.0,50.0,35,Ruby,70,110,180,60,60,50,530,0,0,3,0,0,0,3,45,Slow,1250000,Monster,NULL,35
+306,Aggron,Mega,NULL,2.2,395.0,Steel,NULL,50.0,50.0,35,X,70,140,230,60,80,50,630,0,0,3,0,0,0,3,45,Slow,1250000,Monster,NULL,35
+307,Meditite,NULL,NULL,0.6,11.2,Fighting,Psychic,50.0,50.0,50,Ruby,30,40,55,40,55,60,280,0,0,0,0,0,1,1,180,Medium Fast,1000000,Human-Like,NULL,20
+308,Medicham,NULL,NULL,1.3,31.5,Fighting,Psychic,50.0,50.0,50,Ruby,60,60,75,60,75,80,410,0,0,0,0,0,2,2,90,Medium Fast,1000000,Human-Like,NULL,20
+308,Medicham,Mega,NULL,1.3,31.5,Fighting,Psychic,50.0,50.0,70,X,60,100,85,80,85,100,510,0,0,0,0,0,2,2,90,Medium Fast,1000000,Human-Like,NULL,20
+309,Electrike,NULL,NULL,0.6,15.2,Electric,NULL,50.0,50.0,50,Ruby,40,45,40,65,40,65,295,0,0,0,0,0,1,1,120,Slow,1250000,Field,NULL,20
+310,Manectric,NULL,NULL,1.5,40.2,Electric,NULL,50.0,50.0,50,Ruby,70,75,60,105,60,105,475,0,0,0,0,0,2,2,45,Slow,1250000,Field,NULL,20
+310,Manectric,Mega,NULL,1.8,44.0,Electric,NULL,50.0,50.0,70,X,70,75,80,135,80,135,575,0,0,0,0,0,2,2,45,Slow,1250000,Field,NULL,20
+311,Plusle,NULL,NULL,0.4,4.2,Electric,NULL,50.0,50.0,50,Ruby,60,50,40,85,75,95,405,0,0,0,0,0,1,1,200,Medium Fast,1000000,Fairy,NULL,20
+312,Minun,NULL,NULL,0.4,4.2,Electric,NULL,50.0,50.0,50,Ruby,60,40,50,75,85,95,405,0,0,0,0,0,1,1,200,Medium Fast,1000000,Fairy,NULL,20
+313,Volbeat,NULL,NULL,0.7,17.7,Bug,NULL,100.0,0.0,50,Ruby,65,73,75,47,85,85,430,0,0,0,0,0,1,1,150,Erratic,600000,Bug,Human-Like,15
+314,Illumise,NULL,NULL,0.6,17.7,Bug,NULL,0.0,100.0,50,Ruby,65,47,75,73,85,85,430,0,0,0,0,0,1,1,150,Fluctuating,1640000,Bug,Human-Like,15
+315,Roselia,NULL,NULL,0.3,2.0,Grass,Poison,50.0,50.0,50,Ruby,50,60,45,100,80,65,400,0,0,0,2,0,0,2,150,Medium Slow,1059860,Fairy,Grass,20
+316,Gulpin,NULL,NULL,0.4,10.3,Poison,NULL,50.0,50.0,50,Ruby,70,43,53,43,53,40,302,1,0,0,0,0,0,1,225,Fluctuating,1640000,Amorphous,NULL,20
+317,Swalot,NULL,NULL,1.7,80.0,Poison,NULL,50.0,50.0,50,Ruby,100,73,83,73,83,55,467,2,0,0,0,0,0,2,75,Fluctuating,1640000,Amorphous,NULL,20
+318,Carvanha,NULL,NULL,0.8,20.8,Water,Dark,50.0,50.0,35,Ruby,45,90,20,65,20,65,305,0,1,0,0,0,0,1,225,Slow,1250000,Water 2,NULL,20
+319,Sharpedo,NULL,NULL,1.8,88.8,Water,Dark,50.0,50.0,35,Ruby,70,120,40,95,40,95,460,0,2,0,0,0,0,2,60,Slow,1250000,Water 2,NULL,20
+319,Sharpedo,Mega,NULL,2.5,130.3,Water,Dark,50.0,50.0,35,Omega Ruby,70,140,70,110,65,105,560,0,2,0,0,0,0,2,60,Slow,1250000,Water 2,NULL,20
+320,Wailmer,NULL,NULL,2.0,130.0,Water,NULL,50.0,50.0,50,Ruby,130,70,35,70,35,60,400,1,0,0,0,0,0,1,125,Fluctuating,1640000,Field,Water 2,40
+321,Wailord,NULL,NULL,14.5,398.0,Water,NULL,50.0,50.0,50,Ruby,170,90,45,90,45,60,500,2,0,0,0,0,0,2,60,Fluctuating,1640000,Field,Water 2,40
+322,Numel,NULL,NULL,0.7,24.0,Fire,Ground,50.0,50.0,50,Ruby,60,60,40,65,45,35,305,0,0,0,1,0,0,1,255,Medium Fast,1000000,Field,NULL,20
+323,Camerupt,NULL,NULL,1.9,220.0,Fire,Ground,50.0,50.0,50,Ruby,70,100,70,105,75,40,460,0,1,0,1,0,0,2,150,Medium Fast,1000000,Field,NULL,20
+323,Camerupt,Mega,NULL,2.5,320.5,Fire,Ground,50.0,50.0,70,Omega Ruby,70,120,100,145,105,20,560,0,1,0,1,0,0,2,150,Medium Fast,1000000,Field,NULL,20
+324,Torkoal,NULL,NULL,0.5,80.4,Fire,NULL,50.0,50.0,50,Ruby,70,85,140,85,70,20,470,0,0,2,0,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+325,Spoink,NULL,NULL,0.7,30.6,Psychic,NULL,50.0,50.0,50,Ruby,60,25,35,70,80,60,330,0,0,0,0,1,0,1,255,Fast,800000,Field,NULL,20
+326,Grumpig,NULL,NULL,0.9,71.5,Psychic,NULL,50.0,50.0,50,Ruby,80,45,65,90,110,80,470,0,0,0,0,2,0,2,60,Fast,800000,Field,NULL,20
+327,Spinda,NULL,NULL,1.1,5.0,Normal,NULL,50.0,50.0,50,Ruby,60,60,60,60,60,60,360,0,0,0,1,0,0,1,255,Fast,800000,Field,Human-Like,15
+328,Trapinch,NULL,NULL,0.7,15.0,Ground,NULL,50.0,50.0,50,Ruby,45,100,45,45,45,10,290,0,1,0,0,0,0,1,255,Medium Slow,1059860,Bug,Dragon,20
+329,Vibrava,NULL,NULL,1.1,15.3,Ground,Dragon,50.0,50.0,50,Ruby,50,70,50,50,50,70,340,0,1,0,0,0,1,2,120,Medium Slow,1059860,Bug,Dragon,20
+330,Flygon,NULL,NULL,2.0,82.0,Ground,Dragon,50.0,50.0,50,Ruby,80,100,80,80,80,100,520,0,1,0,0,0,2,3,45,Medium Slow,1059860,Bug,Dragon,20
+331,Cacnea,NULL,NULL,0.4,51.3,Grass,NULL,50.0,50.0,35,Ruby,50,85,40,85,40,35,335,0,0,0,1,0,0,1,190,Medium Slow,1059860,Grass,Human-Like,20
+332,Cacturne,NULL,NULL,1.3,77.4,Grass,Dark,50.0,50.0,35,Ruby,70,115,60,115,60,55,475,0,1,0,1,0,0,2,60,Medium Slow,1059860,Grass,Human-Like,20
+333,Swablu,NULL,NULL,0.4,1.2,Normal,Flying,50.0,50.0,50,Ruby,45,40,60,40,75,50,310,0,0,0,0,1,0,1,255,Erratic,600000,Flying,Dragon,20
+334,Altaria,NULL,NULL,1.1,20.6,Dragon,Flying,50.0,50.0,50,Ruby,75,70,90,70,105,80,490,0,0,0,0,2,0,2,45,Erratic,600000,Flying,Dragon,20
+334,Altaria,Mega,NULL,1.5,20.6,Dragon,Fairy,50.0,50.0,70,Omega Ruby,75,110,110,110,105,80,590,0,0,0,0,2,0,2,45,Erratic,600000,Flying,Dragon,20
+335,Zangoose,NULL,NULL,1.3,40.3,Normal,NULL,50.0,50.0,50,Ruby,73,115,60,60,60,90,458,0,2,0,0,0,0,2,90,Erratic,600000,Field,NULL,20
+336,Seviper,NULL,NULL,2.7,52.5,Poison,NULL,50.0,50.0,50,Ruby,73,100,60,100,60,65,458,0,1,0,1,0,0,2,90,Fluctuating,1640000,Field,Dragon,20
+337,Lunatone,NULL,NULL,1.0,168.0,Rock,Psychic,0.0,0.0,50,Ruby,90,55,65,95,85,70,460,0,0,0,2,0,0,2,45,Fast,800000,Mineral,NULL,25
+338,Solrock,NULL,NULL,1.2,154.0,Rock,Psychic,0.0,0.0,50,Ruby,90,95,85,55,65,70,460,0,2,0,0,0,0,2,45,Fast,800000,Mineral,NULL,25
+339,Barboach,NULL,NULL,0.4,1.9,Water,Ground,50.0,50.0,50,Ruby,50,48,43,46,41,60,288,1,0,0,0,0,0,1,190,Medium Fast,1000000,Water 2,NULL,20
+340,Whiscash,NULL,NULL,0.9,23.6,Water,Ground,50.0,50.0,50,Ruby,110,78,73,76,71,60,468,2,0,0,0,0,0,2,75,Medium Fast,1000000,Water 2,NULL,20
+341,Corphish,NULL,NULL,0.6,11.5,Water,NULL,50.0,50.0,50,Ruby,43,80,65,50,35,35,308,0,1,0,0,0,0,1,205,Fluctuating,1640000,Water 1,Water 3,15
+342,Crawdaunt,NULL,NULL,1.1,32.8,Water,Dark,50.0,50.0,50,Ruby,63,120,85,90,55,55,468,0,2,0,0,0,0,2,155,Fluctuating,1640000,Water 1,Water 3,15
+343,Baltoy,NULL,NULL,0.5,21.5,Ground,Psychic,0.0,0.0,50,Ruby,40,40,55,40,70,55,300,0,0,0,0,1,0,1,255,Medium Fast,1000000,Mineral,NULL,20
+344,Claydol,NULL,NULL,1.5,107.9,Ground,Psychic,0.0,0.0,50,Ruby,60,70,105,70,120,75,500,0,0,0,0,2,0,2,90,Medium Fast,1000000,Mineral,NULL,20
+345,Lileep,NULL,NULL,1.0,23.8,Rock,Grass,87.5,12.5,50,Ruby,66,41,77,61,87,23,355,0,0,0,0,1,0,1,45,Erratic,600000,Water 3,NULL,30
+346,Cradily,NULL,NULL,1.5,60.4,Rock,Grass,87.5,12.5,50,Ruby,86,81,97,81,107,43,495,0,0,0,0,2,0,2,45,Erratic,600000,Water 3,NULL,30
+347,Anorith,NULL,NULL,0.7,12.5,Rock,Bug,87.5,12.5,50,Ruby,45,95,50,40,50,75,355,0,1,0,0,0,0,1,45,Erratic,600000,Water 3,NULL,30
+348,Armaldo,NULL,NULL,1.5,68.2,Rock,Bug,87.5,12.5,50,Ruby,75,125,100,70,80,45,495,0,2,0,0,0,0,2,45,Erratic,600000,Water 3,NULL,30
+349,Feebas,NULL,NULL,0.6,7.4,Water,NULL,50.0,50.0,50,Ruby,20,15,20,10,55,80,200,0,0,0,0,0,1,1,255,Erratic,600000,Water 1,Dragon,20
+350,Milotic,NULL,NULL,6.2,162.0,Water,NULL,50.0,50.0,50,Ruby,95,60,79,100,125,81,540,0,0,0,0,2,0,2,60,Erratic,600000,Water 1,Dragon,20
+350,Milotic,NULL,NULL,6.2,162.0,Water,NULL,50.0,50.0,50,Ruby,95,60,79,100,125,81,540,0,0,0,0,2,0,2,60,Erratic,600000,Water 1,Dragon,20
+351,Castform,NULL,NULL,0.3,0.8,Normal,NULL,50.0,50.0,50,Ruby,70,70,70,70,70,70,420,1,0,0,0,0,0,1,45,Medium Fast,1000000,Fairy,Amorphous,25
+351,Castform,Sunny,NULL,0.3,0.8,Fire,NULL,50.0,50.0,50,Ruby,70,70,70,70,70,70,420,1,0,0,0,0,0,1,45,Medium Fast,1000000,Fairy,Amorphous,25
+351,Castform,Rainy,NULL,0.3,0.8,Water,NULL,50.0,50.0,50,Ruby,70,70,70,70,70,70,420,1,0,0,0,0,0,1,45,Medium Fast,1000000,Fairy,Amorphous,25
+351,Castform,Snowy,NULL,0.3,0.8,Ice,NULL,50.0,50.0,50,Ruby,70,70,70,70,70,70,420,1,0,0,0,0,0,1,45,Medium Fast,1000000,Fairy,Amorphous,25
+352,Kecleon,NULL,NULL,1.0,22.0,Normal,NULL,50.0,50.0,50,Ruby,60,90,70,60,120,40,440,0,0,0,0,1,0,1,200,Medium Slow,1059860,Field,NULL,20
+353,Shuppet,NULL,NULL,0.6,2.3,Ghost,NULL,50.0,50.0,35,Ruby,44,75,35,63,33,45,295,0,1,0,0,0,0,1,225,Fast,800000,Amorphous,NULL,25
+354,Banette,NULL,NULL,1.1,12.5,Ghost,NULL,50.0,50.0,35,Ruby,64,115,65,83,63,65,455,0,2,0,0,0,0,2,45,Fast,800000,Amorphous,NULL,25
+354,Banette,Mega,NULL,1.2,13.0,Ghost,NULL,50.0,50.0,35,X,64,165,75,93,83,75,555,0,2,0,0,0,0,2,45,Fast,800000,Amorphous,NULL,25
+355,Duskull,NULL,NULL,0.8,15.0,Ghost,NULL,50.0,50.0,35,Ruby,20,40,90,30,90,25,295,0,0,0,0,1,0,1,190,Fast,800000,Amorphous,NULL,25
+356,Dusclops,NULL,NULL,1.6,30.6,Ghost,NULL,50.0,50.0,35,Ruby,40,70,130,60,130,25,455,0,0,1,0,1,0,2,90,Fast,800000,Amorphous,NULL,25
+357,Tropius,NULL,NULL,2.0,100.0,Grass,Flying,50.0,50.0,50,Ruby,99,68,83,72,87,51,460,2,0,0,0,0,0,2,200,Slow,1250000,Monster,Grass,25
+358,Chimecho,NULL,NULL,0.6,1.0,Psychic,NULL,50.0,50.0,50,Ruby,75,50,80,95,90,65,455,0,0,0,1,1,0,2,45,Fast,800000,Amorphous,NULL,25
+359,Absol,NULL,NULL,1.2,47.0,Dark,NULL,50.0,50.0,35,Ruby,65,130,60,75,60,75,465,0,2,0,0,0,0,2,30,Medium Slow,1059860,Field,NULL,25
+359,Absol,Mega,NULL,1.2,49.0,Dark,NULL,50.0,50.0,35,X,65,150,60,115,60,115,565,0,2,0,0,0,0,2,30,Medium Slow,1059860,Field,NULL,25
+360,Wynaut,NULL,NULL,0.6,14.0,Psychic,NULL,50.0,50.0,50,Ruby,95,23,48,23,48,23,260,1,0,0,0,0,0,1,125,Medium Fast,1000000,No Eggs Discovered,NULL,20
+361,Snorunt,NULL,NULL,0.7,16.8,Ice,NULL,50.0,50.0,50,Ruby,50,50,50,50,50,50,300,1,0,0,0,0,0,1,190,Medium Fast,1000000,Fairy,Mineral,20
+362,Glalie,NULL,NULL,1.5,256.5,Ice,NULL,50.0,50.0,50,Ruby,80,80,80,80,80,80,480,2,0,0,0,0,0,2,75,Medium Fast,1000000,Fairy,Mineral,20
+362,Glalie,Mega,NULL,2.1,350.2,Ice,NULL,50.0,50.0,70,Omega Ruby,80,120,80,120,80,100,580,2,0,0,0,0,0,2,75,Medium Fast,1000000,Fairy,Mineral,20
+363,Spheal,NULL,NULL,0.8,39.5,Ice,Water,50.0,50.0,50,Ruby,70,40,50,55,50,25,290,1,0,0,0,0,0,1,255,Medium Slow,1059860,Water 1,Field,20
+364,Sealeo,NULL,NULL,1.1,87.6,Ice,Water,50.0,50.0,50,Ruby,90,60,70,75,70,45,410,2,0,0,0,0,0,2,120,Medium Slow,1059860,Water 1,Field,20
+365,Walrein,NULL,NULL,1.4,150.6,Ice,Water,50.0,50.0,50,Ruby,110,80,90,95,90,65,530,3,0,0,0,0,0,3,45,Medium Slow,1059860,Water 1,Field,20
+366,Clamperl,NULL,NULL,0.4,52.5,Water,NULL,50.0,50.0,50,Ruby,35,64,85,74,55,32,345,0,0,1,0,0,0,1,255,Erratic,600000,Water 1,NULL,20
+367,Huntail,NULL,NULL,1.7,27.0,Water,NULL,50.0,50.0,50,Ruby,55,104,105,94,75,52,485,0,1,1,0,0,0,2,60,Erratic,600000,Water 1,NULL,20
+368,Gorebyss,NULL,NULL,1.8,22.6,Water,NULL,50.0,50.0,50,Ruby,55,84,105,114,75,52,485,0,0,0,2,0,0,2,60,Erratic,600000,Water 1,NULL,20
+369,Relicanth,NULL,NULL,1.0,23.4,Water,Rock,87.5,12.5,50,Ruby,100,90,130,45,65,55,485,1,0,1,0,0,0,2,25,Slow,1250000,Water 1,Water 2,40
+370,Luvdisc,NULL,NULL,0.6,8.7,Water,NULL,25.0,75.0,50,Ruby,43,30,55,40,65,97,330,0,0,0,0,0,1,1,225,Fast,800000,Water 2,NULL,20
+371,Bagon,NULL,NULL,0.6,42.1,Dragon,NULL,50.0,50.0,35,Ruby,45,75,60,40,30,50,300,0,1,0,0,0,0,1,45,Slow,1250000,Dragon,NULL,40
+372,Shelgon,NULL,NULL,1.1,110.5,Dragon,NULL,50.0,50.0,35,Ruby,65,95,100,60,50,50,420,0,0,2,0,0,0,2,45,Slow,1250000,Dragon,NULL,40
+373,Salamence,NULL,NULL,1.5,102.6,Dragon,Flying,50.0,50.0,35,Ruby,95,135,80,110,80,100,600,0,3,0,0,0,0,3,45,Slow,1250000,Dragon,NULL,40
+373,Salamence,Mega,NULL,1.8,112.6,Dragon,Flying,50.0,50.0,35,Omega Ruby,95,145,130,120,90,120,700,0,3,0,0,0,0,3,45,Slow,1250000,Dragon,NULL,40
+374,Beldum,NULL,NULL,0.6,95.2,Steel,Psychic,0.0,0.0,35,Ruby,40,55,80,35,60,30,300,0,0,1,0,0,0,1,3,Slow,1250000,Mineral,NULL,40
+375,Metang,NULL,NULL,1.2,202.5,Steel,Psychic,0.0,0.0,35,Ruby,60,75,100,55,80,50,420,0,0,2,0,0,0,2,3,Slow,1250000,Mineral,NULL,40
+376,Metagross,NULL,NULL,1.6,550.0,Steel,Psychic,0.0,0.0,35,Ruby,80,135,130,95,90,70,600,0,0,3,0,0,0,3,3,Slow,1250000,Mineral,NULL,40
+376,Metagross,Mega,NULL,2.5,942.9,Steel,Psychic,0.0,0.0,35,Omega Ruby,80,145,150,105,110,110,700,0,0,3,0,0,0,3,3,Slow,1250000,Mineral,NULL,40
+377,Regirock,NULL,Sub-Legendary,1.7,230.0,Rock,NULL,0.0,0.0,35,Ruby,80,100,200,50,100,50,580,0,0,3,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+378,Regice,NULL,Sub-Legendary,1.8,175.0,Ice,NULL,0.0,0.0,35,Ruby,80,50,100,100,200,50,580,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+379,Registeel,NULL,Sub-Legendary,1.9,205.0,Steel,NULL,0.0,0.0,35,Ruby,80,75,150,75,150,50,580,0,0,2,0,1,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+380,Latias,NULL,Sub-Legendary,1.4,40.0,Dragon,Psychic,0.0,100.0,90,Ruby,80,80,90,110,130,110,600,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+380,Latias,Mega,NULL,1.8,52.0,Dragon,Psychic,0.0,100.0,90,Omega Ruby,80,100,120,140,150,110,700,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+381,Latios,NULL,Sub-Legendary,2.0,60.0,Dragon,Psychic,100.0,0.0,90,Ruby,80,90,80,130,110,110,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+381,Latios,Mega,NULL,2.3,70.0,Dragon,Psychic,100.0,0.0,90,Omega Ruby,80,130,100,160,120,110,700,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+382,Kyogre,NULL,Legendary,4.5,352.0,Water,NULL,0.0,0.0,0,Ruby,100,100,90,150,140,90,670,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+382,Kyogre,Primal,Legendary,9.8,430.0,Water,NULL,0.0,0.0,0,Omega Ruby,100,150,90,180,160,90,770,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+383,Groudon,NULL,Legendary,3.5,950.0,Ground,NULL,0.0,0.0,0,Ruby,100,150,140,100,90,90,670,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+383,Groudon,Primal,Legendary,5.0,999.7,Ground,Fire,0.0,0.0,0,Omega Ruby,100,180,160,150,90,90,770,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+384,Rayquaza,NULL,Legendary,7.0,206.5,Dragon,Flying,0.0,0.0,0,Ruby,105,150,90,150,90,95,680,0,2,0,1,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+384,Rayquaza,Mega,Legendary,10.8,392.0,Dragon,Flying,0.0,0.0,0,Omega Ruby,105,180,100,180,100,115,780,0,2,0,1,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+385,Jirachi,NULL,Mythical,0.3,1.1,Steel,Psychic,0.0,0.0,100,Ruby,100,100,100,100,100,100,600,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+386,Deoxys,NULL,Mythical,1.7,60.8,Psychic,NULL,0.0,0.0,0,Ruby,50,150,50,150,50,150,600,0,1,0,1,0,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+386,Deoxys,Attack,Mythical,1.7,60.8,Psychic,NULL,0.0,0.0,0,Fire Red,50,180,20,180,20,150,600,0,2,0,1,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+386,Deoxys,Defense,Mythical,1.7,60.8,Psychic,NULL,0.0,0.0,0,Leaf Green,50,70,160,70,160,90,600,0,0,2,0,1,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+386,Deoxys,Speed,Mythical,1.7,60.8,Psychic,NULL,0.0,0.0,0,Emerald,50,95,90,95,90,180,600,0,0,0,0,0,3,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+387,Turtwig,NULL,NULL,0.4,10.2,Grass,NULL,87.5,12.5,50,Diamond,55,68,64,45,55,31,318,0,1,0,0,0,0,1,45,Medium Slow,1059860,Monster,Grass,20
+388,Grotle,NULL,NULL,1.1,97.0,Grass,NULL,87.5,12.5,50,Diamond,75,89,85,55,65,36,405,0,1,1,0,0,0,2,45,Medium Slow,1059860,Monster,Grass,20
+389,Torterra,NULL,NULL,2.2,310.0,Grass,Ground,87.5,12.5,50,Diamond,95,109,105,75,85,56,525,0,2,1,0,0,0,3,45,Medium Slow,1059860,Monster,Grass,20
+390,Chimchar,NULL,NULL,0.5,6.2,Fire,NULL,87.5,12.5,50,Diamond,44,58,44,58,44,61,309,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,Human-Like,20
+391,Monferno,NULL,NULL,0.9,22.0,Fire,Fighting,87.5,12.5,50,Diamond,64,78,52,78,52,81,405,0,0,0,1,0,1,2,45,Medium Slow,1059860,Field,Human-Like,20
+392,Infernape,NULL,NULL,1.2,55.0,Fire,Fighting,87.5,12.5,50,Diamond,76,104,71,104,71,108,534,0,1,0,1,0,1,3,45,Medium Slow,1059860,Field,Human-Like,20
+393,Piplup,NULL,NULL,0.4,5.2,Water,NULL,87.5,12.5,50,Diamond,53,51,53,61,56,40,314,0,0,0,1,0,0,1,45,Medium Slow,1059860,Water 1,Field,20
+394,Prinplup,NULL,NULL,0.8,23.0,Water,NULL,87.5,12.5,50,Diamond,64,66,68,81,76,50,405,0,0,0,2,0,0,2,45,Medium Slow,1059860,Water 1,Field,20
+395,Empoleon,NULL,NULL,1.7,84.5,Water,Steel,87.5,12.5,50,Diamond,84,86,88,111,101,60,530,0,0,0,3,0,0,3,45,Medium Slow,1059860,Water 1,Field,20
+396,Starly,NULL,NULL,0.3,2.0,Normal,Flying,50.0,50.0,50,Diamond,40,55,30,30,30,60,245,0,0,0,0,0,1,1,255,Medium Slow,1059860,Flying,NULL,15
+397,Staravia,NULL,NULL,0.6,15.5,Normal,Flying,50.0,50.0,50,Diamond,55,75,50,40,40,80,340,0,0,0,0,0,2,2,120,Medium Slow,1059860,Flying,NULL,15
+398,Staraptor,NULL,NULL,1.2,24.9,Normal,Flying,50.0,50.0,50,Diamond,85,120,70,50,60,100,485,0,3,0,0,0,0,3,45,Medium Slow,1059860,Flying,NULL,15
+399,Bidoof,NULL,NULL,0.5,20.0,Normal,NULL,50.0,50.0,50,Diamond,59,45,40,35,40,31,250,1,0,0,0,0,0,1,255,Medium Fast,1000000,Water 1,Field,15
+400,Bibarel,NULL,NULL,1.0,31.5,Normal,Water,50.0,50.0,50,Diamond,79,85,60,55,60,71,410,0,2,0,0,0,0,2,127,Medium Fast,1000000,Water 1,Field,15
+401,Kricketot,NULL,NULL,0.3,2.2,Bug,NULL,50.0,50.0,50,Diamond,37,25,41,25,41,25,194,0,0,1,0,0,0,1,255,Medium Slow,1059860,Bug,NULL,15
+402,Kricketune,NULL,NULL,1.0,25.5,Bug,NULL,50.0,50.0,50,Diamond,77,85,51,55,51,65,384,0,2,0,0,0,0,2,45,Medium Slow,1059860,Bug,NULL,15
+403,Shinx,NULL,NULL,0.5,9.5,Electric,NULL,50.0,50.0,50,Diamond,45,65,34,40,34,45,263,0,1,0,0,0,0,1,235,Medium Slow,1059860,Field,NULL,20
+404,Luxio,NULL,NULL,0.9,30.5,Electric,NULL,50.0,50.0,100,Diamond,60,85,49,60,49,60,363,0,2,0,0,0,0,2,120,Medium Slow,1059860,Field,NULL,20
+405,Luxray,NULL,NULL,1.4,42.0,Electric,NULL,50.0,50.0,50,Diamond,80,120,79,95,79,70,523,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+406,Budew,NULL,NULL,0.2,1.2,Grass,Poison,50.0,50.0,50,Diamond,40,30,35,50,70,55,280,0,0,0,1,0,0,1,255,Medium Slow,1059860,No Eggs Discovered,NULL,20
+407,Roserade,NULL,NULL,0.9,14.5,Grass,Poison,50.0,50.0,50,Diamond,60,70,65,125,105,90,515,0,0,0,3,0,0,3,75,Medium Slow,1059860,Fairy,Grass,20
+408,Cranidos,NULL,NULL,0.9,31.5,Rock,NULL,87.5,12.5,50,Diamond,67,125,40,30,30,58,350,0,1,0,0,0,0,1,45,Erratic,600000,Monster,NULL,30
+409,Rampardos,NULL,NULL,1.6,102.5,Rock,NULL,87.5,12.5,50,Diamond,97,165,60,65,50,58,495,0,2,0,0,0,0,2,45,Erratic,600000,Monster,NULL,30
+410,Shieldon,NULL,NULL,0.5,57.0,Rock,Steel,87.5,12.5,50,Diamond,30,42,118,42,88,30,350,0,0,1,0,0,0,1,45,Erratic,600000,Monster,NULL,30
+411,Bastiodon,NULL,NULL,1.3,149.5,Rock,Steel,87.5,12.5,50,Diamond,60,52,168,47,138,30,495,0,0,2,0,0,0,2,45,Erratic,600000,Monster,NULL,30
+412,Burmy,NULL,NULL,0.2,3.4,Bug,NULL,50.0,50.0,50,Diamond,40,29,45,29,45,36,224,0,0,0,0,1,0,1,120,Medium Fast,1000000,Bug,NULL,15
+412,Burmy,Sandy,NULL,0.2,3.4,Bug,NULL,50.0,50.0,50,Diamond,40,29,45,29,45,36,224,0,0,0,0,1,0,1,120,Medium Fast,1000000,Bug,NULL,15
+412,Burmy,Trash,NULL,0.2,3.4,Bug,NULL,50.0,50.0,50,Diamond,40,29,45,29,45,36,224,0,0,0,0,1,0,1,120,Medium Fast,1000000,Bug,NULL,15
+413,Wormadam,NULL,NULL,0.5,6.5,Bug,Grass,0.0,100.0,50,Diamond,60,59,85,79,105,36,424,0,0,0,0,2,0,2,45,Medium Fast,1000000,Bug,NULL,15
+413,Wormadam,Sandy,NULL,0.5,6.5,Bug,Ground,0.0,100.0,50,Diamond,60,79,105,59,85,36,424,0,0,2,0,0,0,2,45,Medium Fast,1000000,Bug,NULL,15
+413,Wormadam,Trash,NULL,0.5,6.5,Bug,Steel,0.0,100.0,50,Diamond,60,69,95,69,95,36,424,0,0,1,0,1,0,2,45,Medium Fast,1000000,Bug,NULL,15
+414,Mothim,NULL,NULL,0.9,23.3,Bug,Flying,100.0,0.0,50,Diamond,70,94,50,94,50,66,424,0,1,0,1,0,0,2,45,Medium Fast,1000000,Bug,NULL,15
+414,Mothim,NULL,NULL,0.9,23.3,Bug,Flying,100.0,0.0,50,Diamond,70,94,50,94,50,66,424,0,1,0,1,0,0,2,45,Medium Fast,1000000,Bug,NULL,15
+414,Mothim,NULL,NULL,0.9,23.3,Bug,Flying,100.0,0.0,50,Diamond,70,94,50,94,50,66,424,0,1,0,1,0,0,2,45,Medium Fast,1000000,Bug,NULL,15
+415,Combee,NULL,NULL,0.3,5.5,Bug,Flying,87.5,12.5,50,Diamond,30,30,42,30,42,70,244,0,0,0,0,0,1,1,120,Medium Slow,1059860,Bug,NULL,15
+416,Vespiquen,NULL,NULL,1.2,38.5,Bug,Flying,0.0,100.0,50,Diamond,70,80,102,80,102,40,474,0,0,1,0,1,0,2,45,Medium Slow,1059860,Bug,NULL,15
+417,Pachirisu,NULL,NULL,0.4,3.9,Electric,NULL,50.0,50.0,100,Diamond,60,45,70,45,90,95,405,0,0,0,0,0,1,1,200,Medium Fast,1000000,Field,Fairy,10
+418,Buizel,NULL,NULL,0.7,29.5,Water,NULL,50.0,50.0,50,Diamond,55,65,35,60,30,85,330,0,0,0,0,0,1,1,190,Medium Fast,1000000,Water 1,Field,20
+419,Floatzel,NULL,NULL,1.1,33.5,Water,NULL,50.0,50.0,50,Diamond,85,105,55,85,50,115,495,0,0,0,0,0,2,2,75,Medium Fast,1000000,Water 1,Field,20
+420,Cherubi,NULL,NULL,0.4,3.3,Grass,NULL,50.0,50.0,50,Diamond,45,35,45,62,53,35,275,0,0,0,1,0,0,1,190,Medium Fast,1000000,Fairy,Grass,20
+421,Cherrim,NULL,NULL,0.5,9.3,Grass,NULL,50.0,50.0,50,Diamond,70,60,70,87,78,85,450,0,0,0,2,0,0,2,75,Medium Fast,1000000,Fairy,Grass,20
+422,Shellos,NULL,NULL,0.3,6.3,Water,NULL,50.0,50.0,50,Diamond,76,48,48,57,62,34,325,1,0,0,0,0,0,1,190,Medium Fast,1000000,Water 1,Amorphous,20
+422,Shellos,East Sea,NULL,0.3,6.3,Water,NULL,50.0,50.0,50,Diamond,76,48,48,57,62,34,325,1,0,0,0,0,0,1,190,Medium Fast,1000000,Water 1,Amorphous,20
+423,Gastrodon,NULL,NULL,0.9,29.9,Water,Ground,50.0,50.0,50,Diamond,111,83,68,92,82,39,475,2,0,0,0,0,0,2,75,Medium Fast,1000000,Water 1,Amorphous,20
+423,Gastrodon,East Sea,NULL,0.9,29.9,Water,Ground,50.0,50.0,50,Diamond,111,83,68,92,82,39,475,2,0,0,0,0,0,2,75,Medium Fast,1000000,Water 1,Amorphous,20
+424,Ambipom,NULL,NULL,1.2,20.3,Normal,NULL,50.0,50.0,100,Diamond,75,100,66,60,66,115,482,0,0,0,0,0,2,2,45,Fast,800000,Field,NULL,20
+425,Drifloon,NULL,NULL,0.4,1.2,Ghost,Flying,50.0,50.0,50,Diamond,90,50,34,60,44,70,348,1,0,0,0,0,0,1,125,Fluctuating,1640000,Amorphous,NULL,30
+426,Drifblim,NULL,NULL,1.2,15.0,Ghost,Flying,50.0,50.0,50,Diamond,150,80,44,90,54,80,498,2,0,0,0,0,0,2,60,Fluctuating,1640000,Amorphous,NULL,30
+427,Buneary,NULL,NULL,0.4,5.5,Normal,NULL,50.0,50.0,0,Diamond,55,66,44,44,56,85,350,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,Human-Like,20
+428,Lopunny,NULL,NULL,1.2,33.3,Normal,NULL,50.0,50.0,140,Diamond,65,76,84,54,96,105,480,0,0,0,0,0,2,2,60,Medium Fast,1000000,Field,Human-Like,20
+428,Lopunny,Mega,NULL,1.3,28.3,Normal,Fighting,50.0,50.0,140,Omega Ruby,65,136,94,54,96,135,580,0,0,0,0,0,2,2,60,Medium Fast,1000000,Field,Human-Like,20
+429,Mismagius,NULL,NULL,0.9,4.4,Ghost,NULL,50.0,50.0,35,Diamond,60,60,60,105,105,105,495,0,0,0,1,1,0,2,45,Fast,800000,Amorphous,NULL,25
+430,Honchkrow,NULL,NULL,0.9,27.3,Dark,Flying,50.0,50.0,35,Diamond,100,125,52,105,52,71,505,0,2,0,0,0,0,2,30,Medium Slow,1059860,Flying,NULL,20
+431,Glameow,NULL,NULL,0.5,3.9,Normal,NULL,25.0,75.0,50,Diamond,49,55,42,42,37,85,310,0,0,0,0,0,1,1,190,Fast,800000,Field,NULL,20
+432,Purugly,NULL,NULL,1.0,43.8,Normal,NULL,25.0,75.0,50,Diamond,71,82,64,64,59,112,452,0,0,0,0,0,2,2,75,Fast,800000,Field,NULL,20
+433,Chingling,NULL,NULL,0.2,0.6,Psychic,NULL,50.0,50.0,50,Diamond,45,30,50,65,50,45,285,0,0,0,1,0,0,1,120,Fast,800000,No Eggs Discovered,NULL,25
+434,Stunky,NULL,NULL,0.4,19.2,Poison,Dark,50.0,50.0,50,Diamond,63,63,47,41,41,74,329,0,0,0,0,0,1,1,225,Medium Fast,1000000,Field,NULL,20
+435,Skuntank,NULL,NULL,1.0,38.0,Poison,Dark,50.0,50.0,50,Diamond,103,93,67,71,61,84,479,2,0,0,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+436,Bronzor,NULL,NULL,0.5,60.5,Steel,Psychic,0.0,0.0,50,Diamond,57,24,86,24,86,23,300,0,0,1,0,0,0,1,255,Medium Fast,1000000,Mineral,NULL,20
+437,Bronzong,NULL,NULL,1.3,187.0,Steel,Psychic,0.0,0.0,50,Diamond,67,89,116,79,116,33,500,0,0,1,0,1,0,2,90,Medium Fast,1000000,Mineral,NULL,20
+438,Bonsly,NULL,NULL,0.5,15.0,Rock,NULL,50.0,50.0,50,Diamond,50,80,95,10,45,10,290,0,0,1,0,0,0,1,255,Medium Fast,1000000,No Eggs Discovered,NULL,20
+439,Mime Jr.,NULL,NULL,0.6,13.0,Psychic,Fairy,50.0,50.0,50,Diamond,20,25,45,70,90,60,310,0,0,0,0,1,0,1,145,Medium Fast,1000000,No Eggs Discovered,NULL,25
+440,Happiny,NULL,NULL,0.6,24.4,Normal,NULL,0.0,100.0,140,Diamond,100,5,5,15,65,30,220,1,0,0,0,0,0,1,130,Fast,800000,No Eggs Discovered,NULL,40
+441,Chatot,NULL,NULL,0.5,1.9,Normal,Flying,50.0,50.0,35,Diamond,76,65,45,92,42,91,411,0,1,0,0,0,0,1,30,Medium Slow,1059860,Flying,NULL,20
+442,Spiritomb,NULL,NULL,1.0,108.0,Ghost,Dark,50.0,50.0,50,Diamond,50,92,108,92,108,35,485,0,0,1,0,1,0,2,100,Medium Fast,1000000,Amorphous,NULL,30
+443,Gible,NULL,NULL,0.7,20.5,Dragon,Ground,50.0,50.0,50,Diamond,58,70,45,40,45,42,300,0,1,0,0,0,0,1,45,Slow,1250000,Monster,Dragon,40
+444,Gabite,NULL,NULL,1.4,56.0,Dragon,Ground,50.0,50.0,50,Diamond,68,90,65,50,55,82,410,0,2,0,0,0,0,2,45,Slow,1250000,Monster,Dragon,40
+445,Garchomp,NULL,NULL,1.9,95.0,Dragon,Ground,50.0,50.0,50,Diamond,108,130,95,80,85,102,600,0,3,0,0,0,0,3,45,Slow,1250000,Monster,Dragon,40
+445,Garchomp,Mega,NULL,1.9,95.0,Dragon,Ground,50.0,50.0,70,X,108,170,115,120,95,92,700,0,3,0,0,0,0,3,45,Slow,1250000,Monster,Dragon,40
+446,Munchlax,NULL,NULL,0.6,105.0,Normal,NULL,87.5,12.5,50,Diamond,135,85,40,40,85,5,390,1,0,0,0,0,0,1,50,Slow,1250000,No Eggs Discovered,NULL,40
+447,Riolu,NULL,NULL,0.7,20.2,Fighting,NULL,87.5,12.5,50,Diamond,40,70,40,35,40,60,285,0,1,0,0,0,0,1,75,Medium Slow,1059860,No Eggs Discovered,NULL,25
+448,Lucario,NULL,NULL,1.2,54.0,Fighting,Steel,87.5,12.5,50,Diamond,70,110,70,115,70,90,525,0,1,0,1,0,0,2,45,Medium Slow,1059860,Field,Human-Like,25
+448,Lucario,Mega,NULL,1.3,57.5,Fighting,Steel,87.5,12.5,70,X,70,145,88,140,70,112,625,0,1,0,1,0,0,2,45,Medium Slow,1059860,Field,Human-Like,25
+449,Hippopotas,NULL,NULL,0.8,49.5,Ground,NULL,50.0,50.0,50,Diamond,68,72,78,38,42,32,330,0,0,1,0,0,0,1,140,Slow,1250000,Field,NULL,30
+450,Hippowdon,NULL,NULL,2.0,300.0,Ground,NULL,50.0,50.0,50,Diamond,108,112,118,68,72,47,525,0,0,2,0,0,0,2,60,Slow,1250000,Field,NULL,30
+451,Skorupi,NULL,NULL,0.8,12.0,Poison,Bug,50.0,50.0,50,Diamond,40,50,90,30,55,65,330,0,0,1,0,0,0,1,120,Slow,1250000,Bug,Water 3,20
+452,Drapion,NULL,NULL,1.3,61.5,Poison,Dark,50.0,50.0,50,Diamond,70,90,110,60,75,95,500,0,0,2,0,0,0,2,45,Slow,1250000,Bug,Water 3,20
+453,Croagunk,NULL,NULL,0.7,23.0,Poison,Fighting,50.0,50.0,100,Diamond,48,61,40,61,40,50,300,0,1,0,0,0,0,1,140,Medium Fast,1000000,Human-Like,NULL,10
+454,Toxicroak,NULL,NULL,1.3,44.4,Poison,Fighting,50.0,50.0,50,Diamond,83,106,65,86,65,85,490,0,2,0,0,0,0,2,75,Medium Fast,1000000,Human-Like,NULL,20
+455,Carnivine,NULL,NULL,1.4,27.0,Grass,NULL,50.0,50.0,50,Diamond,74,100,72,90,72,46,454,0,2,0,0,0,0,2,200,Slow,1250000,Grass,NULL,25
+456,Finneon,NULL,NULL,0.4,7.0,Water,NULL,50.0,50.0,50,Diamond,49,49,56,49,61,66,330,0,0,0,0,0,1,1,190,Erratic,600000,Water 2,NULL,20
+457,Lumineon,NULL,NULL,1.2,24.0,Water,NULL,50.0,50.0,50,Diamond,69,69,76,69,86,91,460,0,0,0,0,0,2,2,75,Erratic,600000,Water 2,NULL,20
+458,Mantyke,NULL,NULL,1.0,65.0,Water,Flying,50.0,50.0,50,Diamond,45,20,50,60,120,50,345,0,0,0,0,1,0,1,25,Slow,1250000,No Eggs Discovered,NULL,25
+459,Snover,NULL,NULL,1.0,50.5,Grass,Ice,50.0,50.0,50,Diamond,60,62,50,62,60,40,334,0,1,0,0,0,0,1,120,Slow,1250000,Monster,Grass,20
+460,Abomasnow,NULL,NULL,2.2,135.5,Grass,Ice,50.0,50.0,50,Diamond,90,92,75,92,85,60,494,0,1,0,1,0,0,2,60,Slow,1250000,Monster,Grass,20
+460,Abomasnow,Mega,NULL,2.7,185.0,Grass,Ice,50.0,50.0,70,X,90,132,105,132,105,30,594,0,1,0,1,0,0,2,60,Slow,1250000,Monster,Grass,20
+461,Weavile,NULL,NULL,1.1,34.0,Dark,Ice,50.0,50.0,35,Diamond,70,120,65,45,85,125,510,0,1,0,0,0,1,2,45,Medium Slow,1059860,Field,NULL,20
+462,Magnezone,NULL,NULL,1.2,180.0,Electric,Steel,0.0,0.0,50,Diamond,70,70,115,130,90,60,535,0,0,0,3,0,0,3,30,Medium Fast,1000000,Mineral,NULL,20
+462,Magnezone,NULL,NULL,1.2,180.0,Electric,Steel,0.0,0.0,50,Diamond,70,70,115,130,90,60,535,0,0,0,3,0,0,3,30,Medium Fast,1000000,Mineral,NULL,20
+463,Lickilicky,NULL,NULL,1.7,140.0,Normal,NULL,50.0,50.0,50,Diamond,110,85,95,80,95,50,515,3,0,0,0,0,0,3,30,Medium Fast,1000000,Monster,NULL,20
+464,Rhyperior,NULL,NULL,2.4,282.8,Ground,Rock,50.0,50.0,50,Diamond,115,140,130,55,55,40,535,0,3,0,0,0,0,3,30,Slow,1250000,Monster,Field,20
+465,Tangrowth,NULL,NULL,2.0,128.6,Grass,NULL,50.0,50.0,50,Diamond,100,100,125,110,50,50,535,0,0,2,0,0,0,2,30,Medium Fast,1000000,Grass,NULL,20
+466,Electivire,NULL,NULL,1.8,138.6,Electric,NULL,75.0,25.0,50,Diamond,75,123,67,95,85,95,540,0,3,0,0,0,0,3,30,Medium Fast,1000000,Human-Like,NULL,25
+467,Magmortar,NULL,NULL,1.6,68.0,Fire,NULL,75.0,25.0,50,Diamond,75,95,67,125,95,83,540,0,0,0,3,0,0,3,30,Medium Fast,1000000,Human-Like,NULL,25
+468,Togekiss,NULL,NULL,1.5,38.0,Fairy,Flying,87.5,12.5,50,Diamond,85,50,95,120,115,80,545,0,0,0,2,1,0,3,30,Fast,800000,Flying,Fairy,10
+469,Yanmega,NULL,NULL,1.9,51.5,Bug,Flying,50.0,50.0,50,Diamond,86,76,86,116,56,95,515,0,2,0,0,0,0,2,30,Medium Fast,1000000,Bug,NULL,20
+470,Leafeon,NULL,NULL,1.0,25.5,Grass,NULL,87.5,12.5,35,Diamond,65,110,130,60,65,95,525,0,0,2,0,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+470,Leafeon,NULL,NULL,1.0,25.5,Grass,NULL,87.5,12.5,35,Diamond,65,110,130,60,65,95,525,0,0,2,0,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+471,Glaceon,NULL,NULL,0.8,25.9,Ice,NULL,87.5,12.5,35,Diamond,65,60,110,130,95,65,525,0,0,0,2,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+471,Glaceon,NULL,NULL,0.8,25.9,Ice,NULL,87.5,12.5,35,Diamond,65,60,110,130,95,65,525,0,0,0,2,0,0,2,45,Medium Fast,1000000,Field,NULL,35
+472,Gliscor,NULL,NULL,2.0,42.5,Ground,Flying,50.0,50.0,50,Diamond,75,95,125,45,75,95,510,0,0,2,0,0,0,2,30,Medium Slow,1059860,Bug,NULL,20
+473,Mamoswine,NULL,NULL,2.5,291.0,Ice,Ground,50.0,50.0,50,Diamond,110,130,80,70,60,80,530,0,3,0,0,0,0,3,50,Slow,1250000,Field,NULL,20
+474,Porygon-Z,NULL,NULL,0.9,34.0,Normal,NULL,0.0,0.0,50,Diamond,85,80,70,135,75,90,535,0,0,0,3,0,0,3,30,Medium Fast,1000000,Mineral,NULL,20
+475,Gallade,NULL,NULL,1.6,52.0,Psychic,Fighting,100.0,0.0,35,Diamond,68,125,65,65,115,80,518,0,3,0,0,0,0,3,45,Slow,1250000,Human-Like,Amorphous,20
+475,Gallade,Mega,NULL,1.6,56.4,Psychic,Fighting,100.0,0.0,35,Omega Ruby,68,165,95,65,115,110,618,0,3,0,0,0,0,3,45,Slow,1250000,Amorphous,NULL,20
+476,Probopass,NULL,NULL,1.4,340.0,Rock,Steel,50.0,50.0,50,Diamond,60,55,145,75,150,40,525,0,0,1,0,2,0,3,60,Medium Fast,1000000,Mineral,NULL,20
+476,Probopass,NULL,NULL,1.4,340.0,Rock,Steel,50.0,50.0,50,Diamond,60,55,145,75,150,40,525,0,0,1,0,2,0,3,60,Medium Fast,1000000,Mineral,NULL,20
+477,Dusknoir,NULL,NULL,2.2,106.6,Ghost,NULL,50.0,50.0,35,Diamond,45,100,135,65,135,45,525,0,0,1,0,2,0,3,45,Fast,800000,Amorphous,NULL,25
+478,Froslass,NULL,NULL,1.3,26.6,Ice,Ghost,0.0,100.0,50,Diamond,70,80,70,80,70,110,480,0,0,0,0,0,2,2,75,Medium Fast,1000000,Fairy,Mineral,20
+479,Rotom,NULL,NULL,0.3,0.3,Electric,Ghost,0.0,0.0,50,Diamond,50,50,77,95,77,91,440,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+479,Rotom,Mow,NULL,0.3,0.3,Electric,Grass,0.0,0.0,50,Platinum,50,65,107,105,107,86,520,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+479,Rotom,Heat,NULL,0.3,0.3,Electric,Fire,0.0,0.0,50,Platinum,50,65,107,105,107,86,520,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+479,Rotom,Wash,NULL,0.3,0.3,Electric,Water,0.0,0.0,50,Platinum,50,65,107,105,107,86,520,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+479,Rotom,Frost,NULL,0.3,0.3,Electric,Ice,0.0,0.0,50,Platinum,50,65,107,105,107,86,520,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+479,Rotom,Fan,NULL,0.3,0.3,Electric,Flying,0.0,0.0,50,Platinum,50,65,107,105,107,86,520,0,0,0,1,0,1,2,45,Medium Fast,1000000,Amorphous,NULL,20
+480,Uxie,NULL,Sub-Legendary,0.3,0.3,Psychic,NULL,0.0,0.0,140,Diamond,75,75,130,75,130,95,580,0,0,2,0,1,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+481,Mesprit,NULL,Sub-Legendary,0.3,0.3,Psychic,NULL,0.0,0.0,140,Diamond,80,105,105,105,105,80,580,0,1,0,1,1,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+482,Azelf,NULL,Sub-Legendary,0.3,0.3,Psychic,NULL,0.0,0.0,140,Diamond,75,125,70,125,70,115,580,0,2,0,1,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+483,Dialga,NULL,Legendary,5.4,683.0,Steel,Dragon,0.0,0.0,0,Diamond,100,120,120,150,100,90,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+483,Dialga,Origin,Legendary,7.0,850.0,Steel,Dragon,0.0,0.0,0,Legends Arceus,100,100,120,150,120,90,680,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+484,Palkia,NULL,Legendary,4.2,336.0,Water,Dragon,0.0,0.0,0,Diamond,90,120,100,150,120,100,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+484,Palkia,Origin,Legendary,6.3,660.0,Water,Dragon,0.0,0.0,0,Legends Arceus,90,100,100,150,120,120,680,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+485,Heatran,NULL,Sub-Legendary,1.7,430.0,Fire,Steel,50.0,50.0,100,Diamond,91,90,106,130,106,77,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,10
+486,Regigigas,NULL,Sub-Legendary,3.7,420.0,Normal,NULL,0.0,0.0,0,Diamond,110,160,110,80,110,100,670,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+487,Giratina,NULL,Legendary,4.5,750.0,Ghost,Dragon,0.0,0.0,0,Diamond,150,100,120,100,120,90,680,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+487,Giratina,Origin,Legendary,6.9,650.0,Ghost,Dragon,0.0,0.0,0,Platinum,150,120,100,120,100,90,680,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+488,Cresselia,NULL,Sub-Legendary,1.5,85.6,Psychic,NULL,0.0,100.0,100,Diamond,120,70,110,75,120,85,580,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+489,Phione,NULL,Mythical,0.4,3.1,Water,NULL,0.0,0.0,50,Diamond,80,80,80,80,80,80,480,1,0,0,0,0,0,1,30,Slow,1250000,Water 1,Fairy,40
+490,Manaphy,NULL,Mythical,0.3,1.4,Water,NULL,0.0,0.0,50,Diamond,100,100,100,100,100,100,600,3,0,0,0,0,0,3,3,Slow,1250000,Water 1,Fairy,10
+491,Darkrai,NULL,Mythical,1.5,50.5,Dark,NULL,0.0,0.0,0,Diamond,70,90,90,135,90,125,600,0,0,0,2,0,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+492,Shaymin,NULL,Mythical,0.2,2.1,Grass,NULL,0.0,0.0,100,Diamond,100,100,100,100,100,100,600,3,0,0,0,0,0,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,120
+492,Shaymin,Sky,Mythical,0.4,5.2,Grass,Flying,0.0,0.0,100,Platinum,100,103,75,120,75,127,600,0,0,0,0,0,3,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,120
+493,Arceus,NULL,Mythical,3.2,320.0,Normal,NULL,0.0,0.0,0,Diamond,120,120,120,120,120,120,720,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+494,Victini,NULL,Mythical,0.4,4.0,Psychic,Fire,0.0,0.0,100,Black,100,100,100,100,100,100,600,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+495,Snivy,NULL,NULL,0.6,8.1,Grass,NULL,87.5,12.5,70,Black,45,45,55,45,55,63,308,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,Grass,20
+496,Servine,NULL,NULL,0.8,16.0,Grass,NULL,87.5,12.5,70,Black,60,60,75,60,75,83,413,0,0,0,0,0,2,2,45,Medium Slow,1059860,Field,Grass,20
+497,Serperior,NULL,NULL,3.3,63.0,Grass,NULL,87.5,12.5,70,Black,75,75,95,75,95,113,528,0,0,0,0,0,3,3,45,Medium Slow,1059860,Field,Grass,20
+498,Tepig,NULL,NULL,0.5,9.9,Fire,NULL,87.5,12.5,70,Black,65,63,45,45,45,45,308,1,0,0,0,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+499,Pignite,NULL,NULL,1.0,55.5,Fire,Fighting,87.5,12.5,70,Black,90,93,55,70,55,55,418,0,2,0,0,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+500,Emboar,NULL,NULL,1.6,150.0,Fire,Fighting,87.5,12.5,70,Black,110,123,65,100,65,65,528,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+501,Oshawott,NULL,NULL,0.5,5.9,Water,NULL,87.5,12.5,50,Black,55,55,45,63,45,45,308,0,0,0,1,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+502,Dewott,NULL,NULL,0.8,24.5,Water,NULL,87.5,12.5,50,Black,75,75,60,83,60,60,413,0,0,0,2,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+503,Samurott,NULL,NULL,1.5,94.6,Water,NULL,87.5,12.5,50,Black,95,100,85,108,70,70,528,0,0,0,3,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+503,Samurott,Hisui,NULL,1.5,58.2,Water,Dark,87.5,12.5,50,Legends Arceus,90,108,80,100,65,85,528,0,3,0,0,0,0,3,55,Medium Slow,1059860,Field,NULL,20
+503,Samurott,Hisui,NULL,1.5,58.2,Water,Dark,87.5,12.5,50,Legends Arceus,90,108,80,100,65,85,528,0,3,0,0,0,0,3,55,Medium Slow,1059860,Field,NULL,20
+504,Patrat,NULL,NULL,0.5,11.6,Normal,NULL,50.0,50.0,70,Black,45,55,39,35,39,42,255,0,1,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+505,Watchog,NULL,NULL,1.1,27.0,Normal,NULL,50.0,50.0,70,Black,60,85,69,60,69,77,420,0,2,0,0,0,0,2,255,Medium Fast,1000000,Field,NULL,20
+506,Lillipup,NULL,NULL,0.4,4.1,Normal,NULL,50.0,50.0,50,Black,45,60,45,25,45,55,275,0,1,0,0,0,0,1,255,Medium Slow,1059860,Field,NULL,15
+507,Herdier,NULL,NULL,0.9,14.7,Normal,NULL,50.0,50.0,50,Black,65,80,65,35,65,60,370,0,2,0,0,0,0,2,120,Medium Slow,1059860,Field,NULL,15
+508,Stoutland,NULL,NULL,1.2,61.0,Normal,NULL,50.0,50.0,50,Black,85,110,90,45,90,80,500,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,15
+509,Purrloin,NULL,NULL,0.4,10.1,Dark,NULL,50.0,50.0,50,Black,41,50,37,50,37,66,281,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,20
+510,Liepard,NULL,NULL,1.1,37.5,Dark,NULL,50.0,50.0,50,Black,64,88,50,88,50,106,446,0,0,0,0,0,2,2,90,Medium Fast,1000000,Field,NULL,20
+511,Pansage,NULL,NULL,0.6,10.5,Grass,NULL,87.5,12.5,70,Black,50,53,48,53,48,64,316,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+512,Simisage,NULL,NULL,1.1,30.5,Grass,NULL,87.5,12.5,70,Black,75,98,63,98,63,101,498,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+513,Pansear,NULL,NULL,0.6,11.0,Fire,NULL,87.5,12.5,70,Black,50,53,48,53,48,64,316,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+514,Simisear,NULL,NULL,1.0,28.0,Fire,NULL,87.5,12.5,70,Black,75,98,63,98,63,101,498,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+515,Panpour,NULL,NULL,0.6,13.5,Water,NULL,87.5,12.5,70,Black,50,53,48,53,48,64,316,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+516,Simipour,NULL,NULL,1.0,29.0,Water,NULL,87.5,12.5,70,Black,75,98,63,98,63,101,498,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+517,Munna,NULL,NULL,0.6,23.3,Psychic,NULL,50.0,50.0,50,Black,76,25,45,67,55,24,292,1,0,0,0,0,0,1,190,Fast,800000,Field,NULL,10
+518,Musharna,NULL,NULL,1.1,60.5,Psychic,NULL,50.0,50.0,50,Black,116,55,85,107,95,29,487,2,0,0,0,0,0,2,75,Fast,800000,Field,NULL,10
+519,Pidove,NULL,NULL,0.3,2.1,Normal,Flying,50.0,50.0,50,Black,50,55,50,36,30,43,264,0,1,0,0,0,0,1,255,Medium Slow,1059860,Flying,NULL,15
+520,Tranquill,NULL,NULL,0.6,15.0,Normal,Flying,50.0,50.0,50,Black,62,77,62,50,42,65,358,0,2,0,0,0,0,2,120,Medium Slow,1059860,Flying,NULL,15
+521,Unfezant,NULL,NULL,1.2,29.0,Normal,Flying,50.0,50.0,50,Black,80,115,80,65,55,93,488,0,3,0,0,0,0,3,45,Medium Slow,1059860,Flying,NULL,15
+522,Blitzle,NULL,NULL,0.8,29.8,Electric,NULL,50.0,50.0,70,Black,45,60,32,50,32,76,295,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+523,Zebstrika,NULL,NULL,1.6,79.5,Electric,NULL,50.0,50.0,70,Black,75,100,63,80,63,116,497,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+524,Roggenrola,NULL,NULL,0.4,18.0,Rock,NULL,50.0,50.0,50,Black,55,75,85,25,25,15,280,0,0,1,0,0,0,1,255,Medium Slow,1059860,Mineral,NULL,15
+525,Boldore,NULL,NULL,0.9,102.0,Rock,NULL,50.0,50.0,50,Black,70,105,105,50,40,20,390,0,1,1,0,0,0,2,120,Medium Slow,1059860,Mineral,NULL,15
+526,Gigalith,NULL,NULL,1.7,260.0,Rock,NULL,50.0,50.0,50,Black,85,135,130,60,80,25,515,0,3,0,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,15
+527,Woobat,NULL,NULL,0.4,2.1,Psychic,Flying,50.0,50.0,50,Black,65,45,43,55,43,72,323,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,Flying,15
+528,Swoobat,NULL,NULL,0.9,10.5,Psychic,Flying,50.0,50.0,50,Black,67,57,55,77,55,114,425,0,0,0,0,0,2,2,45,Medium Fast,1000000,Field,Flying,15
+529,Drilbur,NULL,NULL,0.3,8.5,Ground,NULL,50.0,50.0,50,Black,60,85,40,30,45,68,328,0,1,0,0,0,0,1,120,Medium Fast,1000000,Field,NULL,20
+530,Excadrill,NULL,NULL,0.7,40.4,Ground,Steel,50.0,50.0,50,Black,110,135,60,50,65,88,508,0,2,0,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+531,Audino,NULL,NULL,1.1,31.0,Normal,NULL,50.0,50.0,50,Black,103,60,86,60,86,50,445,2,0,0,0,0,0,2,255,Fast,800000,Fairy,NULL,20
+531,Audino,Mega,NULL,1.5,32.0,Normal,Fairy,50.0,50.0,70,Omega Ruby,103,60,126,80,126,50,545,2,0,0,0,0,0,2,255,Fast,800000,Fairy,NULL,20
+532,Timburr,NULL,NULL,0.6,12.5,Fighting,NULL,75.0,25.0,70,Black,75,80,55,25,35,35,305,0,1,0,0,0,0,1,180,Medium Slow,1059860,Human-Like,NULL,20
+533,Gurdurr,NULL,NULL,1.2,40.0,Fighting,NULL,75.0,25.0,50,Black,85,105,85,40,50,40,405,0,2,0,0,0,0,2,90,Medium Slow,1059860,Human-Like,NULL,20
+534,Conkeldurr,NULL,NULL,1.4,87.0,Fighting,NULL,75.0,25.0,50,Black,105,140,95,55,65,45,505,0,3,0,0,0,0,3,45,Medium Slow,1059860,Human-Like,NULL,20
+535,Tympole,NULL,NULL,0.5,4.5,Water,NULL,50.0,50.0,50,Black,50,50,40,50,40,64,294,0,0,0,0,0,1,1,255,Medium Slow,1059860,Water 1,NULL,20
+536,Palpitoad,NULL,NULL,0.8,17.0,Water,Ground,50.0,50.0,50,Black,75,65,55,65,55,69,384,2,0,0,0,0,0,2,120,Medium Slow,1059860,Water 1,NULL,20
+537,Seismitoad,NULL,NULL,1.5,62.0,Water,Ground,50.0,50.0,50,Black,105,95,75,85,75,74,509,3,0,0,0,0,0,3,45,Medium Slow,1059860,Water 1,NULL,20
+538,Throh,NULL,NULL,1.3,55.5,Fighting,NULL,100.0,0.0,50,Black,120,100,85,30,85,45,465,2,0,0,0,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,20
+539,Sawk,NULL,NULL,1.4,41.0,Fighting,NULL,100.0,0.0,50,Black,75,125,75,30,75,85,465,0,2,0,0,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,20
+540,Sewaddle,NULL,NULL,0.3,2.5,Bug,Grass,50.0,50.0,70,Black,45,53,70,40,60,42,310,0,0,1,0,0,0,1,255,Medium Slow,1059860,Bug,NULL,15
+541,Swadloon,NULL,NULL,0.5,7.3,Bug,Grass,50.0,50.0,70,Black,55,63,90,50,80,42,380,0,0,2,0,0,0,2,120,Medium Slow,1059860,Bug,NULL,15
+542,Leavanny,NULL,NULL,1.2,20.5,Bug,Grass,50.0,50.0,70,Black,75,103,80,70,80,92,500,0,3,0,0,0,0,3,45,Medium Slow,1059860,Bug,NULL,15
+543,Venipede,NULL,NULL,0.4,5.3,Bug,Poison,50.0,50.0,50,Black,30,45,59,30,39,57,260,0,0,1,0,0,0,1,255,Medium Slow,1059860,Bug,NULL,15
+544,Whirlipede,NULL,NULL,1.2,58.5,Bug,Poison,50.0,50.0,50,Black,40,55,99,40,79,47,360,0,0,2,0,0,0,2,120,Medium Slow,1059860,Bug,NULL,15
+545,Scolipede,NULL,NULL,2.5,200.5,Bug,Poison,50.0,50.0,50,Black,60,100,89,55,69,112,485,0,0,0,0,0,3,3,45,Medium Slow,1059860,Bug,NULL,20
+546,Cottonee,NULL,NULL,0.3,0.6,Grass,Fairy,50.0,50.0,50,Black,40,27,60,37,50,66,280,0,0,0,0,0,1,1,190,Medium Fast,1000000,Grass,Fairy,20
+547,Whimsicott,NULL,NULL,0.7,6.6,Grass,Fairy,50.0,50.0,50,Black,60,67,85,77,75,116,480,0,0,0,0,0,2,2,75,Medium Fast,1000000,Grass,Fairy,20
+548,Petilil,NULL,NULL,0.5,6.6,Grass,NULL,0.0,100.0,50,Black,45,35,50,70,50,30,280,0,0,0,1,0,0,1,190,Medium Fast,1000000,Grass,NULL,20
+549,Lilligant,NULL,NULL,1.1,16.3,Grass,NULL,0.0,100.0,50,Black,70,60,75,110,75,90,480,0,0,0,2,0,0,2,75,Medium Fast,1000000,Grass,NULL,20
+549,Lilligant,Hisui,NULL,1.2,19.2,Grass,Fighting,0.0,100.0,50,Legends Arceus,70,105,75,50,75,105,480,0,1,0,0,0,1,2,135,Medium Fast,1000000,Grass,NULL,20
+549,Lilligant,Hisui,NULL,1.2,19.2,Grass,Fighting,0.0,100.0,50,Legends Arceus,70,105,75,50,75,105,480,0,1,0,0,0,1,2,135,Medium Fast,1000000,Grass,NULL,20
+550,Basculin,NULL,NULL,1.0,18.0,Water,NULL,50.0,50.0,50,Black,70,92,65,80,55,98,460,0,0,0,0,0,2,2,25,Medium Fast,1000000,Water 2,NULL,40
+550,Basculin,White-Striped,NULL,1.0,18.0,Water,NULL,50.0,50.0,50,Legends Arceus,70,92,65,80,55,98,460,0,0,0,0,0,1,1,235,Medium Fast,1000000,Water 2,NULL,40
+550,Basculin,Blue-Striped,NULL,1.0,18.0,Water,NULL,50.0,50.0,50,Black,70,92,65,80,55,98,460,0,0,0,0,0,2,2,25,Medium Fast,1000000,Water 2,NULL,40
+551,Sandile,NULL,NULL,0.7,15.2,Ground,Dark,50.0,50.0,50,Black,50,72,35,35,35,65,292,0,1,0,0,0,0,1,180,Medium Slow,1059860,Field,NULL,20
+552,Krokorok,NULL,NULL,1.0,33.4,Ground,Dark,50.0,50.0,50,Black,60,82,45,45,45,74,351,0,2,0,0,0,0,2,90,Medium Slow,1059860,Field,NULL,20
+553,Krookodile,NULL,NULL,1.5,96.3,Ground,Dark,50.0,50.0,50,Black,95,117,80,65,70,92,519,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+554,Darumaka,NULL,NULL,0.6,37.5,Fire,NULL,50.0,50.0,50,Black,70,90,45,15,45,50,315,0,1,0,0,0,0,1,120,Medium Slow,1059860,Field,NULL,20
+554,Darumaka,Galar,NULL,0.7,40.0,Ice,NULL,50.0,50.0,50,Sword,70,90,45,15,45,50,315,0,1,0,0,0,0,1,120,Medium Slow,1059860,Field,NULL,20
+555,Darmanitan,NULL,NULL,1.3,92.9,Fire,NULL,50.0,50.0,50,Black,105,140,55,30,55,95,480,0,2,0,0,0,0,2,60,Medium Slow,1059860,Field,NULL,20
+555,Darmanitan,Zen,NULL,1.3,92.9,Fire,Psychic,50.0,50.0,50,Black,105,30,105,140,105,55,540,0,0,0,2,0,0,2,60,Medium Slow,1059860,Field,NULL,20
+555,Darmanitan,Galar,NULL,1.7,120.0,Ice,NULL,50.0,50.0,50,Sword,105,140,55,30,55,95,480,0,2,0,0,0,0,2,60,Medium Slow,1059860,Field,NULL,20
+555,Darmanitan,Galar Zen,NULL,1.7,120.0,Ice,Fire,50.0,50.0,50,Sword,105,160,55,30,55,135,540,0,0,0,2,0,0,2,60,Medium Slow,1059860,Field,NULL,20
+556,Maractus,NULL,NULL,1.0,28.0,Grass,NULL,50.0,50.0,50,Black,75,86,67,106,67,60,461,0,0,0,2,0,0,2,255,Medium Fast,1000000,Grass,NULL,20
+557,Dwebble,NULL,NULL,0.3,14.5,Bug,Rock,50.0,50.0,50,Black,50,65,85,35,35,55,325,0,0,1,0,0,0,1,190,Medium Fast,1000000,Bug,Mineral,20
+558,Crustle,NULL,NULL,1.4,200.0,Bug,Rock,50.0,50.0,50,Black,70,105,125,65,75,45,485,0,0,2,0,0,0,2,75,Medium Fast,1000000,Bug,Mineral,20
+559,Scraggy,NULL,NULL,0.6,11.8,Dark,Fighting,50.0,50.0,35,Black,50,75,70,35,70,48,348,0,1,0,0,0,0,1,180,Medium Fast,1000000,Field,Dragon,15
+560,Scrafty,NULL,NULL,1.1,30.0,Dark,Fighting,50.0,50.0,50,Black,65,90,115,45,115,58,488,0,0,1,0,1,0,2,90,Medium Fast,1000000,Field,Dragon,15
+561,Sigilyph,NULL,NULL,1.4,14.0,Psychic,Flying,50.0,50.0,50,Black,72,58,80,103,80,97,490,0,0,0,2,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+562,Yamask,NULL,NULL,0.5,1.5,Ghost,NULL,50.0,50.0,50,Black,38,30,85,55,65,30,303,0,0,1,0,0,0,1,190,Medium Fast,1000000,Mineral,Amorphous,25
+562,Yamask,Galar,NULL,0.5,1.5,Ground,Ghost,50.0,50.0,50,Sword,38,55,85,30,65,30,303,0,0,1,0,0,0,1,190,Medium Fast,1000000,Mineral,Amorphous,25
+563,Cofagrigus,NULL,NULL,1.7,76.5,Ghost,NULL,50.0,50.0,50,Black,58,50,145,95,105,30,483,0,0,2,0,0,0,2,90,Medium Fast,1000000,Mineral,Amorphous,25
+564,Tirtouga,NULL,NULL,0.7,16.5,Water,Rock,87.5,12.5,50,Black,54,78,103,53,45,22,355,0,0,1,0,0,0,1,45,Medium Fast,1000000,Water 1,Water 3,30
+565,Carracosta,NULL,NULL,1.2,81.0,Water,Rock,87.5,12.5,50,Black,74,108,133,83,65,32,495,0,0,2,0,0,0,2,45,Medium Fast,1000000,Water 1,Water 3,30
+566,Archen,NULL,NULL,0.5,9.5,Rock,Flying,87.5,12.5,50,Black,55,112,45,74,45,70,401,0,1,0,0,0,0,1,45,Medium Fast,1000000,Flying,Water 3,30
+567,Archeops,NULL,NULL,1.4,32.0,Rock,Flying,87.5,12.5,50,Black,75,140,65,112,65,110,567,0,2,0,0,0,0,2,45,Medium Fast,1000000,Flying,Water 3,30
+568,Trubbish,NULL,NULL,0.6,31.0,Poison,NULL,50.0,50.0,50,Black,50,50,62,40,62,65,329,0,0,0,0,0,1,1,190,Medium Fast,1000000,Mineral,NULL,20
+569,Garbodor,NULL,NULL,1.9,107.3,Poison,NULL,50.0,50.0,50,Black,80,95,82,60,82,75,474,0,2,0,0,0,0,2,60,Medium Fast,1000000,Mineral,NULL,20
+570,Zorua,NULL,NULL,0.7,12.5,Dark,NULL,87.5,12.5,50,Black,40,65,40,80,40,65,330,0,0,0,1,0,0,1,75,Medium Slow,1059860,Field,NULL,25
+570,Zorua,Hisui,NULL,0.7,12.5,Normal,Ghost,87.5,12.5,50,Legends Arceus,35,60,40,85,40,70,330,0,0,0,1,0,0,1,215,Medium Slow,1059860,Field,NULL,25
+571,Zoroark,NULL,NULL,1.6,81.1,Dark,NULL,87.5,12.5,50,Black,60,105,60,120,60,105,510,0,0,0,2,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+571,Zoroark,Hisui,NULL,1.6,73.0,Normal,Ghost,87.5,12.5,50,Legends Arceus,60,105,60,120,60,105,510,0,0,0,2,0,0,2,115,Medium Slow,1059860,Field,NULL,20
+572,Minccino,NULL,NULL,0.4,5.8,Normal,NULL,25.0,75.0,50,Black,55,50,40,40,40,75,300,0,0,0,0,0,1,1,255,Fast,800000,Field,NULL,15
+573,Cinccino,NULL,NULL,0.5,7.5,Normal,NULL,25.0,75.0,50,Black,75,95,60,65,60,115,470,0,0,0,0,0,2,2,60,Fast,800000,Field,NULL,15
+574,Gothita,NULL,NULL,0.4,5.8,Psychic,NULL,25.0,75.0,50,Black,45,30,50,55,65,45,290,0,0,0,0,1,0,1,200,Medium Slow,1059860,Human-Like,NULL,20
+575,Gothorita,NULL,NULL,0.7,18.0,Psychic,NULL,25.0,75.0,50,Black,60,45,70,75,85,55,390,0,0,0,0,2,0,2,100,Medium Slow,1059860,Human-Like,NULL,20
+576,Gothitelle,NULL,NULL,1.5,44.0,Psychic,NULL,25.0,75.0,50,Black,70,55,95,95,110,65,490,0,0,0,0,3,0,3,50,Medium Slow,1059860,Human-Like,NULL,20
+577,Solosis,NULL,NULL,0.3,1.0,Psychic,NULL,50.0,50.0,50,Black,45,30,40,105,50,20,290,0,0,0,1,0,0,1,200,Medium Slow,1059860,Amorphous,NULL,20
+578,Duosion,NULL,NULL,0.6,8.0,Psychic,NULL,50.0,50.0,50,Black,65,40,50,125,60,30,370,0,0,0,2,0,0,2,100,Medium Slow,1059860,Amorphous,NULL,20
+579,Reuniclus,NULL,NULL,1.0,20.1,Psychic,NULL,50.0,50.0,50,Black,110,65,75,125,85,30,490,0,0,0,3,0,0,3,50,Medium Slow,1059860,Amorphous,NULL,20
+580,Ducklett,NULL,NULL,0.5,5.5,Water,Flying,50.0,50.0,70,Black,62,44,50,44,50,55,305,1,0,0,0,0,0,1,190,Medium Fast,1000000,Water 1,Flying,20
+581,Swanna,NULL,NULL,1.3,24.2,Water,Flying,50.0,50.0,70,Black,75,87,63,87,63,98,473,0,0,0,0,0,2,2,45,Medium Fast,1000000,Water 1,Flying,20
+582,Vanillite,NULL,NULL,0.4,5.7,Ice,NULL,50.0,50.0,50,Black,36,50,50,65,60,44,305,0,0,0,1,0,0,1,255,Slow,1250000,Mineral,NULL,20
+583,Vanillish,NULL,NULL,1.1,41.0,Ice,NULL,50.0,50.0,50,Black,51,65,65,80,75,59,395,0,0,0,2,0,0,2,120,Slow,1250000,Mineral,NULL,20
+584,Vanilluxe,NULL,NULL,1.3,57.5,Ice,NULL,50.0,50.0,50,Black,71,95,85,110,95,79,535,0,0,0,3,0,0,3,45,Slow,1250000,Mineral,NULL,20
+585,Deerling,NULL,NULL,0.6,19.5,Normal,Grass,50.0,50.0,50,Black,60,60,50,40,50,75,335,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+585,Deerling,Summer,NULL,0.6,19.5,Normal,Grass,50.0,50.0,50,Black,60,60,50,40,50,75,335,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+585,Deerling,Autumn,NULL,0.6,19.5,Normal,Grass,50.0,50.0,50,Black,60,60,50,40,50,75,335,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+585,Deerling,Winter,NULL,0.6,19.5,Normal,Grass,50.0,50.0,50,Black,60,60,50,40,50,75,335,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+586,Sawsbuck,NULL,NULL,1.9,92.5,Normal,Grass,50.0,50.0,50,Black,80,100,70,60,70,95,475,0,2,0,0,0,0,2,75,Medium Fast,1000000,Field,NULL,20
+586,Sawsbuck,Summer,NULL,1.9,92.5,Normal,Grass,50.0,50.0,50,Black,80,100,70,60,70,95,475,0,2,0,0,0,0,2,75,Medium Fast,1000000,Field,NULL,20
+586,Sawsbuck,Autumn,NULL,1.9,92.5,Normal,Grass,50.0,50.0,50,Black,80,100,70,60,70,95,475,0,2,0,0,0,0,2,75,Medium Fast,1000000,Field,NULL,20
+586,Sawsbuck,Winter,NULL,1.9,92.5,Normal,Grass,50.0,50.0,50,Black,80,100,70,60,70,95,475,0,2,0,0,0,0,2,75,Medium Fast,1000000,Field,NULL,20
+587,Emolga,NULL,NULL,0.4,5.0,Electric,Flying,50.0,50.0,50,Black,55,75,60,75,60,103,428,0,0,0,0,0,2,2,200,Medium Fast,1000000,Field,NULL,20
+588,Karrablast,NULL,NULL,0.5,5.9,Bug,NULL,50.0,50.0,50,Black,50,75,45,40,45,60,315,0,1,0,0,0,0,1,200,Medium Fast,1000000,Bug,NULL,15
+589,Escavalier,NULL,NULL,1.0,33.0,Bug,Steel,50.0,50.0,50,Black,70,135,105,60,105,20,495,0,2,0,0,0,0,2,75,Medium Fast,1000000,Bug,NULL,15
+590,Foongus,NULL,NULL,0.2,1.0,Grass,Poison,50.0,50.0,50,Black,69,55,45,55,55,15,294,1,0,0,0,0,0,1,190,Medium Fast,1000000,Grass,NULL,20
+591,Amoonguss,NULL,NULL,0.6,10.5,Grass,Poison,50.0,50.0,50,Black,114,85,70,85,80,30,464,2,0,0,0,0,0,2,75,Medium Fast,1000000,Grass,NULL,20
+592,Frillish,NULL,NULL,1.2,33.0,Water,Ghost,50.0,50.0,50,Black,55,40,50,65,85,40,335,0,0,0,0,1,0,1,190,Medium Fast,1000000,Amorphous,NULL,20
+593,Jellicent,NULL,NULL,2.2,135.0,Water,Ghost,50.0,50.0,50,Black,100,60,70,85,105,60,480,0,0,0,0,2,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+594,Alomomola,NULL,NULL,1.2,31.6,Water,NULL,50.0,50.0,50,Black,165,75,80,40,45,65,470,2,0,0,0,0,0,2,75,Fast,800000,Water 1,Water 2,40
+595,Joltik,NULL,NULL,0.1,0.6,Bug,Electric,50.0,50.0,50,Black,50,47,50,57,50,65,319,0,0,0,0,0,1,1,190,Medium Fast,1000000,Bug,NULL,20
+596,Galvantula,NULL,NULL,0.8,14.3,Bug,Electric,50.0,50.0,50,Black,70,77,60,97,60,108,472,0,0,0,0,0,2,2,75,Medium Fast,1000000,Bug,NULL,20
+597,Ferroseed,NULL,NULL,0.6,18.8,Grass,Steel,50.0,50.0,50,Black,44,50,91,24,86,10,305,0,0,1,0,0,0,1,255,Medium Fast,1000000,Grass,Mineral,20
+598,Ferrothorn,NULL,NULL,1.0,110.0,Grass,Steel,50.0,50.0,50,Black,74,94,131,54,116,20,489,0,0,2,0,0,0,2,90,Medium Fast,1000000,Grass,Mineral,20
+599,Klink,NULL,NULL,0.3,21.0,Steel,NULL,0.0,0.0,50,Black,40,55,70,45,60,30,300,0,0,1,0,0,0,1,130,Medium Slow,1059860,Mineral,NULL,20
+600,Klang,NULL,NULL,0.6,51.0,Steel,NULL,0.0,0.0,50,Black,60,80,95,70,85,50,440,0,0,2,0,0,0,2,60,Medium Slow,1059860,Mineral,NULL,20
+601,Klinklang,NULL,NULL,0.6,81.0,Steel,NULL,0.0,0.0,50,Black,60,100,115,70,85,90,520,0,0,3,0,0,0,3,30,Medium Slow,1059860,Mineral,NULL,20
+602,Tynamo,NULL,NULL,0.2,0.3,Electric,NULL,50.0,50.0,50,Black,35,55,40,45,40,60,275,0,0,0,0,0,1,1,190,Slow,1250000,Amorphous,NULL,20
+603,Eelektrik,NULL,NULL,1.2,22.0,Electric,NULL,50.0,50.0,50,Black,65,85,70,75,70,40,405,0,2,0,0,0,0,2,60,Slow,1250000,Amorphous,NULL,20
+604,Eelektross,NULL,NULL,2.1,80.5,Electric,NULL,50.0,50.0,50,Black,85,115,80,105,80,50,515,0,3,0,0,0,0,3,30,Slow,1250000,Amorphous,NULL,20
+605,Elgyem,NULL,NULL,0.5,9.0,Psychic,NULL,50.0,50.0,50,Black,55,55,55,85,55,30,335,0,0,0,1,0,0,1,255,Medium Fast,1000000,Human-Like,NULL,20
+606,Beheeyem,NULL,NULL,1.0,34.5,Psychic,NULL,50.0,50.0,50,Black,75,75,75,125,95,40,485,0,0,0,2,0,0,2,90,Medium Fast,1000000,Human-Like,NULL,20
+607,Litwick,NULL,NULL,0.3,3.1,Ghost,Fire,50.0,50.0,50,Black,50,30,55,65,55,20,275,0,0,0,1,0,0,1,190,Medium Slow,1059860,Amorphous,NULL,20
+608,Lampent,NULL,NULL,0.6,13.0,Ghost,Fire,50.0,50.0,50,Black,60,40,60,95,60,55,370,0,0,0,2,0,0,2,90,Medium Slow,1059860,Amorphous,NULL,20
+609,Chandelure,NULL,NULL,1.0,34.3,Ghost,Fire,50.0,50.0,50,Black,60,55,90,145,90,80,520,0,0,0,3,0,0,3,45,Medium Slow,1059860,Amorphous,NULL,20
+610,Axew,NULL,NULL,0.6,18.0,Dragon,NULL,50.0,50.0,35,Black,46,87,60,30,40,57,320,0,1,0,0,0,0,1,75,Slow,1250000,Monster,Dragon,40
+611,Fraxure,NULL,NULL,1.0,36.0,Dragon,NULL,50.0,50.0,35,Black,66,117,70,40,50,67,410,0,2,0,0,0,0,2,60,Slow,1250000,Monster,Dragon,40
+612,Haxorus,NULL,NULL,1.8,105.5,Dragon,NULL,50.0,50.0,35,Black,76,147,90,60,70,97,540,0,3,0,0,0,0,3,45,Slow,1250000,Monster,Dragon,40
+613,Cubchoo,NULL,NULL,0.5,8.5,Ice,NULL,50.0,50.0,50,Black,55,70,40,60,40,40,305,0,1,0,0,0,0,1,120,Medium Fast,1000000,Field,NULL,20
+614,Beartic,NULL,NULL,2.6,260.0,Ice,NULL,50.0,50.0,50,Black,95,130,80,70,80,50,505,0,2,0,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+615,Cryogonal,NULL,NULL,1.1,148.0,Ice,NULL,0.0,0.0,50,Black,80,50,50,95,135,105,515,0,0,0,0,2,0,2,25,Medium Fast,1000000,Mineral,NULL,25
+616,Shelmet,NULL,NULL,0.4,7.7,Bug,NULL,50.0,50.0,50,Black,50,40,85,40,65,25,305,0,0,1,0,0,0,1,200,Medium Fast,1000000,Bug,NULL,15
+617,Accelgor,NULL,NULL,0.8,25.3,Bug,NULL,50.0,50.0,50,Black,80,70,40,100,60,145,495,0,0,0,0,0,2,2,75,Medium Fast,1000000,Bug,NULL,15
+618,Stunfisk,NULL,NULL,0.7,11.0,Ground,Electric,50.0,50.0,70,Black,109,66,84,81,99,32,471,2,0,0,0,0,0,2,75,Medium Fast,1000000,Water 1,Amorphous,20
+618,Stunfisk,Galar,NULL,0.7,20.5,Ground,Steel,50.0,50.0,50,Sword,109,81,99,66,84,32,471,2,0,0,0,0,0,2,75,Medium Fast,1000000,Water 1,Amorphous,20
+619,Mienfoo,NULL,NULL,0.9,20.0,Fighting,NULL,50.0,50.0,50,Black,45,85,50,55,50,65,350,0,1,0,0,0,0,1,180,Medium Slow,1059860,Field,Human-Like,25
+620,Mienshao,NULL,NULL,1.4,35.5,Fighting,NULL,50.0,50.0,50,Black,65,125,60,95,60,105,510,0,2,0,0,0,0,2,45,Medium Slow,1059860,Field,Human-Like,25
+621,Druddigon,NULL,NULL,1.6,139.0,Dragon,NULL,50.0,50.0,50,Black,77,120,90,60,90,48,485,0,2,0,0,0,0,2,45,Medium Fast,1000000,Dragon,Monster,30
+622,Golett,NULL,NULL,1.0,92.0,Ground,Ghost,0.0,0.0,50,Black,59,74,50,35,50,35,303,0,1,0,0,0,0,1,190,Medium Fast,1000000,Mineral,NULL,25
+623,Golurk,NULL,NULL,2.8,330.0,Ground,Ghost,0.0,0.0,50,Black,89,124,80,55,80,55,483,0,2,0,0,0,0,2,90,Medium Fast,1000000,Mineral,NULL,25
+624,Pawniard,NULL,NULL,0.5,10.2,Dark,Steel,50.0,50.0,35,Black,45,85,70,40,40,60,340,0,1,0,0,0,0,1,120,Medium Fast,1000000,Human-Like,NULL,20
+625,Bisharp,NULL,NULL,1.6,70.0,Dark,Steel,50.0,50.0,35,Black,65,125,100,60,70,70,490,0,2,0,0,0,0,2,45,Medium Fast,1000000,Human-Like,NULL,20
+626,Bouffalant,NULL,NULL,1.6,94.5,Normal,NULL,50.0,50.0,50,Black,95,110,95,40,95,55,490,0,2,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,20
+627,Rufflet,NULL,NULL,0.5,10.5,Normal,Flying,100.0,0.0,50,Black,70,83,50,37,50,60,350,0,1,0,0,0,0,1,190,Slow,1250000,Flying,NULL,20
+628,Braviary,NULL,NULL,1.5,41.0,Normal,Flying,100.0,0.0,50,Black,100,123,75,57,75,80,510,0,2,0,0,0,0,2,60,Slow,1250000,Flying,NULL,20
+628,Braviary,Hisui,NULL,1.7,43.4,Psychic,Flying,100.0,0.0,50,Legends Arceus,110,83,70,112,70,65,510,0,0,0,2,0,0,2,135,Slow,1250000,Flying,NULL,20
+628,Braviary,Hisui,NULL,1.7,43.4,Psychic,Flying,100.0,0.0,50,Legends Arceus,110,83,70,112,70,65,510,0,0,0,2,0,0,2,135,Slow,1250000,Flying,NULL,20
+629,Vullaby,NULL,NULL,0.5,9.0,Dark,Flying,0.0,100.0,35,Black,70,55,75,45,65,60,370,0,0,1,0,0,0,1,190,Slow,1250000,Flying,NULL,20
+630,Mandibuzz,NULL,NULL,1.2,39.5,Dark,Flying,0.0,100.0,35,Black,110,65,105,55,95,80,510,0,0,0,2,0,0,2,60,Slow,1250000,Flying,NULL,20
+631,Heatmor,NULL,NULL,1.4,58.0,Fire,NULL,50.0,50.0,50,Black,85,97,66,105,66,65,484,0,0,0,2,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+632,Durant,NULL,NULL,0.3,33.0,Bug,Steel,50.0,50.0,50,Black,58,109,112,48,48,109,484,0,0,2,0,0,0,2,90,Medium Fast,1000000,Bug,NULL,20
+633,Deino,NULL,NULL,0.8,17.3,Dark,Dragon,50.0,50.0,35,Black,52,65,50,45,50,38,300,0,1,0,0,0,0,1,45,Slow,1250000,Dragon,NULL,40
+634,Zweilous,NULL,NULL,1.4,50.0,Dark,Dragon,50.0,50.0,35,Black,72,85,70,65,70,58,420,0,2,0,0,0,0,2,45,Slow,1250000,Dragon,NULL,40
+635,Hydreigon,NULL,NULL,1.8,160.0,Dark,Dragon,50.0,50.0,35,Black,92,105,90,125,90,98,600,0,0,0,3,0,0,3,45,Slow,1250000,Dragon,NULL,40
+636,Larvesta,NULL,NULL,1.1,28.8,Bug,Fire,50.0,50.0,50,Black,55,85,55,50,55,60,360,0,1,0,0,0,0,1,45,Slow,1250000,Bug,NULL,40
+637,Volcarona,NULL,NULL,1.6,46.0,Bug,Fire,50.0,50.0,50,Black,85,60,65,135,105,100,550,0,0,0,3,0,0,3,15,Slow,1250000,Bug,NULL,40
+638,Cobalion,NULL,Sub-Legendary,2.1,250.0,Steel,Fighting,0.0,0.0,35,Black,91,90,129,90,72,108,580,0,0,3,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+639,Terrakion,NULL,Sub-Legendary,1.9,260.0,Rock,Fighting,0.0,0.0,35,Black,91,129,90,72,90,108,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+640,Virizion,NULL,Sub-Legendary,2.0,200.0,Grass,Fighting,0.0,0.0,35,Black,91,90,72,90,129,108,580,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+641,Tornadus,NULL,Sub-Legendary,1.5,63.0,Flying,NULL,100.0,0.0,90,Black,79,115,70,125,80,111,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+641,Tornadus,Therian,Sub-Legendary,1.5,63.0,Flying,NULL,100.0,0.0,90,Black 2,79,100,80,110,90,121,580,0,0,0,0,0,3,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+642,Thundurus,NULL,Sub-Legendary,1.5,61.0,Electric,Flying,100.0,0.0,90,Black,79,115,70,125,80,111,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+642,Thundurus,Therian,Sub-Legendary,3.0,61.0,Electric,Flying,100.0,0.0,90,Black 2,79,105,70,145,80,101,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+643,Reshiram,NULL,Legendary,3.2,330.0,Dragon,Fire,0.0,0.0,0,Black,100,120,100,150,120,90,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+644,Zekrom,NULL,Legendary,2.9,345.0,Dragon,Electric,0.0,0.0,0,Black,100,150,120,120,100,90,680,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+645,Landorus,NULL,Sub-Legendary,1.5,68.0,Ground,Flying,100.0,0.0,90,Black,89,125,90,115,80,101,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+645,Landorus,Therian,Sub-Legendary,1.3,68.0,Ground,Flying,100.0,0.0,90,Black 2,89,145,90,105,80,91,600,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+646,Kyurem,NULL,Legendary,3.0,325.0,Dragon,Ice,0.0,0.0,0,Black,125,130,90,130,90,95,660,1,1,0,1,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+646,Kyurem,White,Legendary,3.6,325.0,Dragon,Ice,0.0,0.0,0,Black 2,125,120,90,170,100,95,700,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+646,Kyurem,Black,Legendary,3.3,325.0,Dragon,Ice,0.0,0.0,0,Black 2,125,170,100,120,90,95,700,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+647,Keldeo,NULL,Mythical,1.4,48.5,Water,Fighting,0.0,0.0,35,Black,91,72,90,129,90,108,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+647,Keldeo,Resolute,Mythical,1.4,48.5,Water,Fighting,0.0,0.0,35,Black,91,72,90,129,90,108,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,80
+648,Meloetta,NULL,Mythical,0.6,6.5,Normal,Psychic,0.0,0.0,100,Black,100,77,77,128,128,90,600,0,0,0,1,1,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+648,Meloetta,Pirouette,Mythical,0.6,6.5,Normal,Fighting,0.0,0.0,100,Black,100,128,90,77,77,128,600,0,1,1,0,0,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+649,Genesect,NULL,Mythical,1.5,82.5,Bug,Steel,0.0,0.0,0,Black,71,120,95,120,95,99,600,0,1,0,1,0,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+650,Chespin,NULL,NULL,0.4,9.0,Grass,NULL,87.5,12.5,50,X,56,61,65,48,45,38,313,0,0,1,0,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+651,Quilladin,NULL,NULL,0.7,29.0,Grass,NULL,87.5,12.5,50,X,61,78,95,56,58,57,405,0,0,2,0,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+652,Chesnaught,NULL,NULL,1.6,90.0,Grass,Fighting,87.5,12.5,50,X,88,107,122,74,75,64,530,0,0,3,0,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+653,Fennekin,NULL,NULL,0.4,9.4,Fire,NULL,87.5,12.5,50,X,40,45,40,62,60,60,307,0,0,0,1,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+654,Braixen,NULL,NULL,1.0,14.5,Fire,NULL,87.5,12.5,50,X,59,59,58,90,70,73,409,0,0,0,2,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+655,Delphox,NULL,NULL,1.5,39.0,Fire,Psychic,87.5,12.5,50,X,75,69,72,114,100,104,534,0,0,0,3,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+656,Froakie,NULL,NULL,0.3,7.0,Water,NULL,87.5,12.5,50,X,41,56,40,62,44,71,314,0,0,0,0,0,1,1,45,Medium Slow,1059860,Water 1,NULL,20
+657,Frogadier,NULL,NULL,0.6,10.9,Water,NULL,87.5,12.5,50,X,54,63,52,83,56,97,405,0,0,0,0,0,2,2,45,Medium Slow,1059860,Water 1,NULL,20
+658,Greninja,NULL,NULL,1.5,40.0,Water,Dark,87.5,12.5,50,X,72,95,67,103,71,122,530,0,0,0,0,0,3,3,45,Medium Slow,1059860,Water 1,NULL,20
+658,Greninja,Ash,NULL,1.5,40.0,Water,Dark,100.0,0.0,70,Sun,72,145,67,153,71,132,640,0,0,0,0,0,3,3,45,Medium Slow,1059860,No Eggs Discovered,NULL,20
+659,Bunnelby,NULL,NULL,0.4,5.0,Normal,NULL,50.0,50.0,50,X,38,36,38,32,36,57,237,0,0,0,0,0,1,1,255,Medium Fast,1000000,Field,NULL,15
+660,Diggersby,NULL,NULL,1.0,42.4,Normal,Ground,50.0,50.0,50,X,85,56,77,50,77,78,423,2,0,0,0,0,0,2,127,Medium Fast,1000000,Field,NULL,15
+661,Fletchling,NULL,NULL,0.3,1.7,Normal,Flying,50.0,50.0,50,X,45,50,43,40,38,62,278,0,0,0,0,0,1,1,255,Medium Slow,1059860,Flying,NULL,15
+662,Fletchinder,NULL,NULL,0.7,16.0,Fire,Flying,50.0,50.0,50,X,62,73,55,56,52,84,382,0,0,0,0,0,2,2,120,Medium Slow,1059860,Flying,NULL,15
+663,Talonflame,NULL,NULL,1.2,24.5,Fire,Flying,50.0,50.0,50,X,78,81,71,74,69,126,499,0,0,0,0,0,3,3,45,Medium Slow,1059860,Flying,NULL,15
+664,Scatterbug,NULL,NULL,0.3,2.5,Bug,NULL,50.0,50.0,50,X,38,35,40,27,25,35,200,0,0,1,0,0,0,1,255,Medium Fast,1000000,Bug,NULL,15
+665,Spewpa,NULL,NULL,0.3,8.4,Bug,NULL,50.0,50.0,50,X,45,22,60,27,30,29,213,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,NULL,NULL,1.2,17.0,Bug,Flying,50.0,50.0,50,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Polar Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Tundra Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Continental Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Garden Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Elegant Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Icy Snow Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Modern Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Marine Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Archipelago Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,High Plains Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Sandstorm Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,River Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Monsoon Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Savanna Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Sun Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Ocean Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Jungle Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Fancy Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+666,Vivillon,Poké Ball Pattern,NULL,1.2,17.0,Bug,Flying,50.0,50.0,70,X,80,52,50,90,50,89,411,1,0,0,1,0,1,3,45,Medium Fast,1000000,Bug,NULL,15
+667,Litleo,NULL,NULL,0.6,13.5,Fire,Normal,12.5,87.5,50,X,62,50,58,73,54,72,369,0,0,0,1,0,0,1,220,Medium Slow,1059860,Field,NULL,20
+668,Pyroar,NULL,NULL,1.5,81.5,Fire,Normal,12.5,87.5,50,X,86,68,72,109,66,106,507,0,0,0,2,0,0,2,65,Medium Slow,1059860,Field,NULL,20
+669,Flabébé,NULL,NULL,0.1,0.1,Fairy,NULL,0.0,100.0,50,X,44,38,39,61,79,42,303,0,0,0,0,1,0,1,225,Medium Fast,1000000,Fairy,NULL,20
+669,Flabébé,Yellow Flower,NULL,0.1,0.1,Fairy,NULL,0.0,100.0,50,X,44,38,39,61,79,42,303,0,0,0,0,1,0,1,225,Medium Fast,1000000,Fairy,NULL,20
+669,Flabébé,Orange Flower,NULL,0.1,0.1,Fairy,NULL,0.0,100.0,50,X,44,38,39,61,79,42,303,0,0,0,0,1,0,1,225,Medium Fast,1000000,Fairy,NULL,20
+669,Flabébé,Blue Flower,NULL,0.1,0.1,Fairy,NULL,0.0,100.0,50,X,44,38,39,61,79,42,303,0,0,0,0,1,0,1,225,Medium Fast,1000000,Fairy,NULL,20
+669,Flabébé,White Flower,NULL,0.1,0.1,Fairy,NULL,0.0,100.0,50,X,44,38,39,61,79,42,303,0,0,0,0,1,0,1,225,Medium Fast,1000000,Fairy,NULL,20
+670,Floette,NULL,NULL,0.2,0.9,Fairy,NULL,0.0,100.0,50,X,54,45,47,75,98,52,371,0,0,0,0,2,0,2,120,Medium Fast,1000000,Fairy,NULL,20
+670,Floette,Yellow Flower,NULL,0.2,0.9,Fairy,NULL,0.0,100.0,50,X,54,45,47,75,98,52,371,0,0,0,0,2,0,2,120,Medium Fast,1000000,Fairy,NULL,20
+670,Floette,Orange Flower,NULL,0.2,0.9,Fairy,NULL,0.0,100.0,50,X,54,45,47,75,98,52,371,0,0,0,0,2,0,2,120,Medium Fast,1000000,Fairy,NULL,20
+670,Floette,Blue Flower,NULL,0.2,0.9,Fairy,NULL,0.0,100.0,50,X,54,45,47,75,98,52,371,0,0,0,0,2,0,2,120,Medium Fast,1000000,Fairy,NULL,20
+670,Floette,White Flower,NULL,0.2,0.9,Fairy,NULL,0.0,100.0,50,X,54,45,47,75,98,52,371,0,0,0,0,2,0,2,120,Medium Fast,1000000,Fairy,NULL,20
+671,Florges,NULL,NULL,1.1,10.0,Fairy,NULL,0.0,100.0,50,X,78,65,68,112,154,75,552,0,0,0,0,3,0,3,45,Medium Fast,1000000,Fairy,NULL,20
+671,Florges,Yellow Flower,NULL,1.1,10.0,Fairy,NULL,0.0,100.0,50,X,78,65,68,112,154,75,552,0,0,0,0,3,0,3,45,Medium Fast,1000000,Fairy,NULL,20
+671,Florges,Orange Flower,NULL,1.1,10.0,Fairy,NULL,0.0,100.0,50,X,78,65,68,112,154,75,552,0,0,0,0,3,0,3,45,Medium Fast,1000000,Fairy,NULL,20
+671,Florges,Blue Flower,NULL,1.1,10.0,Fairy,NULL,0.0,100.0,50,X,78,65,68,112,154,75,552,0,0,0,0,3,0,3,45,Medium Fast,1000000,Fairy,NULL,20
+671,Florges,White Flower,NULL,1.1,10.0,Fairy,NULL,0.0,100.0,50,X,78,65,68,112,154,75,552,0,0,0,0,3,0,3,45,Medium Fast,1000000,Fairy,NULL,20
+672,Skiddo,NULL,NULL,0.9,31.0,Grass,NULL,50.0,50.0,50,X,66,65,48,62,57,52,350,1,0,0,0,0,0,1,200,Medium Fast,1000000,Field,NULL,20
+673,Gogoat,NULL,NULL,1.7,91.0,Grass,NULL,50.0,50.0,50,X,123,100,62,97,81,68,531,2,0,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,20
+674,Pancham,NULL,NULL,0.6,8.0,Fighting,NULL,50.0,50.0,50,X,67,82,62,46,48,43,348,0,1,0,0,0,0,1,220,Medium Fast,1000000,Field,Human-Like,25
+675,Pangoro,NULL,NULL,2.1,136.0,Fighting,Dark,50.0,50.0,50,X,95,124,78,69,71,58,495,0,2,0,0,0,0,2,65,Medium Fast,1000000,Field,Human-Like,25
+676,Furfrou,NULL,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Heart Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Star Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Diamond Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Debutante Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Matron Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Dandy Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,La Reine Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Kabuki Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+676,Furfrou,Pharaoh Trim,NULL,1.2,28.0,Normal,NULL,50.0,50.0,70,X,75,80,60,65,90,102,472,0,0,0,0,0,1,1,160,Medium Fast,1000000,Field,NULL,20
+677,Espurr,NULL,NULL,0.3,3.5,Psychic,NULL,50.0,50.0,50,X,62,48,54,63,60,68,355,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,20
+678,Meowstic,NULL,NULL,0.6,8.5,Psychic,NULL,100.0,0.0,50,X,74,48,76,83,81,104,466,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+678,Meowstic,Female,NULL,0.6,8.5,Psychic,NULL,0.0,100.0,50,X,74,48,76,83,81,104,466,0,0,0,0,0,2,2,75,Medium Fast,1000000,Field,NULL,20
+679,Honedge,NULL,NULL,0.8,2.0,Steel,Ghost,50.0,50.0,50,X,45,80,100,35,37,28,325,0,0,1,0,0,0,1,180,Medium Fast,1000000,Mineral,NULL,20
+680,Doublade,NULL,NULL,0.8,4.5,Steel,Ghost,50.0,50.0,50,X,59,110,150,45,49,35,448,0,0,2,0,0,0,2,90,Medium Fast,1000000,Mineral,NULL,20
+681,Aegislash,NULL,NULL,1.7,53.0,Steel,Ghost,50.0,50.0,50,X,60,50,140,50,140,60,500,0,0,2,0,1,0,3,45,Medium Fast,1000000,Mineral,NULL,20
+681,Aegislash,Blade,NULL,1.7,53.0,Steel,Ghost,50.0,50.0,50,X,60,140,50,140,50,60,500,0,2,0,1,0,0,3,45,Medium Fast,1000000,Mineral,NULL,20
+682,Spritzee,NULL,NULL,0.2,0.5,Fairy,NULL,50.0,50.0,50,X,78,52,60,63,65,23,341,1,0,0,0,0,0,1,200,Medium Fast,1000000,Fairy,NULL,20
+683,Aromatisse,NULL,NULL,0.8,15.5,Fairy,NULL,50.0,50.0,50,X,101,72,72,99,89,29,462,2,0,0,0,0,0,2,140,Medium Fast,1000000,Fairy,NULL,20
+684,Swirlix,NULL,NULL,0.4,3.5,Fairy,NULL,50.0,50.0,50,X,62,48,66,59,57,49,341,0,0,1,0,0,0,1,200,Medium Fast,1000000,Fairy,NULL,20
+685,Slurpuff,NULL,NULL,0.8,5.0,Fairy,NULL,50.0,50.0,50,X,82,80,86,85,75,72,480,0,0,2,0,0,0,2,140,Medium Fast,1000000,Fairy,NULL,20
+686,Inkay,NULL,NULL,0.4,3.5,Dark,Psychic,50.0,50.0,50,X,53,54,53,37,46,45,288,0,1,0,0,0,0,1,190,Medium Fast,1000000,Water 1,Water 2,20
+687,Malamar,NULL,NULL,1.5,47.0,Dark,Psychic,50.0,50.0,50,X,86,92,88,68,75,73,482,0,2,0,0,0,0,2,80,Medium Fast,1000000,Water 1,Water 2,20
+688,Binacle,NULL,NULL,0.5,31.0,Rock,Water,50.0,50.0,50,X,42,52,67,39,56,50,306,0,1,0,0,0,0,1,120,Medium Fast,1000000,Water 3,NULL,20
+689,Barbaracle,NULL,NULL,1.3,96.0,Rock,Water,50.0,50.0,50,X,72,105,115,54,86,68,500,0,2,0,0,0,0,2,45,Medium Fast,1000000,Water 3,NULL,20
+690,Skrelp,NULL,NULL,0.5,7.3,Poison,Water,50.0,50.0,50,X,50,60,60,60,60,30,320,0,0,0,0,1,0,1,225,Medium Fast,1000000,Water 1,Dragon,20
+691,Dragalge,NULL,NULL,1.8,81.5,Poison,Dragon,50.0,50.0,50,X,65,75,90,97,123,44,494,0,0,0,0,2,0,2,55,Medium Fast,1000000,Water 1,Dragon,20
+692,Clauncher,NULL,NULL,0.5,8.3,Water,NULL,50.0,50.0,50,X,50,53,62,58,63,44,330,0,0,0,1,0,0,1,225,Slow,1250000,Water 1,Water 3,15
+693,Clawitzer,NULL,NULL,1.3,35.3,Water,NULL,50.0,50.0,50,X,71,73,88,120,89,59,500,0,0,0,2,0,0,2,55,Slow,1250000,Water 1,Water 3,15
+694,Helioptile,NULL,NULL,0.5,6.0,Electric,Normal,50.0,50.0,50,X,44,38,33,61,43,70,289,0,0,0,0,0,1,1,190,Medium Fast,1000000,Monster,Dragon,20
+695,Heliolisk,NULL,NULL,1.0,21.0,Electric,Normal,50.0,50.0,50,X,62,55,52,109,94,109,481,0,0,0,1,0,1,2,75,Medium Fast,1000000,Monster,Dragon,20
+696,Tyrunt,NULL,NULL,0.8,26.0,Rock,Dragon,87.5,12.5,50,X,58,89,77,45,45,48,362,0,1,0,0,0,0,1,45,Medium Fast,1000000,Monster,Dragon,30
+697,Tyrantrum,NULL,NULL,2.5,270.0,Rock,Dragon,87.5,12.5,50,X,82,121,119,69,59,71,521,0,2,0,0,0,0,2,45,Medium Fast,1000000,Monster,Dragon,30
+698,Amaura,NULL,NULL,1.3,25.2,Rock,Ice,87.5,12.5,50,X,77,59,50,67,63,46,362,1,0,0,0,0,0,1,45,Medium Fast,1000000,Monster,NULL,30
+699,Aurorus,NULL,NULL,2.7,225.0,Rock,Ice,87.5,12.5,50,X,123,77,72,99,92,58,521,2,0,0,0,0,0,2,45,Medium Fast,1000000,Monster,NULL,30
+700,Sylveon,NULL,NULL,1.0,23.5,Fairy,NULL,87.5,12.5,50,X,95,65,65,110,130,60,525,0,0,0,0,2,0,2,45,Medium Fast,1000000,Field,NULL,35
+700,Sylveon,NULL,NULL,1.0,23.5,Fairy,NULL,87.5,12.5,50,X,95,65,65,110,130,60,525,0,0,0,0,2,0,2,45,Medium Fast,1000000,Field,NULL,35
+701,Hawlucha,NULL,NULL,0.8,21.5,Fighting,Flying,50.0,50.0,50,X,78,92,75,74,63,118,500,0,2,0,0,0,0,2,100,Medium Fast,1000000,Flying,Human-Like,20
+702,Dedenne,NULL,NULL,0.2,2.2,Electric,Fairy,50.0,50.0,50,X,67,58,57,81,67,101,431,0,0,0,0,0,2,2,180,Medium Fast,1000000,Field,Fairy,20
+703,Carbink,NULL,NULL,0.3,5.7,Rock,Fairy,0.0,0.0,50,X,50,50,150,50,150,50,500,0,0,1,0,1,0,2,60,Slow,1250000,Fairy,Mineral,25
+704,Goomy,NULL,NULL,0.3,2.8,Dragon,NULL,50.0,50.0,35,X,45,50,35,55,75,40,300,0,0,0,0,1,0,1,45,Slow,1250000,Dragon,NULL,40
+705,Sliggoo,NULL,NULL,0.8,17.5,Dragon,NULL,50.0,50.0,35,X,68,75,53,83,113,60,452,0,0,0,0,2,0,2,45,Slow,1250000,Dragon,NULL,40
+705,Sliggoo,Hisui,NULL,0.7,68.5,Steel,Dragon,50.0,50.0,35,Legends Arceus,58,75,83,83,113,40,452,0,0,0,0,2,0,2,105,Slow,1250000,Dragon,NULL,40
+705,Sliggoo,Hisui,NULL,0.7,68.5,Steel,Dragon,50.0,50.0,35,Legends Arceus,58,75,83,83,113,40,452,0,0,0,0,2,0,2,105,Slow,1250000,Dragon,NULL,40
+706,Goodra,NULL,NULL,2.0,150.5,Dragon,NULL,50.0,50.0,35,X,90,100,70,110,150,80,600,0,0,0,0,3,0,3,45,Slow,1250000,Dragon,NULL,40
+706,Goodra,Hisui,NULL,1.7,334.1,Steel,Dragon,50.0,50.0,35,Legends Arceus,80,100,100,110,150,60,600,0,0,0,0,3,0,3,55,Slow,1250000,Dragon,NULL,40
+707,Klefki,NULL,NULL,0.2,3.0,Steel,Fairy,50.0,50.0,50,X,57,80,91,80,87,75,470,0,0,1,0,0,0,1,75,Fast,800000,Mineral,NULL,20
+708,Phantump,NULL,NULL,0.4,7.0,Ghost,Grass,50.0,50.0,50,X,43,70,48,50,60,38,309,0,1,0,0,0,0,1,120,Medium Fast,1000000,Grass,Amorphous,20
+709,Trevenant,NULL,NULL,1.5,71.0,Ghost,Grass,50.0,50.0,50,X,85,110,76,65,82,56,474,0,2,0,0,0,0,2,60,Medium Fast,1000000,Grass,Amorphous,20
+710,Pumpkaboo,NULL,NULL,0.4,5.0,Ghost,Grass,50.0,50.0,50,X,49,66,70,44,55,51,335,0,0,1,0,0,0,1,120,Medium Fast,1000000,Amorphous,NULL,20
+710,Pumpkaboo,Small Size,NULL,0.3,3.5,Ghost,Grass,50.0,50.0,50,X,44,66,70,44,55,56,335,0,0,1,0,0,0,1,120,Medium Fast,1000000,Amorphous,NULL,20
+710,Pumpkaboo,Large Size,NULL,0.5,7.5,Ghost,Grass,50.0,50.0,50,X,54,66,70,44,55,46,335,0,0,1,0,0,0,1,120,Medium Fast,1000000,Amorphous,NULL,20
+710,Pumpkaboo,Super Size,NULL,0.8,15.0,Ghost,Grass,50.0,50.0,50,X,59,66,70,44,55,41,335,0,0,1,0,0,0,1,120,Medium Fast,1000000,Amorphous,NULL,20
+711,Gourgeist,NULL,NULL,0.9,12.5,Ghost,Grass,50.0,50.0,50,X,65,90,122,58,75,84,494,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+711,Gourgeist,Small Size,NULL,0.7,9.5,Ghost,Grass,50.0,50.0,50,X,55,85,122,58,75,99,494,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+711,Gourgeist,Large Size,NULL,1.1,14.0,Ghost,Grass,50.0,50.0,50,X,75,95,122,58,75,69,494,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+711,Gourgeist,Super Size,NULL,1.7,39.0,Ghost,Grass,50.0,50.0,50,X,85,100,122,58,75,54,494,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,20
+712,Bergmite,NULL,NULL,1.0,99.5,Ice,NULL,50.0,50.0,50,X,55,69,85,32,35,28,304,0,0,1,0,0,0,1,190,Medium Fast,1000000,Monster,Mineral,20
+713,Avalugg,Hisui,NULL,1.4,262.4,Ice,Rock,50.0,50.0,50,Legends Arceus,95,127,184,34,36,38,514,0,0,2,0,0,0,2,135,Medium Fast,1000000,Monster,Mineral,20
+713,Avalugg,Hisui,NULL,1.4,262.4,Ice,Rock,50.0,50.0,50,Legends Arceus,95,127,184,34,36,38,514,0,0,2,0,0,0,2,135,Medium Fast,1000000,Monster,Mineral,20
+713,Avalugg,NULL,NULL,2.0,505.0,Ice,NULL,50.0,50.0,50,X,95,117,184,44,46,28,514,0,0,2,0,0,0,2,55,Medium Fast,1000000,Monster,Mineral,20
+714,Noibat,NULL,NULL,0.5,8.0,Flying,Dragon,50.0,50.0,50,X,40,30,35,45,40,55,245,0,0,0,0,0,1,1,190,Medium Fast,1000000,Flying,Dragon,20
+715,Noivern,NULL,NULL,1.5,85.0,Flying,Dragon,50.0,50.0,50,X,85,70,80,97,80,123,535,0,0,0,0,0,2,2,45,Medium Fast,1000000,Flying,Dragon,20
+716,Xerneas,NULL,Legendary,3.0,215.0,Fairy,NULL,0.0,0.0,0,X,126,131,95,131,98,99,680,3,0,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+717,Yveltal,NULL,Legendary,5.8,203.0,Dark,Flying,0.0,0.0,0,X,126,131,95,131,98,99,680,3,0,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+718,Zygarde,NULL,Legendary,5.0,305.0,Dragon,Ground,0.0,0.0,0,X,108,100,121,81,95,95,600,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+718,Zygarde,10%,Legendary,1.2,33.5,Dragon,Ground,0.0,0.0,0,Sun,54,100,71,61,85,115,486,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+718,Zygarde,Complete,Legendary,4.5,610.0,Dragon,Ground,0.0,0.0,0,Sun,216,100,121,91,95,85,708,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+719,Diancie,Mega,Mythical,1.1,27.8,Rock,Fairy,0.0,0.0,70,Omega Ruby,50,160,110,160,110,110,700,0,0,1,0,2,0,3,3,Slow,1250000,No Eggs Discovered,NULL,25
+719,Diancie,NULL,Mythical,0.7,8.8,Rock,Fairy,0.0,0.0,50,X,50,100,150,100,150,50,600,0,0,1,0,2,0,3,3,Slow,1250000,No Eggs Discovered,NULL,25
+720,Hoopa,NULL,Mythical,0.5,9.0,Psychic,Ghost,0.0,0.0,100,X,80,110,60,150,130,70,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+720,Hoopa,Unbound,Mythical,6.5,490.0,Psychic,Dark,0.0,0.0,50,Omega Ruby,80,160,60,170,130,80,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+721,Volcanion,NULL,Mythical,1.7,195.0,Fire,Water,0.0,0.0,100,X,80,110,120,130,90,70,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+722,Rowlet,NULL,NULL,0.3,1.5,Grass,Flying,87.5,12.5,50,Sun,68,55,55,50,50,40,318,1,0,0,0,0,0,1,45,Medium Slow,1059860,Flying,NULL,15
+723,Dartrix,NULL,NULL,0.7,16.0,Grass,Flying,87.5,12.5,50,Sun,78,75,75,70,70,52,420,2,0,0,0,0,0,2,45,Medium Slow,1059860,Flying,NULL,15
+724,Decidueye,NULL,NULL,1.6,36.6,Grass,Ghost,87.5,12.5,50,Sun,78,107,75,100,100,70,530,0,3,0,0,0,0,3,45,Medium Slow,1059860,Flying,NULL,15
+724,Decidueye,Hisui,NULL,1.6,37.0,Grass,Fighting,87.5,12.5,50,Legends Arceus,88,112,80,95,95,60,530,0,3,0,0,0,0,3,55,Medium Slow,1059860,Flying,NULL,15
+724,Decidueye,Hisui,NULL,1.6,37.0,Grass,Fighting,87.5,12.5,50,Legends Arceus,88,112,80,95,95,60,530,0,3,0,0,0,0,3,55,Medium Slow,1059860,Flying,NULL,15
+725,Litten,NULL,NULL,0.4,4.3,Fire,NULL,87.5,12.5,50,Sun,45,65,40,60,40,70,320,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,NULL,15
+726,Torracat,NULL,NULL,0.7,25.0,Fire,NULL,87.5,12.5,50,Sun,65,85,50,80,50,90,420,0,0,0,0,0,2,2,45,Medium Slow,1059860,Field,NULL,15
+727,Incineroar,NULL,NULL,1.8,83.0,Fire,Dark,87.5,12.5,50,Sun,95,115,90,80,90,60,530,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,NULL,15
+728,Popplio,NULL,NULL,0.4,7.5,Water,NULL,87.5,12.5,50,Sun,50,54,54,66,56,40,320,0,0,0,1,0,0,1,45,Medium Slow,1059860,Water 1,Field,15
+729,Brionne,NULL,NULL,0.6,17.5,Water,NULL,87.5,12.5,50,Sun,60,69,69,91,81,50,420,0,0,0,2,0,0,2,45,Medium Slow,1059860,Water 1,Field,15
+730,Primarina,NULL,NULL,1.8,44.0,Water,Fairy,87.5,12.5,50,Sun,80,74,74,126,116,60,530,0,0,0,3,0,0,3,45,Medium Slow,1059860,Water 1,Field,15
+731,Pikipek,NULL,NULL,0.3,1.2,Normal,Flying,50.0,50.0,70,Sun,35,75,30,30,30,65,265,0,1,0,0,0,0,1,255,Medium Fast,1000000,Flying,NULL,15
+732,Trumbeak,NULL,NULL,0.6,14.8,Normal,Flying,50.0,50.0,70,Sun,55,85,50,40,50,75,355,0,2,0,0,0,0,2,120,Medium Fast,1000000,Flying,NULL,15
+733,Toucannon,NULL,NULL,1.1,26.0,Normal,Flying,50.0,50.0,70,Sun,80,120,75,75,75,60,485,0,3,0,0,0,0,3,45,Medium Fast,1000000,Flying,NULL,15
+734,Yungoos,NULL,NULL,0.4,6.0,Normal,NULL,50.0,50.0,50,Sun,48,70,30,30,30,45,253,0,1,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+735,Gumshoos,NULL,NULL,0.7,14.2,Normal,NULL,50.0,50.0,50,Sun,88,110,60,55,60,45,418,0,2,0,0,0,0,2,127,Medium Fast,1000000,Field,NULL,15
+736,Grubbin,NULL,NULL,0.4,4.4,Bug,NULL,50.0,50.0,50,Sun,47,62,45,55,45,46,300,0,1,0,0,0,0,1,255,Medium Fast,1000000,Bug,NULL,15
+737,Charjabug,NULL,NULL,0.5,10.5,Bug,Electric,50.0,50.0,50,Sun,57,82,95,55,75,36,400,0,0,2,0,0,0,2,120,Medium Fast,1000000,Bug,NULL,15
+738,Vikavolt,NULL,NULL,1.5,45.0,Bug,Electric,50.0,50.0,50,Sun,77,70,90,145,75,43,500,0,0,0,3,0,0,3,45,Medium Fast,1000000,Bug,NULL,15
+738,Vikavolt,NULL,NULL,1.5,45.0,Bug,Electric,50.0,50.0,50,Sun,77,70,90,145,75,43,500,0,0,0,3,0,0,3,45,Medium Fast,1000000,Bug,NULL,15
+739,Crabrawler,NULL,NULL,0.6,7.0,Fighting,NULL,50.0,50.0,50,Sun,47,82,57,42,47,63,338,0,1,0,0,0,0,1,225,Medium Fast,1000000,Water 3,NULL,20
+740,Crabominable,NULL,NULL,1.7,180.0,Fighting,Ice,50.0,50.0,50,Sun,97,132,77,62,67,43,478,0,2,0,0,0,0,2,60,Medium Fast,1000000,Water 3,NULL,20
+740,Crabominable,NULL,NULL,1.7,180.0,Fighting,Ice,50.0,50.0,50,Sun,97,132,77,62,67,43,478,0,2,0,0,0,0,2,60,Medium Fast,1000000,Water 3,NULL,20
+741,Oricorio,NULL,NULL,0.6,3.4,Fire,Flying,25.0,75.0,50,Sun,75,70,70,98,70,93,476,0,0,0,2,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+741,Oricorio,Pom-Pom,NULL,0.6,3.4,Electric,Flying,25.0,75.0,50,Sun,75,70,70,98,70,93,476,0,0,0,2,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+741,Oricorio,Pa'u,NULL,0.6,3.4,Psychic,Flying,25.0,75.0,50,Sun,75,70,70,98,70,93,476,0,0,0,2,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+741,Oricorio,Sensu,NULL,0.6,3.4,Ghost,Flying,25.0,75.0,50,Sun,75,70,70,98,70,93,476,0,0,0,2,0,0,2,45,Medium Fast,1000000,Flying,NULL,20
+742,Cutiefly,NULL,NULL,0.1,0.2,Bug,Fairy,50.0,50.0,50,Sun,40,45,40,55,40,84,304,0,0,0,0,0,1,1,190,Medium Fast,1000000,Bug,Fairy,20
+743,Ribombee,NULL,NULL,0.2,0.5,Bug,Fairy,50.0,50.0,50,Sun,60,55,60,96,70,124,465,0,0,0,0,0,2,2,75,Medium Fast,1000000,Bug,Fairy,20
+744,Rockruff,NULL,NULL,0.5,9.2,Rock,NULL,50.0,50.0,50,Sun,45,65,40,30,40,60,280,0,1,0,0,0,0,1,190,Medium Fast,1000000,Field,NULL,15
+745,Lycanroc,NULL,NULL,0.8,25.0,Rock,NULL,50.0,50.0,50,Sun,75,115,65,55,65,112,487,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,NULL,15
+745,Lycanroc,Midnight,NULL,1.1,25.0,Rock,NULL,50.0,50.0,50,Sun,85,115,75,55,75,82,487,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,NULL,15
+745,Lycanroc,Dusk,NULL,0.8,25.0,Rock,NULL,50.0,50.0,50,Ultra Sun,75,117,65,55,65,110,487,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,NULL,15
+746,Wishiwashi,NULL,NULL,0.2,0.3,Water,NULL,50.0,50.0,50,Sun,45,20,20,25,25,40,175,1,0,0,0,0,0,1,60,Fast,800000,Water 2,NULL,15
+746,Wishiwashi,School,NULL,8.2,78.6,Water,NULL,50.0,50.0,50,Sun,45,140,130,140,135,30,620,1,0,0,0,0,0,1,60,Fast,800000,Water 2,NULL,15
+747,Mareanie,NULL,NULL,0.4,8.0,Poison,Water,50.0,50.0,50,Sun,50,53,62,43,52,45,305,0,0,1,0,0,0,1,190,Medium Fast,1000000,Water 1,NULL,20
+748,Toxapex,NULL,NULL,0.7,14.5,Poison,Water,50.0,50.0,50,Sun,50,63,152,53,142,35,495,0,0,2,0,0,0,2,75,Medium Fast,1000000,Water 1,NULL,20
+749,Mudbray,NULL,NULL,1.0,110.0,Ground,NULL,50.0,50.0,50,Sun,70,100,70,45,55,45,385,0,1,0,0,0,0,1,190,Medium Fast,1000000,Field,NULL,20
+750,Mudsdale,NULL,NULL,2.5,920.0,Ground,NULL,50.0,50.0,50,Sun,100,125,100,55,85,35,500,0,2,0,0,0,0,2,60,Medium Fast,1000000,Field,NULL,20
+751,Dewpider,NULL,NULL,0.3,4.0,Water,Bug,50.0,50.0,50,Sun,38,40,52,40,72,27,269,0,0,0,0,1,0,1,200,Medium Fast,1000000,Water 1,Bug,15
+752,Araquanid,NULL,NULL,1.8,82.0,Water,Bug,50.0,50.0,50,Sun,68,70,92,50,132,42,454,0,0,0,0,2,0,2,100,Medium Fast,1000000,Water 1,Bug,15
+753,Fomantis,NULL,NULL,0.3,1.5,Grass,NULL,50.0,50.0,50,Sun,40,55,35,50,35,35,250,0,1,0,0,0,0,1,190,Medium Fast,1000000,Grass,NULL,20
+754,Lurantis,NULL,NULL,0.9,18.5,Grass,NULL,50.0,50.0,50,Sun,70,105,90,80,90,45,480,0,2,0,0,0,0,2,75,Medium Fast,1000000,Grass,NULL,20
+755,Morelull,NULL,NULL,0.2,1.5,Grass,Fairy,50.0,50.0,50,Sun,40,35,55,65,75,15,285,0,0,0,0,1,0,1,190,Medium Fast,1000000,Grass,NULL,20
+756,Shiinotic,NULL,NULL,1.0,11.5,Grass,Fairy,50.0,50.0,50,Sun,60,45,80,90,100,30,405,0,0,0,0,2,0,2,75,Medium Fast,1000000,Grass,NULL,20
+757,Salandit,NULL,NULL,0.6,4.8,Poison,Fire,87.5,12.5,50,Sun,48,44,40,71,40,77,320,0,0,0,0,0,1,1,120,Medium Fast,1000000,Monster,Dragon,20
+758,Salazzle,NULL,NULL,1.2,22.2,Poison,Fire,0.0,100.0,50,Sun,68,64,60,111,60,117,480,0,0,0,0,0,2,2,45,Medium Fast,1000000,Monster,Dragon,20
+759,Stufful,NULL,NULL,0.5,6.8,Normal,Fighting,50.0,50.0,50,Sun,70,75,50,45,50,50,340,0,1,0,0,0,0,1,140,Medium Fast,1000000,Field,NULL,15
+760,Bewear,NULL,NULL,2.1,135.0,Normal,Fighting,50.0,50.0,50,Sun,120,125,80,55,60,60,500,0,2,0,0,0,0,2,70,Medium Fast,1000000,Field,NULL,15
+761,Bounsweet,NULL,NULL,0.3,3.2,Grass,NULL,0.0,100.0,50,Sun,42,30,38,30,38,32,210,1,0,0,0,0,0,1,235,Medium Slow,1059860,Grass,NULL,20
+762,Steenee,NULL,NULL,0.7,8.2,Grass,NULL,0.0,100.0,50,Sun,52,40,48,40,48,62,290,0,0,0,0,0,2,2,120,Medium Slow,1059860,Grass,NULL,20
+763,Tsareena,NULL,NULL,1.2,21.4,Grass,NULL,0.0,100.0,50,Sun,72,120,98,50,98,72,510,0,3,0,0,0,0,3,45,Medium Slow,1059860,Grass,NULL,20
+764,Comfey,NULL,NULL,0.1,0.3,Fairy,NULL,25.0,75.0,50,Sun,51,52,90,82,110,100,485,0,0,0,0,2,0,2,60,Fast,800000,Grass,NULL,20
+765,Oranguru,NULL,NULL,1.5,76.0,Normal,Psychic,50.0,50.0,50,Sun,90,60,80,90,110,60,490,0,0,0,0,2,0,2,45,Slow,1250000,Field,NULL,20
+766,Passimian,NULL,NULL,2.0,82.8,Fighting,NULL,50.0,50.0,50,Sun,100,120,90,40,60,80,490,0,2,0,0,0,0,2,45,Slow,1250000,Field,NULL,20
+767,Wimpod,NULL,NULL,0.5,12.0,Bug,Water,50.0,50.0,50,Sun,25,35,40,20,30,80,230,0,0,0,0,0,1,1,90,Medium Fast,1000000,Bug,Water 3,20
+768,Golisopod,NULL,NULL,2.0,108.0,Bug,Water,50.0,50.0,50,Sun,75,125,140,60,90,40,530,0,0,2,0,0,0,2,45,Medium Fast,1000000,Bug,Water 3,20
+769,Sandygast,NULL,NULL,0.5,70.0,Ghost,Ground,50.0,50.0,50,Sun,55,55,80,70,45,15,320,0,0,1,0,0,0,1,140,Medium Fast,1000000,Amorphous,NULL,15
+770,Palossand,NULL,NULL,1.3,250.0,Ghost,Ground,50.0,50.0,50,Sun,85,75,110,100,75,35,480,0,0,2,0,0,0,2,60,Medium Fast,1000000,Amorphous,NULL,15
+771,Pyukumuku,NULL,NULL,0.3,1.2,Water,NULL,50.0,50.0,50,Sun,55,60,130,30,130,5,410,0,0,0,0,2,0,2,60,Fast,800000,Water 1,NULL,15
+772,Type: Null,NULL,Sub-Legendary,1.9,120.5,Normal,NULL,0.0,0.0,0,Sun,95,95,95,95,95,59,534,2,0,0,0,0,0,2,3,Slow,1250000,No Eggs Discovered,NULL,120
+773,Silvally,NULL,Sub-Legendary,2.3,100.5,Normal,NULL,0.0,0.0,0,Sun,95,95,95,95,95,95,570,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+774,Minior,NULL,NULL,0.3,40.0,Rock,Flying,0.0,0.0,70,Sun,60,60,100,60,100,60,440,0,0,1,0,1,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Red Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Orange Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Yellow Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Green Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Blue Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Indigo Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+774,Minior,Violet Core,NULL,0.3,0.3,Rock,Flying,0.0,0.0,70,Sun,60,100,60,100,60,120,500,0,1,0,1,0,0,2,30,Medium Slow,1059860,Mineral,NULL,25
+775,Komala,NULL,NULL,0.4,19.9,Normal,NULL,50.0,50.0,50,Sun,65,115,65,75,95,65,480,0,2,0,0,0,0,2,45,Slow,1250000,Field,NULL,20
+776,Turtonator,NULL,NULL,2.0,212.0,Fire,Dragon,50.0,50.0,50,Sun,60,78,135,91,85,36,485,0,0,2,0,0,0,2,70,Medium Fast,1000000,Monster,Dragon,20
+777,Togedemaru,NULL,NULL,0.3,3.3,Electric,Steel,50.0,50.0,50,Sun,65,98,63,40,73,96,435,0,2,0,0,0,0,2,180,Medium Fast,1000000,Field,Fairy,10
+778,Mimikyu,NULL,NULL,0.2,0.7,Ghost,Fairy,50.0,50.0,50,Sun,55,90,80,50,105,96,476,0,0,0,0,2,0,2,45,Medium Fast,1000000,Amorphous,NULL,20
+779,Bruxish,NULL,NULL,0.9,19.0,Water,Psychic,50.0,50.0,50,Sun,68,105,70,70,70,92,475,0,2,0,0,0,0,2,80,Medium Fast,1000000,Water 2,NULL,15
+780,Drampa,NULL,NULL,3.0,185.0,Normal,Dragon,50.0,50.0,50,Sun,78,60,85,135,91,36,485,0,0,0,2,0,0,2,70,Medium Fast,1000000,Monster,Dragon,20
+781,Dhelmise,NULL,NULL,3.9,210.0,Ghost,Grass,0.0,0.0,50,Sun,70,131,100,86,90,40,517,0,2,0,0,0,0,2,25,Medium Fast,1000000,Mineral,NULL,25
+782,Jangmo-o,NULL,NULL,0.6,29.7,Dragon,NULL,50.0,50.0,50,Sun,45,55,65,45,45,45,300,0,0,1,0,0,0,1,45,Slow,1250000,Dragon,NULL,40
+783,Hakamo-o,NULL,NULL,1.2,47.0,Dragon,Fighting,50.0,50.0,50,Sun,55,75,90,65,70,65,420,0,0,2,0,0,0,2,45,Slow,1250000,Dragon,NULL,40
+784,Kommo-o,NULL,NULL,1.6,78.2,Dragon,Fighting,50.0,50.0,50,Sun,75,110,125,100,105,85,600,0,0,3,0,0,0,3,45,Slow,1250000,Dragon,NULL,40
+785,Tapu Koko,NULL,Sub-Legendary,1.8,20.5,Electric,Fairy,0.0,0.0,50,Sun,70,115,85,95,75,130,570,0,0,0,0,0,3,3,3,Slow,1250000,No Eggs Discovered,NULL,15
+786,Tapu Lele,NULL,Sub-Legendary,1.2,18.6,Psychic,Fairy,0.0,0.0,50,Sun,70,85,75,130,115,95,570,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,15
+787,Tapu Bulu,NULL,Sub-Legendary,1.9,45.5,Grass,Fairy,0.0,0.0,50,Sun,70,130,115,85,95,75,570,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,15
+788,Tapu Fini,NULL,Sub-Legendary,1.3,21.2,Water,Fairy,0.0,0.0,50,Sun,70,75,115,95,130,85,570,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,15
+789,Cosmog,NULL,Legendary,0.2,0.1,Psychic,NULL,0.0,0.0,0,Sun,43,29,31,29,31,37,200,1,0,0,0,0,0,1,45,Slow,1250000,No Eggs Discovered,NULL,120
+790,Cosmoem,NULL,Legendary,0.1,999.9,Psychic,NULL,0.0,0.0,0,Sun,43,29,131,29,131,37,400,0,0,1,0,1,0,2,45,Slow,1250000,No Eggs Discovered,NULL,120
+791,Solgaleo,NULL,Legendary,3.4,230.0,Psychic,Steel,0.0,0.0,0,Sun,137,137,107,113,89,97,680,0,3,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+791,Solgaleo,NULL,Legendary,3.4,230.0,Psychic,Steel,0.0,0.0,0,Sun,137,137,107,113,89,97,680,0,3,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+791,Solgaleo,NULL,Legendary,3.4,230.0,Psychic,Steel,0.0,0.0,0,Sun,137,137,107,113,89,97,680,0,3,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+792,Lunala,NULL,Legendary,4.0,120.0,Psychic,Ghost,0.0,0.0,0,Sun,137,113,89,137,107,97,680,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+792,Lunala,NULL,Legendary,4.0,120.0,Psychic,Ghost,0.0,0.0,0,Sun,137,113,89,137,107,97,680,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+792,Lunala,NULL,Legendary,4.0,120.0,Psychic,Ghost,0.0,0.0,0,Sun,137,113,89,137,107,97,680,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+793,Nihilego,NULL,Sub-Legendary,1.2,55.5,Rock,Poison,0.0,0.0,0,Sun,109,53,47,127,131,103,570,0,0,0,0,3,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+794,Buzzwole,NULL,Sub-Legendary,2.4,333.6,Bug,Fighting,0.0,0.0,0,Sun,107,139,139,53,53,79,570,0,1,2,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+795,Pheromosa,NULL,Sub-Legendary,1.8,25.0,Bug,Fighting,0.0,0.0,0,Sun,71,137,37,137,37,151,570,0,0,0,0,0,3,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+796,Xurkitree,NULL,Sub-Legendary,3.8,100.0,Electric,NULL,0.0,0.0,0,Sun,83,89,71,173,71,83,570,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+797,Celesteela,NULL,Sub-Legendary,9.2,999.9,Steel,Flying,0.0,0.0,0,Sun,97,101,103,107,101,61,570,0,1,1,1,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+798,Kartana,NULL,Sub-Legendary,0.3,0.1,Grass,Steel,0.0,0.0,0,Sun,59,181,131,59,31,109,570,0,3,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+799,Guzzlord,NULL,Sub-Legendary,5.5,888.0,Dark,Dragon,0.0,0.0,0,Sun,223,101,53,97,53,43,570,3,0,0,0,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+800,Necrozma,Dusk Mane,Legendary,3.8,460.0,Psychic,Steel,0.0,0.0,0,Ultra Sun,97,157,127,113,109,77,680,0,3,0,0,0,0,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+800,Necrozma,Dawn Wings,Legendary,4.2,350.0,Psychic,Ghost,0.0,0.0,0,Ultra Sun,97,113,109,157,127,77,680,0,0,0,3,0,0,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+800,Necrozma,Ultra,Legendary,7.5,230.0,Psychic,Dragon,0.0,0.0,0,Ultra Sun,97,167,97,167,97,129,754,0,1,0,1,0,1,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+800,Necrozma,NULL,Legendary,2.4,230.0,Psychic,NULL,0.0,0.0,0,Sun,97,107,101,127,89,79,600,0,1,0,0,2,0,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+801,Magearna,NULL,Mythical,1.0,80.5,Steel,Fairy,0.0,0.0,0,Sun,80,95,115,130,115,65,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+801,Magearna,Original Color,Mythical,1.0,80.5,Steel,Fairy,0.0,0.0,0,Sun,80,95,115,130,115,65,600,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+802,Marshadow,NULL,Mythical,0.7,22.2,Fighting,Ghost,0.0,0.0,0,Sun,90,125,80,90,90,125,600,0,2,0,0,0,1,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+803,Poipole,NULL,Sub-Legendary,0.6,1.8,Poison,NULL,0.0,0.0,0,Ultra Sun,67,73,67,73,67,73,420,0,0,0,0,0,1,1,45,Slow,1250000,No Eggs Discovered,NULL,120
+804,Naganadel,NULL,Sub-Legendary,3.6,150.0,Poison,Dragon,0.0,0.0,0,Ultra Sun,73,73,73,127,73,121,540,0,0,0,3,0,0,3,45,Slow,1250000,No Eggs Discovered,NULL,120
+805,Stakataka,NULL,Sub-Legendary,5.5,820.0,Rock,Steel,0.0,0.0,0,Ultra Sun,61,131,211,53,101,13,570,0,0,3,0,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,120
+806,Blacephalon,NULL,Sub-Legendary,1.8,13.0,Fire,Ghost,0.0,0.0,0,Ultra Sun,53,127,53,151,79,107,570,0,0,0,3,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,120
+807,Zeraora,NULL,Mythical,1.5,44.5,Electric,NULL,0.0,0.0,0,Ultra Sun,88,112,75,102,80,143,600,0,0,0,0,0,3,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+808,Meltan,NULL,Mythical,0.2,8.0,Steel,NULL,0.0,0.0,0,Pokémon GO,46,65,65,55,35,34,300,0,1,0,0,0,0,1,3,Slow,1250000,No Eggs Discovered,NULL,120
+809,Melmetal,NULL,Mythical,2.5,800.0,Steel,NULL,0.0,0.0,0,Pokémon GO,135,143,143,80,65,34,600,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+810,Grookey,NULL,NULL,0.3,5.0,Grass,NULL,87.5,12.5,50,Sword,50,65,50,40,40,65,310,0,0,0,0,1,0,1,45,Medium Slow,1059860,Field,Grass,20
+811,Thwackey,NULL,NULL,0.7,14.0,Grass,NULL,87.5,12.5,50,Sword,70,85,70,55,60,80,420,0,0,0,0,2,0,2,45,Medium Slow,1059860,Field,Grass,20
+812,Rillaboom,NULL,NULL,2.1,90.0,Grass,NULL,87.5,12.5,50,Sword,100,125,90,60,70,85,530,0,3,0,0,0,0,3,45,Medium Slow,1059860,Field,Grass,20
+813,Scorbunny,NULL,NULL,0.3,4.5,Fire,NULL,87.5,12.5,50,Sword,50,71,40,40,40,69,310,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,Human-Like,20
+814,Raboot,NULL,NULL,0.6,9.0,Fire,NULL,87.5,12.5,50,Sword,65,86,50,55,60,94,410,0,0,0,0,0,2,2,45,Medium Slow,1059860,Field,Human-Like,20
+815,Cinderace,NULL,NULL,1.4,33.0,Fire,NULL,87.5,12.5,50,Sword,80,116,75,65,75,119,530,0,0,0,0,0,3,3,45,Medium Slow,1059860,Field,Human-Like,20
+816,Sobble,NULL,NULL,0.3,4.0,Water,NULL,87.5,12.5,50,Sword,50,40,40,70,40,70,310,0,0,0,0,1,1,2,45,Medium Slow,1059860,Water 1,Field,20
+817,Drizzile,NULL,NULL,0.7,11.5,Water,NULL,87.5,12.5,50,Sword,65,60,55,95,55,90,420,0,0,0,2,0,0,2,45,Medium Slow,1059860,Water 1,Field,20
+818,Inteleon,NULL,NULL,1.9,45.2,Water,NULL,87.5,12.5,50,Sword,70,85,65,125,65,120,530,0,0,0,0,0,3,3,45,Medium Slow,1059860,Water 1,Field,20
+819,Skwovet,NULL,NULL,0.3,2.5,Normal,NULL,50.0,50.0,50,Sword,70,55,55,35,35,25,275,1,0,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,20
+820,Greedent,NULL,NULL,0.6,6.0,Normal,NULL,50.0,50.0,50,Sword,120,95,95,55,75,20,460,2,0,0,0,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+821,Rookidee,NULL,NULL,0.2,1.8,Flying,NULL,50.0,50.0,50,Sword,38,47,35,33,35,57,245,0,0,0,0,0,1,1,255,Medium Slow,1059860,Flying,NULL,15
+822,Corvisquire,NULL,NULL,0.8,16.0,Flying,NULL,50.0,50.0,50,Sword,68,67,55,43,55,77,365,0,0,0,0,0,2,2,120,Medium Slow,1059860,Flying,NULL,15
+823,Corviknight,NULL,NULL,2.2,75.0,Flying,Steel,50.0,50.0,50,Sword,98,87,105,53,85,67,495,0,0,3,0,0,0,3,45,Medium Slow,1059860,Flying,NULL,15
+824,Blipbug,NULL,NULL,0.4,8.0,Bug,NULL,50.0,50.0,50,Sword,25,20,20,25,45,45,180,0,0,0,0,1,0,1,255,Medium Fast,1000000,Bug,NULL,15
+825,Dottler,NULL,NULL,0.4,19.5,Bug,Psychic,50.0,50.0,50,Sword,50,35,80,50,90,30,335,0,0,0,0,2,0,2,120,Medium Fast,1000000,Bug,NULL,15
+826,Orbeetle,NULL,NULL,0.4,40.8,Bug,Psychic,50.0,50.0,50,Sword,60,45,110,80,120,90,505,0,0,0,0,3,0,3,45,Medium Fast,1000000,Bug,NULL,15
+827,Nickit,NULL,NULL,0.6,8.9,Dark,NULL,50.0,50.0,50,Sword,40,28,28,47,52,50,245,0,0,0,0,1,0,1,255,Fast,800000,Field,NULL,15
+828,Thievul,NULL,NULL,1.2,19.9,Dark,NULL,50.0,50.0,50,Sword,70,58,58,87,92,90,455,0,0,0,0,2,0,2,127,Fast,800000,Field,NULL,15
+829,Gossifleur,NULL,NULL,0.4,2.2,Grass,NULL,50.0,50.0,50,Sword,40,40,60,40,60,10,250,0,0,0,0,1,0,1,190,Medium Fast,1000000,Grass,NULL,20
+830,Eldegoss,NULL,NULL,0.5,2.5,Grass,NULL,50.0,50.0,50,Sword,60,50,90,80,120,60,460,0,0,0,0,2,0,2,75,Medium Fast,1000000,Grass,NULL,20
+831,Wooloo,NULL,NULL,0.6,6.0,Normal,NULL,50.0,50.0,50,Sword,42,40,55,40,45,48,270,0,0,1,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+832,Dubwool,NULL,NULL,1.3,43.0,Normal,NULL,50.0,50.0,50,Sword,72,80,100,60,90,88,490,0,0,2,0,0,0,2,127,Medium Fast,1000000,Field,NULL,15
+833,Chewtle,NULL,NULL,0.3,8.5,Water,NULL,50.0,50.0,50,Sword,50,64,50,38,38,44,284,0,1,0,0,0,0,1,255,Medium Fast,1000000,Monster,Water 1,20
+834,Drednaw,NULL,NULL,1.0,115.5,Water,Rock,50.0,50.0,50,Sword,90,115,90,48,68,74,485,0,2,0,0,0,0,2,75,Medium Fast,1000000,Monster,Water 1,20
+835,Yamper,NULL,NULL,0.3,13.5,Electric,NULL,50.0,50.0,50,Sword,59,45,50,40,50,26,270,1,0,0,0,0,0,1,255,Fast,800000,Field,NULL,20
+836,Boltund,NULL,NULL,1.0,34.0,Electric,NULL,50.0,50.0,50,Sword,69,90,60,90,60,121,490,0,0,0,0,0,2,2,45,Fast,800000,Field,NULL,20
+837,Rolycoly,NULL,NULL,0.3,12.0,Rock,NULL,50.0,50.0,50,Sword,30,40,50,40,50,30,240,0,0,1,0,0,0,1,255,Medium Slow,1059860,Mineral,NULL,15
+838,Carkol,NULL,NULL,1.1,78.0,Rock,Fire,50.0,50.0,50,Sword,80,60,90,60,70,50,410,0,0,2,0,0,0,2,120,Medium Slow,1059860,Mineral,NULL,15
+839,Coalossal,NULL,NULL,2.8,310.5,Rock,Fire,50.0,50.0,50,Sword,110,80,120,80,90,30,510,0,0,3,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,15
+840,Applin,NULL,NULL,0.2,0.5,Grass,Dragon,50.0,50.0,50,Sword,40,40,80,40,40,20,260,0,0,1,0,0,0,1,255,Erratic,600000,Grass,Dragon,20
+841,Flapple,NULL,NULL,0.3,1.0,Grass,Dragon,50.0,50.0,50,Sword,70,110,80,95,60,70,485,0,2,0,0,0,0,2,45,Erratic,600000,Grass,Dragon,20
+842,Appletun,NULL,NULL,0.4,13.0,Grass,Dragon,50.0,50.0,50,Sword,110,85,80,100,80,30,485,2,0,0,0,0,0,2,45,Erratic,600000,Grass,Dragon,20
+843,Silicobra,NULL,NULL,2.2,7.6,Ground,NULL,50.0,50.0,50,Sword,52,57,75,35,50,46,315,0,0,1,0,0,0,1,255,Medium Fast,1000000,Field,Dragon,20
+844,Sandaconda,NULL,NULL,3.8,65.5,Ground,NULL,50.0,50.0,50,Sword,72,107,125,65,70,71,510,0,0,2,0,0,0,2,120,Medium Fast,1000000,Field,Dragon,20
+845,Cramorant,NULL,NULL,0.8,18.0,Flying,Water,50.0,50.0,50,Sword,70,85,55,85,95,85,475,0,0,0,0,2,0,2,45,Medium Fast,1000000,Water 1,Flying,20
+846,Arrokuda,NULL,NULL,0.5,1.0,Water,NULL,50.0,50.0,50,Sword,41,63,40,40,30,66,280,0,0,0,0,0,1,1,255,Slow,1250000,Water 2,NULL,20
+847,Barraskewda,NULL,NULL,1.3,30.0,Water,NULL,50.0,50.0,50,Sword,61,123,60,60,50,136,490,0,0,0,0,0,2,2,60,Slow,1250000,Water 2,NULL,20
+848,Toxel,NULL,NULL,0.4,11.0,Electric,Poison,50.0,50.0,50,Sword,40,38,35,54,35,40,242,0,0,0,1,0,0,1,75,Medium Slow,1059860,No Eggs Discovered,NULL,25
+849,Toxtricity,NULL,NULL,1.6,40.0,Electric,Poison,50.0,50.0,50,Sword,75,98,70,114,70,75,502,0,0,0,2,0,0,2,45,Medium Slow,1059860,Human-Like,NULL,25
+849,Toxtricity,Low Key,NULL,1.6,40.0,Electric,Poison,50.0,50.0,50,Sword,75,98,70,114,70,75,502,0,0,0,2,0,0,2,45,Medium Slow,1059860,Human-Like,NULL,25
+849,Toxtricity,Low Key Gigantamax,NULL,24.0,0.0,Electric,Poison,50.0,50.0,50,Sword,75,98,70,114,70,75,502,0,0,0,2,0,0,2,45,Medium Slow,1059860,Human-Like,NULL,25
+850,Sizzlipede,NULL,NULL,0.7,1.0,Fire,Bug,50.0,50.0,50,Sword,50,65,45,50,50,45,305,0,1,0,0,0,0,1,190,Medium Fast,1000000,Bug,NULL,20
+851,Centiskorch,NULL,NULL,3.0,120.0,Fire,Bug,50.0,50.0,50,Sword,100,115,65,90,90,65,525,0,2,0,0,0,0,2,75,Medium Fast,1000000,Bug,NULL,20
+852,Clobbopus,NULL,NULL,0.6,4.0,Fighting,NULL,50.0,50.0,50,Sword,50,68,60,50,50,32,310,0,1,0,0,0,0,1,180,Medium Slow,1059860,Water 1,Human-Like,25
+853,Grapploct,NULL,NULL,1.6,39.0,Fighting,NULL,50.0,50.0,50,Sword,80,118,90,70,80,42,480,0,2,0,0,0,0,2,45,Medium Slow,1059860,Water 1,Human-Like,25
+854,Sinistea,NULL,NULL,0.1,0.2,Ghost,NULL,0.0,0.0,50,Sword,40,45,45,74,54,50,308,0,0,0,1,0,0,1,120,Medium Fast,1000000,Mineral,Amorphous,20
+854,Sinistea,Antique,NULL,0.1,0.2,Ghost,NULL,0.0,0.0,50,Sword,40,45,45,74,54,50,308,0,0,0,1,0,0,1,120,Medium Fast,1000000,Mineral,Amorphous,20
+855,Polteageist,Antique,NULL,0.2,0.4,Ghost,NULL,0.0,0.0,50,Sword,60,65,65,134,114,70,508,0,0,0,2,0,0,2,60,Medium Fast,1000000,Mineral,Amorphous,20
+855,Polteageist,NULL,NULL,0.2,0.4,Ghost,NULL,0.0,0.0,50,Sword,60,65,65,134,114,70,508,0,0,0,2,0,0,2,60,Medium Fast,1000000,Mineral,Amorphous,20
+856,Hatenna,NULL,NULL,0.4,3.4,Psychic,NULL,0.0,100.0,50,Sword,42,30,45,56,53,39,265,0,0,0,1,0,0,1,235,Slow,1250000,Fairy,NULL,20
+857,Hattrem,NULL,NULL,0.6,4.8,Psychic,NULL,0.0,100.0,50,Sword,57,40,65,86,73,49,370,0,0,0,2,0,0,2,120,Slow,1250000,Fairy,NULL,20
+858,Hatterene,NULL,NULL,2.1,5.1,Psychic,Fairy,0.0,100.0,50,Sword,57,90,95,136,103,29,510,0,0,0,3,0,0,3,45,Slow,1250000,Fairy,NULL,20
+859,Impidimp,NULL,NULL,0.4,5.5,Dark,Fairy,100.0,0.0,50,Sword,45,45,30,55,40,50,265,0,0,0,1,0,0,1,255,Medium Fast,1000000,Fairy,Human-Like,20
+860,Morgrem,NULL,NULL,0.8,12.5,Dark,Fairy,100.0,0.0,50,Sword,65,60,45,75,55,70,370,0,0,0,2,0,0,2,120,Medium Fast,1000000,Fairy,Human-Like,20
+861,Grimmsnarl,NULL,NULL,1.5,61.0,Dark,Fairy,100.0,0.0,50,Sword,95,120,65,95,75,60,510,0,3,0,0,0,0,3,45,Medium Fast,1000000,Fairy,Human-Like,20
+862,Obstagoon,NULL,NULL,1.6,46.0,Dark,Normal,50.0,50.0,50,Sword,93,90,101,60,81,95,520,0,0,3,0,0,0,3,45,Medium Fast,1000000,Field,NULL,15
+863,Perrserker,NULL,NULL,0.8,28.0,Steel,NULL,50.0,50.0,50,Sword,70,110,100,50,60,50,440,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,NULL,20
+864,Cursola,NULL,NULL,1.0,0.4,Ghost,NULL,25.0,75.0,50,Sword,60,95,50,145,130,30,510,0,0,0,2,0,0,2,30,Fast,800000,Water 1,Water 3,20
+865,Sirfetch'd,NULL,NULL,0.8,117.0,Fighting,NULL,50.0,50.0,50,Sword,62,135,95,68,82,65,507,0,2,0,0,0,0,2,45,Medium Fast,1000000,Flying,Field,20
+866,Mr. Rime,NULL,NULL,1.5,58.2,Ice,Psychic,50.0,50.0,50,Sword,80,85,75,110,100,70,520,0,0,0,3,0,0,3,45,Medium Fast,1000000,Human-Like,NULL,25
+867,Runerigus,NULL,NULL,1.6,66.6,Ground,Ghost,50.0,50.0,50,Sword,58,95,145,50,105,30,483,0,0,2,0,0,0,2,90,Medium Fast,1000000,Mineral,Amorphous,25
+868,Milcery,NULL,NULL,0.2,0.3,Fairy,NULL,0.0,100.0,50,Sword,45,40,40,50,61,34,270,0,0,0,0,1,0,1,200,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,NULL,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Ruby Cream,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Matcha Cream,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Mint Cream,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Lemon Cream,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Salted Cream,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Ruby Swirl,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Caramel Swirl,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+869,Alcremie,Rainbow Swirl,NULL,0.3,0.5,Fairy,NULL,0.0,100.0,50,Sword,65,60,75,110,121,64,495,0,0,0,0,2,0,2,100,Medium Fast,1000000,Fairy,Amorphous,20
+870,Falinks,NULL,NULL,3.0,62.0,Fighting,NULL,0.0,0.0,50,Sword,60,100,100,70,60,75,465,0,2,0,0,1,0,3,45,Medium Fast,1000000,Fairy,Mineral,25
+871,Pincurchin,NULL,NULL,0.3,1.0,Electric,NULL,50.0,50.0,50,Sword,48,101,95,91,85,15,435,0,2,0,0,0,0,2,75,Medium Fast,1000000,Water 1,Amorphous,20
+872,Snom,NULL,NULL,0.3,3.8,Ice,Bug,50.0,50.0,50,Sword,30,25,35,45,30,20,185,0,0,0,1,0,0,1,190,Medium Fast,1000000,Bug,NULL,20
+873,Frosmoth,NULL,NULL,1.3,42.0,Ice,Bug,50.0,50.0,50,Sword,70,65,60,125,90,65,475,0,0,0,2,0,0,2,75,Medium Fast,1000000,Bug,NULL,20
+874,Stonjourner,NULL,NULL,2.5,520.0,Rock,NULL,50.0,50.0,50,Sword,100,125,135,20,20,70,470,0,0,2,0,0,0,2,60,Slow,1250000,Mineral,NULL,25
+875,Eiscue,NULL,NULL,1.4,89.0,Ice,NULL,50.0,50.0,50,Sword,75,80,110,65,90,50,470,0,0,2,0,0,0,2,60,Slow,1250000,Water 1,Field,25
+875,Eiscue,Noice,NULL,1.4,89.0,Ice,NULL,50.0,50.0,50,Sword,75,80,70,65,50,130,470,0,0,2,0,0,0,2,60,Slow,1250000,Water 1,Field,25
+876,Indeedee,NULL,NULL,0.9,28.0,Psychic,Normal,100.0,0.0,140,Sword,60,65,55,105,95,95,475,0,0,0,2,0,0,2,30,Fast,800000,Fairy,NULL,40
+876,Indeedee,Female,NULL,0.9,28.0,Psychic,Normal,0.0,100.0,140,Sword,70,55,65,95,105,85,475,0,0,0,0,2,0,2,30,Fast,800000,Fairy,NULL,40
+877,Morpeko,NULL,NULL,0.3,3.0,Electric,Dark,50.0,50.0,50,Sword,58,95,58,70,58,97,436,0,0,0,0,0,2,2,180,Medium Fast,1000000,Field,Fairy,10
+878,Cufant,NULL,NULL,1.2,100.0,Steel,NULL,50.0,50.0,50,Sword,72,80,49,40,49,40,330,0,1,0,0,0,0,1,190,Medium Fast,1000000,Field,Mineral,25
+879,Copperajah,NULL,NULL,3.0,650.0,Steel,NULL,50.0,50.0,50,Sword,122,130,69,80,69,30,500,0,2,0,0,0,0,2,90,Medium Fast,1000000,Field,Mineral,25
+880,Dracozolt,NULL,NULL,1.8,190.0,Electric,Dragon,0.0,0.0,50,Sword,90,100,90,80,70,75,505,0,2,0,0,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,35
+881,Arctozolt,NULL,NULL,2.3,150.0,Electric,Ice,0.0,0.0,50,Sword,90,100,90,90,80,55,505,0,2,0,0,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,35
+882,Dracovish,NULL,NULL,2.3,215.0,Water,Dragon,0.0,0.0,50,Sword,90,90,100,70,80,75,505,0,0,2,0,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,35
+883,Arctovish,NULL,NULL,2.0,175.0,Water,Ice,0.0,0.0,50,Sword,90,90,100,80,90,55,505,0,0,2,0,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,35
+884,Duraludon,NULL,NULL,1.8,40.0,Steel,Dragon,50.0,50.0,50,Sword,70,95,115,120,50,85,535,0,0,0,2,0,0,2,45,Medium Fast,1000000,Mineral,Dragon,30
+885,Dreepy,NULL,NULL,0.5,2.0,Dragon,Ghost,50.0,50.0,50,Sword,28,60,30,40,30,82,270,0,0,0,0,0,1,1,45,Slow,1250000,Amorphous,Dragon,40
+886,Drakloak,NULL,NULL,1.4,11.0,Dragon,Ghost,50.0,50.0,50,Sword,68,80,50,60,50,102,410,0,0,0,0,0,2,2,45,Slow,1250000,Amorphous,Dragon,40
+887,Dragapult,NULL,NULL,3.0,50.0,Dragon,Ghost,50.0,50.0,50,Sword,88,120,75,100,75,142,600,0,0,0,0,0,3,3,45,Slow,1250000,Amorphous,Dragon,40
+888,Zacian,NULL,Legendary,2.8,110.0,Fairy,NULL,0.0,0.0,0,Sword,92,120,115,80,115,138,660,0,0,0,0,0,3,3,10,Slow,1250000,No Eggs Discovered,NULL,120
+888,Zacian,Crowned,Legendary,2.8,355.0,Fairy,Steel,0.0,0.0,0,Sword,92,150,115,80,115,148,700,0,0,0,0,0,3,3,10,Slow,1250000,No Eggs Discovered,NULL,120
+889,Zamazenta,NULL,Legendary,2.9,210.0,Fighting,NULL,0.0,0.0,0,Sword,92,120,115,80,115,138,660,0,0,0,0,0,3,3,10,Slow,1250000,No Eggs Discovered,NULL,120
+889,Zamazenta,Crowned,Legendary,2.9,785.0,Fighting,Steel,0.0,0.0,0,Sword,92,120,140,80,140,128,700,0,0,0,0,0,3,3,10,Slow,1250000,No Eggs Discovered,NULL,120
+890,Eternatus,NULL,Legendary,20.0,950.0,Poison,Dragon,0.0,0.0,0,Sword,140,85,95,145,95,130,690,3,0,0,0,0,0,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+890,Eternatus,Eternamax,Legendary,100.0,0.0,Poison,Dragon,0.0,0.0,0,Sword,255,115,250,125,250,130,1125,3,0,0,0,0,0,3,255,Slow,1250000,No Eggs Discovered,NULL,120
+891,Kubfu,NULL,Sub-Legendary,0.6,12.0,Fighting,NULL,87.5,12.5,0,Sword,60,90,60,53,50,72,385,0,1,0,0,0,0,1,3,Slow,1250000,No Eggs Discovered,NULL,120
+892,Urshifu,NULL,Sub-Legendary,1.9,105.0,Fighting,Dark,87.5,12.5,0,Sword,100,130,100,63,60,97,550,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+892,Urshifu,NULL,Sub-Legendary,1.9,105.0,Fighting,Dark,87.5,12.5,0,Sword,100,130,100,63,60,97,550,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+892,Urshifu,Rapid Strike,Sub-Legendary,1.9,105.0,Fighting,Water,87.5,12.5,0,Sword,100,130,100,63,60,97,550,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+892,Urshifu,Rapid Strike,Sub-Legendary,1.9,105.0,Fighting,Water,87.5,12.5,0,Sword,100,130,100,63,60,97,550,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+892,Urshifu,Rapid Strike Gigantamax,Sub-Legendary,29.0,0.0,Fighting,Water,87.5,12.5,0,Sword,100,130,100,63,60,97,550,0,3,0,0,0,0,3,3,Erratic,600000,No Eggs Discovered,NULL,5
+893,Zarude,NULL,Mythical,1.8,70.0,Dark,Grass,0.0,0.0,0,Sword,105,120,105,70,95,105,600,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+893,Zarude,Dada,Mythical,1.8,70.0,Dark,Grass,0.0,0.0,0,Sword,105,120,105,70,95,105,600,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+894,Regieleki,NULL,Sub-Legendary,1.2,145.0,Electric,NULL,0.0,0.0,35,Sword,80,100,50,100,50,200,580,0,0,0,0,0,3,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+895,Regidrago,NULL,Sub-Legendary,2.1,200.0,Dragon,NULL,0.0,0.0,35,Sword,200,100,50,100,50,80,580,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+896,Glastrier,NULL,Sub-Legendary,2.2,800.0,Ice,NULL,0.0,0.0,0,Sword,100,145,130,65,110,30,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+897,Spectrier,NULL,Sub-Legendary,2.0,44.5,Ghost,NULL,0.0,0.0,0,Sword,100,65,60,145,80,130,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+898,Calyrex,NULL,Legendary,1.1,7.7,Psychic,Grass,0.0,0.0,0,Sword,100,80,80,80,80,80,500,3,0,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+898,Calyrex,Ice Rider,Legendary,1.1,7.7,Psychic,Ice,0.0,0.0,0,Sword,100,165,150,85,130,50,680,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+898,Calyrex,Shadow Rider,Legendary,1.1,7.7,Psychic,Ghost,0.0,0.0,0,Sword,100,85,80,165,100,150,680,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+899,Wyrdeer,NULL,NULL,1.8,95.1,Normal,Psychic,50.0,50.0,0,Legends Arceus,103,105,72,105,75,65,525,0,1,0,0,0,0,1,135,Slow,1250000,Field,NULL,20
+899,Wyrdeer,NULL,NULL,1.8,95.1,Normal,Psychic,50.0,50.0,0,Legends Arceus,103,105,72,105,75,65,525,0,1,0,0,0,0,1,135,Slow,1250000,Field,NULL,20
+900,Kleavor,NULL,NULL,1.8,89.0,Bug,Rock,50.0,50.0,0,Legends Arceus,70,130,95,45,75,85,500,0,2,0,0,0,0,2,115,Medium Fast,1000000,Bug,NULL,25
+901,Ursaluna,NULL,NULL,2.4,290.0,Ground,Normal,50.0,50.0,0,Legends Arceus,130,140,105,45,80,50,550,0,3,0,0,0,0,3,75,Medium Fast,1000000,Field,NULL,20
+901,Ursaluna,NULL,NULL,2.4,290.0,Ground,Normal,50.0,50.0,0,Legends Arceus,130,140,105,45,80,50,550,0,3,0,0,0,0,3,75,Medium Fast,1000000,Field,NULL,20
+901,Ursaluna,Bloodmoon,NULL,2.4,290.0,Ground,Normal,50.0,50.0,0,Scarlet,113,70,120,135,65,52,555,0,0,0,3,0,0,3,20,Medium Fast,1000000,Field,NULL,20
+902,Basculegion,Female,NULL,3.0,110.0,Water,Ghost,0.0,100.0,0,Legends Arceus,120,92,65,100,75,78,530,2,0,0,0,0,0,2,135,Medium Fast,1000000,Water 2,NULL,40
+902,Basculegion,NULL,NULL,3.0,110.0,Water,Ghost,100.0,0.0,0,Legends Arceus,120,112,65,80,75,78,530,2,0,0,0,0,0,2,135,Medium Fast,1000000,Water 2,NULL,40
+903,Sneasler,NULL,NULL,1.3,43.0,Fighting,Poison,50.0,50.0,0,Legends Arceus,80,130,60,40,80,120,510,0,1,0,0,0,1,2,135,Medium Slow,1059860,Field,NULL,20
+904,Overqwil,NULL,NULL,2.5,60.5,Dark,Poison,50.0,50.0,0,Legends Arceus,85,115,95,65,65,85,510,0,1,0,0,0,0,1,135,Medium Fast,1000000,Water 2,NULL,20
+904,Overqwil,NULL,NULL,2.5,60.5,Dark,Poison,50.0,50.0,0,Legends Arceus,85,115,95,65,65,85,510,0,1,0,0,0,0,1,135,Medium Fast,1000000,Water 2,NULL,20
+905,Enamorus,NULL,Sub-Legendary,1.6,48.0,Fairy,Flying,0.0,100.0,0,Legends Arceus,74,115,70,135,80,106,580,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+905,Enamorus,Therian,Sub-Legendary,1.6,48.0,Fairy,Flying,0.0,100.0,0,Legends Arceus,74,115,110,135,100,46,580,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+906,Sprigatito,NULL,NULL,0.4,4.1,Grass,NULL,87.5,12.5,50,Scarlet,40,61,54,45,45,65,310,0,0,0,0,0,1,1,45,Medium Slow,1059860,Field,Grass,20
+907,Floragato,NULL,NULL,0.9,12.2,Grass,NULL,87.5,12.5,50,Scarlet,61,80,63,60,63,83,410,0,0,0,0,0,2,2,45,Medium Slow,1059860,Field,Grass,20
+908,Meowscarada,NULL,NULL,1.5,31.2,Grass,Dark,87.5,12.5,50,Scarlet,76,110,70,81,70,123,530,0,0,0,0,0,3,3,45,Medium Slow,1059860,Field,Grass,20
+909,Fuecoco,NULL,NULL,0.4,4.1,Fire,NULL,87.5,12.5,50,Scarlet,67,45,59,63,40,36,310,1,0,0,0,0,0,1,45,Medium Slow,1059860,Field,NULL,20
+910,Crocalor,NULL,NULL,1.0,30.7,Fire,NULL,87.5,12.5,50,Scarlet,81,55,78,49,58,90,411,0,0,0,2,0,0,2,45,Medium Slow,1059860,Field,NULL,20
+911,Skeledirge,NULL,NULL,1.6,326.5,Fire,Ghost,87.5,12.5,50,Scarlet,104,75,100,110,75,66,530,0,0,0,3,0,0,3,45,Medium Slow,1059860,Field,NULL,20
+912,Quaxly,NULL,NULL,0.5,6.1,Water,NULL,87.5,12.5,50,Scarlet,55,65,45,50,45,50,310,0,1,0,0,0,0,1,45,Medium Slow,1059860,Flying,Water 1,20
+913,Quaxwell,NULL,NULL,1.2,21.5,Water,NULL,87.5,12.5,50,Scarlet,70,85,65,65,60,65,410,0,2,0,0,0,0,2,45,Medium Slow,1059860,Flying,Water 1,20
+914,Quaquaval,NULL,NULL,1.8,61.9,Water,Fighting,87.5,12.5,50,Scarlet,85,120,80,85,75,85,530,0,3,0,0,0,0,3,45,Medium Slow,1059860,Flying,Water 1,20
+915,Lechonk,NULL,NULL,0.5,10.2,Normal,NULL,50.0,50.0,50,Scarlet,54,45,40,35,45,35,254,1,0,0,0,0,0,1,255,Medium Fast,1000000,Field,NULL,15
+916,Oinkologne,NULL,NULL,1.0,120.0,Normal,NULL,100.0,0.0,50,Scarlet,110,100,75,59,80,65,489,2,0,0,0,0,0,2,100,Medium Fast,1000000,Field,NULL,15
+916,Oinkologne,Female,NULL,1.0,120.0,Normal,NULL,0.0,100.0,50,Scarlet,115,90,70,59,90,65,489,2,0,0,0,0,0,2,100,Medium Fast,1000000,Field,NULL,15
+917,Tarountula,NULL,NULL,0.3,4.0,Bug,NULL,50.0,50.0,50,Scarlet,35,41,45,29,40,20,210,0,0,1,0,0,0,1,255,Erratic,600000,Bug,NULL,15
+918,Spidops,NULL,NULL,1.0,16.5,Bug,NULL,50.0,50.0,50,Scarlet,60,79,92,52,86,35,404,0,0,2,0,0,0,2,120,Erratic,600000,Bug,NULL,15
+919,Nymble,NULL,NULL,0.2,1.0,Bug,NULL,50.0,50.0,20,Scarlet,33,46,40,21,25,45,210,0,1,0,0,0,0,1,190,Medium Fast,1000000,Bug,NULL,20
+920,Lokix,NULL,NULL,1.0,17.5,Bug,Dark,50.0,50.0,0,Scarlet,71,102,78,52,55,92,450,0,2,0,0,0,0,2,30,Medium Fast,1000000,Bug,NULL,20
+921,Pawmi,NULL,NULL,0.3,2.5,Electric,NULL,50.0,50.0,50,Scarlet,45,50,20,40,25,60,240,0,0,0,0,0,1,1,190,Medium Fast,1000000,Field,NULL,15
+922,Pawmo,NULL,NULL,0.4,6.5,Electric,Fighting,50.0,50.0,50,Scarlet,60,75,40,50,40,85,350,0,0,0,0,0,2,2,80,Medium Fast,1000000,Field,NULL,15
+923,Pawmot,NULL,NULL,0.9,41.0,Electric,Fighting,50.0,50.0,50,Scarlet,70,115,70,70,60,105,490,0,3,0,0,0,0,3,45,Medium Fast,1000000,Field,NULL,15
+924,Tandemaus,NULL,NULL,0.3,1.8,Normal,NULL,0.0,0.0,50,Scarlet,50,50,45,40,45,75,305,0,0,0,0,0,1,1,150,Fast,800000,Field,Fairy,10
+925,Maushold,NULL,NULL,0.3,2.8,Normal,NULL,0.0,0.0,50,Scarlet,74,75,70,65,75,111,470,0,0,0,0,0,2,2,75,Fast,800000,Field,Fairy,10
+925,Maushold,Family of Three,NULL,0.3,2.3,Normal,NULL,0.0,0.0,50,Scarlet,74,75,70,65,75,111,470,0,0,0,0,0,2,2,75,Fast,800000,Field,Fairy,10
+926,Fidough,NULL,NULL,0.3,10.9,Fairy,NULL,50.0,50.0,50,Scarlet,37,55,70,30,55,65,312,0,0,0,0,0,1,1,190,Medium Slow,1059860,Field,Mineral,20
+927,Dachsbun,NULL,NULL,0.5,14.9,Fairy,NULL,50.0,50.0,50,Scarlet,57,80,115,50,80,95,477,0,0,0,0,0,2,2,90,Medium Slow,1059860,Field,Mineral,20
+928,Smoliv,NULL,NULL,0.3,6.5,Grass,Normal,50.0,50.0,50,Scarlet,41,35,45,58,51,30,260,0,0,0,1,0,0,1,255,Medium Slow,1059860,Grass,NULL,20
+929,Dolliv,NULL,NULL,0.6,11.9,Grass,Normal,50.0,50.0,50,Scarlet,52,53,60,78,78,33,354,0,0,0,2,0,0,2,120,Medium Slow,1059860,Grass,NULL,20
+930,Arboliva,NULL,NULL,1.4,48.2,Grass,Normal,50.0,50.0,50,Scarlet,78,69,90,125,109,39,510,0,0,0,3,0,0,3,45,Medium Slow,1059860,Grass,NULL,20
+931,Squawkabilly,NULL,NULL,0.6,2.4,Normal,Flying,50.0,50.0,50,Scarlet,82,96,51,45,51,92,417,0,1,0,0,0,0,1,190,Erratic,600000,Flying,NULL,15
+931,Squawkabilly,Blue Plumage,NULL,0.6,2.4,Normal,Flying,50.0,50.0,50,Scarlet,82,96,51,45,51,92,417,0,1,0,0,0,0,1,190,Erratic,600000,Flying,NULL,15
+931,Squawkabilly,Yellow Plumage,NULL,0.6,2.4,Normal,Flying,50.0,50.0,50,Scarlet,82,96,51,45,51,92,417,0,1,0,0,0,0,1,190,Erratic,600000,Flying,NULL,15
+931,Squawkabilly,White Plumage,NULL,0.6,2.4,Normal,Flying,50.0,50.0,50,Scarlet,82,96,51,45,51,92,417,0,1,0,0,0,0,1,190,Erratic,600000,Flying,NULL,15
+932,Nacli,NULL,NULL,0.4,16.0,Rock,NULL,50.0,50.0,50,Scarlet,55,55,75,35,35,25,280,0,0,1,0,0,0,1,255,Medium Slow,1059860,Mineral,NULL,20
+933,Naclstack,NULL,NULL,0.6,105.0,Rock,NULL,50.0,50.0,50,Scarlet,60,60,100,35,65,35,355,0,0,2,0,0,0,2,120,Medium Slow,1059860,Mineral,NULL,20
+934,Garganacl,NULL,NULL,2.3,240.0,Rock,NULL,50.0,50.0,50,Scarlet,100,100,130,45,90,35,500,0,0,3,0,0,0,3,45,Medium Slow,1059860,Mineral,NULL,20
+935,Charcadet,NULL,NULL,0.6,10.5,Fire,NULL,50.0,50.0,50,Scarlet,40,50,40,50,40,35,255,0,0,0,1,0,0,1,90,Slow,1250000,Human-Like,NULL,35
+936,Armarouge,NULL,NULL,1.5,85.0,Fire,Psychic,50.0,50.0,0,Scarlet,85,60,100,125,80,75,525,0,0,0,2,0,0,2,25,Slow,1250000,Human-Like,NULL,35
+937,Ceruledge,NULL,NULL,1.6,62.0,Fire,Ghost,50.0,50.0,0,Scarlet,75,125,80,60,100,85,525,0,2,0,0,0,0,2,25,Slow,1250000,Human-Like,NULL,35
+938,Tadbulb,NULL,NULL,0.3,0.4,Electric,NULL,50.0,50.0,50,Scarlet,61,31,41,59,35,45,272,1,0,0,0,0,0,1,190,Medium Fast,1000000,Water 1,NULL,20
+939,Bellibolt,NULL,NULL,1.2,113.0,Electric,NULL,50.0,50.0,50,Scarlet,109,64,91,103,83,45,495,2,0,0,0,0,0,2,50,Medium Fast,1000000,Water 1,NULL,20
+940,Wattrel,NULL,NULL,0.4,3.6,Electric,Flying,50.0,50.0,50,Scarlet,40,40,35,55,40,70,280,0,0,0,0,0,1,1,180,Medium Slow,1059860,Water 1,Flying,20
+941,Kilowattrel,NULL,NULL,1.4,38.6,Electric,Flying,50.0,50.0,50,Scarlet,70,70,60,105,60,125,490,0,0,0,0,0,2,2,90,Medium Slow,1059860,Water 1,Flying,20
+942,Maschiff,NULL,NULL,0.5,16.0,Dark,NULL,50.0,50.0,50,Scarlet,60,78,60,40,51,51,340,0,1,0,0,0,0,1,150,Medium Slow,1059860,Field,NULL,20
+943,Mabosstiff,NULL,NULL,1.1,61.0,Dark,NULL,50.0,50.0,50,Scarlet,80,120,90,60,70,85,505,0,2,0,0,0,0,2,75,Medium Slow,1059860,Field,NULL,20
+944,Shroodle,NULL,NULL,0.2,0.7,Poison,Normal,50.0,50.0,50,Scarlet,40,65,35,40,35,75,290,0,0,0,0,0,1,1,190,Medium Slow,1059860,Field,NULL,20
+945,Grafaiai,NULL,NULL,0.7,27.2,Poison,Normal,50.0,50.0,50,Scarlet,63,95,65,80,72,110,485,0,0,0,0,0,2,2,90,Medium Slow,1059860,Field,NULL,20
+946,Bramblin,NULL,NULL,0.6,0.6,Grass,Ghost,50.0,50.0,50,Scarlet,40,65,30,45,35,60,275,0,1,0,0,0,0,1,190,Medium Fast,1000000,Grass,NULL,20
+947,Brambleghast,NULL,NULL,1.2,6.0,Grass,Ghost,50.0,50.0,50,Scarlet,55,115,70,80,70,90,480,0,2,0,0,0,0,2,45,Medium Fast,1000000,Grass,NULL,20
+948,Toedscool,NULL,NULL,0.9,33.0,Ground,Grass,50.0,50.0,50,Scarlet,40,40,35,50,100,70,335,0,0,0,0,1,0,1,190,Medium Slow,1059860,Grass,NULL,20
+949,Toedscruel,NULL,NULL,1.9,58.0,Ground,Grass,50.0,50.0,50,Scarlet,80,70,65,80,120,100,515,0,0,0,0,2,0,2,90,Medium Slow,1059860,Grass,NULL,20
+950,Klawf,NULL,NULL,1.3,79.0,Rock,NULL,50.0,50.0,50,Scarlet,70,100,115,35,55,75,450,0,0,2,0,0,0,2,120,Medium Fast,1000000,Water 3,NULL,35
+951,Capsakid,NULL,NULL,0.3,3.0,Grass,NULL,50.0,50.0,50,Scarlet,50,62,40,62,40,50,304,0,1,0,0,0,0,1,190,Medium Fast,1000000,Grass,NULL,20
+952,Scovillain,NULL,NULL,0.9,15.0,Grass,Fire,50.0,50.0,50,Scarlet,65,108,65,108,65,75,486,0,2,0,0,0,0,2,50,Medium Fast,1000000,Grass,NULL,20
+953,Rellor,NULL,NULL,0.2,1.0,Bug,NULL,50.0,50.0,50,Scarlet,41,50,60,31,58,30,270,0,0,1,0,0,0,1,190,Fast,800000,Bug,NULL,20
+954,Rabsca,NULL,NULL,0.3,3.5,Bug,Psychic,50.0,50.0,50,Scarlet,75,50,85,115,100,45,470,0,0,0,2,0,0,2,45,Fast,800000,Bug,NULL,20
+955,Flittle,NULL,NULL,0.2,1.5,Psychic,NULL,50.0,50.0,50,Scarlet,30,35,30,55,30,75,255,0,0,0,0,0,1,1,120,Medium Slow,1059860,Flying,NULL,20
+956,Espathra,NULL,NULL,1.9,90.0,Psychic,NULL,50.0,50.0,50,Scarlet,95,60,60,101,60,105,481,0,0,0,0,0,2,2,60,Medium Slow,1059860,Flying,NULL,20
+957,Tinkatink,NULL,NULL,0.4,8.9,Fairy,Steel,0.0,100.0,50,Scarlet,50,45,45,35,64,58,297,0,0,0,0,1,0,1,190,Medium Slow,1059860,Fairy,NULL,20
+958,Tinkatuff,NULL,NULL,0.7,59.1,Fairy,Steel,0.0,100.0,50,Scarlet,65,55,55,45,82,78,380,0,0,0,0,2,0,2,90,Medium Slow,1059860,Fairy,NULL,20
+959,Tinkaton,NULL,NULL,0.7,112.8,Fairy,Steel,0.0,100.0,50,Scarlet,85,75,77,70,105,94,506,0,0,0,0,3,0,3,45,Medium Slow,1059860,Fairy,NULL,20
+960,Wiglett,NULL,NULL,1.2,1.8,Water,NULL,50.0,50.0,50,Scarlet,10,55,25,35,25,95,245,0,0,0,0,0,1,1,255,Medium Fast,1000000,Water 3,NULL,20
+961,Wugtrio,NULL,NULL,1.2,5.4,Water,NULL,50.0,50.0,50,Scarlet,35,100,50,50,70,120,425,0,0,0,0,0,2,2,50,Medium Fast,1000000,Water 3,NULL,20
+962,Bombirdier,NULL,NULL,1.5,42.9,Flying,Dark,50.0,50.0,50,Scarlet,70,103,85,60,85,82,485,0,2,0,0,0,0,2,25,Slow,1250000,Flying,NULL,35
+963,Finizen,NULL,NULL,1.3,60.2,Water,NULL,50.0,50.0,50,Scarlet,70,45,40,45,40,75,315,0,0,0,0,0,1,1,200,Slow,1250000,Field,Water 2,40
+964,Palafin,NULL,NULL,1.3,60.2,Water,NULL,50.0,50.0,50,Scarlet,100,70,72,53,62,100,457,2,0,0,0,0,0,2,45,Slow,1250000,Field,Water 2,40
+964,Palafin,Hero,NULL,1.8,97.4,Water,NULL,50.0,50.0,50,Scarlet,100,160,97,106,87,100,650,2,0,0,0,0,0,2,45,Slow,1250000,Field,Water 2,40
+965,Varoom,NULL,NULL,1.0,35.0,Steel,Poison,50.0,50.0,50,Scarlet,45,70,63,30,45,47,300,0,1,0,0,0,0,1,190,Medium Fast,1000000,Mineral,NULL,20
+966,Revavroom,NULL,NULL,1.8,120.0,Steel,Poison,50.0,50.0,50,Scarlet,80,119,90,54,67,90,500,0,2,0,0,0,0,2,75,Medium Fast,1000000,Mineral,NULL,20
+967,Cyclizar,NULL,NULL,1.6,63.0,Dragon,Normal,50.0,50.0,50,Scarlet,70,95,65,85,65,121,501,0,0,0,0,0,2,2,190,Medium Slow,1059860,Field,NULL,30
+968,Orthworm,NULL,NULL,2.5,310.0,Steel,NULL,50.0,50.0,50,Scarlet,70,85,145,60,55,65,480,0,0,2,0,0,0,2,25,Slow,1250000,Field,NULL,35
+969,Glimmet,NULL,NULL,0.7,8.0,Rock,Poison,50.0,50.0,50,Scarlet,48,35,42,105,60,60,350,0,0,0,1,0,0,1,70,Medium Slow,1059860,Mineral,NULL,30
+970,Glimmora,NULL,NULL,1.5,45.0,Rock,Poison,50.0,50.0,50,Scarlet,83,55,90,130,81,86,525,0,0,0,2,0,0,2,25,Medium Slow,1059860,Mineral,NULL,30
+971,Greavard,NULL,NULL,0.6,35.0,Ghost,NULL,50.0,50.0,50,Scarlet,50,61,60,30,55,34,290,0,1,0,0,0,0,1,120,Medium Slow,1059860,Field,NULL,20
+972,Houndstone,NULL,NULL,2.0,15.0,Ghost,NULL,50.0,50.0,50,Scarlet,72,101,100,50,97,68,488,0,2,0,0,0,0,2,60,Medium Slow,1059860,Field,NULL,20
+973,Flamigo,NULL,NULL,1.6,37.0,Flying,Fighting,50.0,50.0,50,Scarlet,82,115,74,75,64,90,500,0,2,0,0,0,0,2,100,Medium Slow,1059860,Flying,NULL,20
+974,Cetoddle,NULL,NULL,1.2,45.0,Ice,NULL,50.0,50.0,50,Scarlet,108,68,45,30,40,43,334,1,0,0,0,0,0,1,150,Medium Slow,1059860,Field,NULL,25
+975,Cetitan,NULL,NULL,4.5,700.0,Ice,NULL,50.0,50.0,50,Scarlet,170,113,65,45,55,73,521,2,0,0,0,0,0,2,50,Medium Slow,1059860,Field,NULL,25
+976,Veluza,NULL,NULL,2.5,90.0,Water,Psychic,50.0,50.0,50,Scarlet,90,102,73,78,65,70,478,0,2,0,0,0,0,2,100,Fast,800000,Water 2,NULL,20
+977,Dondozo,NULL,NULL,12.0,220.0,Water,NULL,50.0,50.0,50,Scarlet,150,100,115,65,65,35,530,3,0,0,0,0,0,3,25,Slow,1250000,Water 2,NULL,40
+978,Tatsugiri,NULL,NULL,0.3,8.0,Dragon,Water,50.0,50.0,50,Scarlet,68,50,60,120,95,82,475,0,0,0,2,0,0,2,100,Medium Slow,1059860,Water 2,NULL,35
+978,Tatsugiri,Droppy,NULL,0.3,8.0,Dragon,Water,50.0,50.0,50,Scarlet,68,50,60,120,95,82,475,0,0,0,2,0,0,2,100,Medium Slow,1059860,Water 2,NULL,35
+978,Tatsugiri,Stretchy,NULL,0.3,8.0,Dragon,Water,50.0,50.0,50,Scarlet,68,50,60,120,95,82,475,0,0,0,2,0,0,2,100,Medium Slow,1059860,Water 2,NULL,35
+979,Annihilape,NULL,NULL,1.2,56.0,Fighting,Ghost,50.0,50.0,50,Scarlet,110,115,80,50,90,90,535,0,3,0,0,0,0,3,45,Medium Fast,1000000,Field,NULL,20
+980,Clodsire,NULL,NULL,1.8,223.0,Poison,Ground,50.0,50.0,50,Scarlet,130,75,60,45,100,20,430,2,0,0,0,0,0,2,90,Medium Fast,1000000,Water 1,Field,20
+981,Farigiraf,NULL,NULL,3.2,160.0,Normal,Psychic,50.0,50.0,50,Scarlet,120,90,70,110,70,60,520,3,0,0,0,0,0,3,45,Medium Fast,1000000,Field,NULL,20
+982,Dudunsparce,NULL,NULL,3.6,39.2,Normal,NULL,50.0,50.0,50,Scarlet,125,100,80,85,75,55,520,2,0,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,20
+982,Dudunsparce,Three-Segment,NULL,4.5,47.0,Normal,NULL,50.0,50.0,50,Scarlet,125,100,80,85,75,55,520,2,0,0,0,0,0,2,45,Medium Fast,1000000,Field,NULL,20
+983,Kingambit,NULL,NULL,2.0,120.0,Dark,Steel,50.0,50.0,50,Scarlet,100,135,120,60,85,50,550,0,3,0,0,0,0,3,25,Medium Fast,1000000,Human-Like,NULL,20
+984,Great Tusk,NULL,NULL,2.2,320.0,Ground,Fighting,0.0,0.0,0,Scarlet,115,131,131,53,53,87,570,0,3,0,0,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+985,Scream Tail,NULL,NULL,1.2,8.0,Fairy,Psychic,0.0,0.0,0,Scarlet,115,65,99,65,115,111,570,3,0,0,0,0,0,3,50,Slow,1250000,No Eggs Discovered,NULL,50
+986,Brute Bonnet,NULL,NULL,1.2,21.0,Grass,Dark,0.0,0.0,0,Scarlet,111,127,99,79,99,55,570,0,3,0,0,0,0,3,50,Slow,1250000,No Eggs Discovered,NULL,50
+987,Flutter Mane,NULL,NULL,1.4,4.0,Ghost,Fairy,0.0,0.0,0,Scarlet,55,55,55,135,135,135,570,0,0,0,1,1,1,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+988,Slither Wing,NULL,NULL,3.2,92.0,Bug,Fighting,0.0,0.0,0,Scarlet,85,135,79,85,105,81,570,0,3,0,0,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+989,Sandy Shocks,NULL,NULL,2.3,60.0,Electric,Ground,0.0,0.0,0,Scarlet,85,81,97,121,85,101,570,0,0,0,3,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+990,Iron Treads,NULL,NULL,0.9,240.0,Ground,Steel,0.0,0.0,0,Scarlet,90,112,120,72,70,106,570,0,0,3,0,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+991,Iron Bundle,NULL,NULL,0.6,11.0,Ice,Water,0.0,0.0,0,Scarlet,56,80,114,124,60,136,570,0,0,0,0,0,3,3,50,Slow,1250000,No Eggs Discovered,NULL,50
+992,Iron Hands,NULL,NULL,1.8,380.7,Fighting,Electric,0.0,0.0,0,Scarlet,154,140,108,50,68,50,570,0,3,0,0,0,0,3,50,Slow,1250000,No Eggs Discovered,NULL,50
+993,Iron Jugulis,NULL,NULL,1.3,111.0,Dark,Flying,0.0,0.0,0,Scarlet,94,80,86,122,80,108,570,0,0,0,3,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+994,Iron Moth,NULL,NULL,1.2,36.0,Fire,Poison,0.0,0.0,0,Scarlet,80,70,60,140,110,110,570,0,0,0,3,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+995,Iron Thorns,NULL,NULL,1.6,303.0,Rock,Electric,0.0,0.0,0,Scarlet,100,130,110,70,84,72,566,0,3,0,0,0,0,3,30,Slow,1250000,No Eggs Discovered,NULL,50
+996,Frigibax,NULL,NULL,0.5,17.0,Dragon,Ice,50.0,50.0,50,Scarlet,65,75,45,35,45,55,320,0,1,0,0,0,0,1,45,Slow,1250000,Dragon,Mineral,40
+997,Arctibax,NULL,NULL,0.8,30.0,Dragon,Ice,50.0,50.0,50,Scarlet,90,95,66,45,65,62,423,0,2,0,0,0,0,2,25,Slow,1250000,Dragon,Mineral,40
+998,Baxcalibur,NULL,NULL,2.1,210.0,Dragon,Ice,50.0,50.0,50,Scarlet,115,145,92,75,86,87,600,0,3,0,0,0,0,3,10,Slow,1250000,Dragon,Mineral,40
+999,Gimmighoul,NULL,NULL,0.3,5.0,Ghost,NULL,0.0,0.0,50,Scarlet,45,30,70,75,70,10,300,0,0,0,1,0,0,1,45,Slow,1250000,No Eggs Discovered,NULL,50
+999,Gimmighoul,Roaming,NULL,0.1,0.1,Ghost,NULL,0.0,0.0,50,Pokémon GO,45,30,25,75,45,80,300,0,0,0,1,0,0,1,45,Slow,1250000,No Eggs Discovered,NULL,50
+1000,Gholdengo,NULL,NULL,1.2,30.0,Steel,Ghost,0.0,0.0,50,Scarlet,87,60,95,133,97,84,556,0,0,0,2,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,50
+1000,Gholdengo,NULL,NULL,1.2,30.0,Steel,Ghost,0.0,0.0,50,Scarlet,87,60,95,133,97,84,556,0,0,0,2,0,0,2,45,Slow,1250000,No Eggs Discovered,NULL,50
+1001,Wo-Chien,NULL,Sub-Legendary,1.5,74.2,Dark,Grass,0.0,0.0,0,Scarlet,85,85,100,95,135,70,570,0,0,0,0,3,0,3,6,Slow,1250000,No Eggs Discovered,NULL,50
+1002,Chien-Pao,NULL,Sub-Legendary,1.9,152.2,Dark,Ice,0.0,0.0,0,Scarlet,80,120,80,90,65,135,570,0,0,0,0,0,3,3,6,Slow,1250000,No Eggs Discovered,NULL,50
+1003,Ting-Lu,NULL,Sub-Legendary,2.7,699.7,Dark,Ground,0.0,0.0,0,Scarlet,155,110,125,55,80,45,570,0,0,3,0,0,0,3,6,Slow,1250000,No Eggs Discovered,NULL,50
+1004,Chi-Yu,NULL,Sub-Legendary,0.4,4.9,Dark,Fire,0.0,0.0,0,Scarlet,55,80,80,135,120,100,570,0,0,0,3,0,0,3,6,Slow,1250000,No Eggs Discovered,NULL,50
+1005,Roaring Moon,NULL,NULL,2.0,380.0,Dragon,Dark,0.0,0.0,0,Scarlet,105,139,71,55,101,119,590,0,3,0,0,0,0,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1006,Iron Valiant,NULL,NULL,1.4,35.0,Fairy,Fighting,0.0,0.0,0,Scarlet,74,130,90,120,60,116,590,0,3,0,0,0,0,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1007,Koraidon,NULL,Legendary,2.5,303.0,Fighting,Dragon,0.0,0.0,0,Scarlet,100,135,115,85,100,135,670,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,0
+1008,Miraidon,NULL,Legendary,3.5,240.0,Electric,Dragon,0.0,0.0,0,Scarlet,100,85,100,135,115,135,670,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,0
+1009,Walking Wake,NULL,NULL,3.5,280.0,Water,Dragon,0.0,0.0,0,Scarlet,99,83,91,125,83,109,590,0,0,0,3,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,50
+1010,Iron Leaves,NULL,NULL,1.5,125.0,Grass,Psychic,0.0,0.0,0,Scarlet,90,130,88,70,108,104,590,0,3,0,0,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,50
+1011,Dipplin,NULL,NULL,0.4,4.4,Grass,Dragon,50.0,50.0,50,Scarlet,80,80,110,95,80,40,485,0,0,2,0,0,0,2,45,Erratic,600000,Grass,Dragon,20
+1012,Poltchageist,Artisan,NULL,0.1,1.1,Grass,Ghost,0.0,0.0,50,Scarlet,40,45,45,74,54,50,308,0,0,0,1,0,0,1,120,Medium Fast,1000000,Mineral,Amorphous,20
+1012,Poltchageist,NULL,NULL,0.1,1.1,Grass,Ghost,0.0,0.0,50,Scarlet,40,45,45,74,54,50,308,0,0,0,1,0,0,1,120,Medium Fast,1000000,Mineral,Amorphous,20
+1013,Sinistcha,NULL,NULL,0.2,2.2,Grass,Ghost,0.0,0.0,50,Scarlet,71,60,106,121,80,70,508,0,0,0,2,0,0,2,60,Medium Fast,1000000,Mineral,Amorphous,20
+1013,Sinistcha,Masterpiece,NULL,0.2,2.2,Grass,Ghost,0.0,0.0,50,Scarlet,71,60,106,121,80,70,508,0,0,0,2,0,0,2,60,Medium Fast,1000000,Mineral,Amorphous,20
+1014,Okidogi,NULL,Sub-Legendary,1.8,92.0,Poison,Fighting,100.0,0.0,0,Scarlet,88,128,115,58,86,80,555,0,3,0,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+1015,Munkidori,NULL,Sub-Legendary,1.0,12.2,Poison,Psychic,100.0,0.0,0,Scarlet,86,75,66,130,90,106,553,0,0,0,3,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+1016,Fezandipiti,NULL,Sub-Legendary,1.4,30.1,Poison,Fairy,100.0,0.0,0,Scarlet,88,91,82,70,125,99,555,0,0,0,0,3,0,3,3,Slow,1250000,No Eggs Discovered,NULL,120
+1017,Ogerpon,NULL,Sub-Legendary,1.2,39.8,Grass,NULL,0.0,100.0,50,Scarlet,80,120,84,60,96,110,550,0,3,0,0,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,10
+1017,Ogerpon,Wellspring Mask,Sub-Legendary,1.2,39.8,Grass,Water,0.0,100.0,50,Scarlet,80,120,84,60,96,110,550,0,3,0,0,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,10
+1017,Ogerpon,Hearthflame Mask,Sub-Legendary,1.2,39.8,Grass,Fire,0.0,100.0,50,Scarlet,80,120,84,60,96,110,550,0,3,0,0,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,10
+1017,Ogerpon,Cornerstone Mask,Sub-Legendary,1.2,39.8,Grass,Rock,0.0,100.0,50,Scarlet,80,120,84,60,96,110,550,0,3,0,0,0,0,3,5,Slow,1250000,No Eggs Discovered,NULL,10
+1018,Archaludon,NULL,NULL,2.0,60.0,Steel,Dragon,50.0,50.0,50,Scarlet,90,105,130,125,65,85,600,0,0,3,0,0,0,3,10,Medium Fast,1000000,Mineral,Dragon,30
+1019,Hydrapple,NULL,NULL,1.8,93.0,Grass,Dragon,50.0,50.0,50,Scarlet,106,80,110,120,80,44,540,0,0,0,3,0,0,3,10,Erratic,600000,Grass,Dragon,20
+1020,Gouging Fire,NULL,NULL,3.5,590.0,Fire,Dragon,0.0,0.0,0,Violet,105,115,121,65,93,91,590,0,0,3,0,0,0,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1021,Raging Bolt,NULL,NULL,5.2,480.0,Electric,Dragon,0.0,0.0,0,Scarlet,125,73,91,137,89,75,590,0,0,0,3,0,0,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1022,Iron Boulder,NULL,NULL,1.5,162.5,Rock,Psychic,0.0,0.0,0,Violet,90,120,80,68,108,124,590,0,0,0,0,0,3,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1023,Iron Crown,NULL,NULL,1.6,156.0,Steel,Psychic,0.0,0.0,0,Scarlet,90,72,100,122,108,98,590,0,0,0,3,0,0,3,10,Slow,1250000,No Eggs Discovered,NULL,50
+1024,Terapagos,Stellar,Legendary,1.7,77.0,Normal,NULL,0.0,0.0,0,Violet,160,105,110,130,110,85,700,3,0,0,0,0,0,3,255,Slow,1250000,No Eggs Discovered,NULL,0
+1024,Terapagos,NULL,Legendary,0.2,6.5,Normal,NULL,0.0,0.0,0,Violet,90,65,85,65,85,60,450,0,0,1,0,0,0,1,255,Slow,1250000,No Eggs Discovered,NULL,0
+1024,Terapagos,Terastal,Legendary,0.3,16.0,Normal,NULL,0.0,0.0,0,Scarlet,95,95,110,105,110,85,600,0,0,2,0,2,0,4,255,Slow,1250000,No Eggs Discovered,NULL,0
+1025,Pecharunt,NULL,Mythical,0.3,0.3,Poison,Ghost,0.0,0.0,0,Scarlet,88,88,160,88,88,88,600,0,0,3,0,0,0,3,3,Slow,1250000,No Eggs Discovered,NULL,0
