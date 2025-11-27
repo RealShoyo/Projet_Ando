@@ -1,7 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql import Window
-from pyspark.sql.functions import col, rank, max as spark_max, regexp_replace, when, lit
-import os
+from pyspark.sql.functions import col, rank, max as spark_max, regexp_replace, when, lit, row_number
 spark = SparkSession.builder \
     .appName("CSVReaderApp") \
     .getOrCreate()
@@ -18,11 +17,11 @@ df_usage = spark.read.csv(
 
 df_clean = df_usage.withColumn(
     "Percent_Float",
-    regexp_replace(col("Percent"), "%", "").cast("float")
+    regexp_replace(col("Usage %"), "%", "").cast("float")
 ).drop("Percent")
 
 # Définition de la fenêtre : partition par 'tiers' et classement par 'Percent_Float' décroissant
-window_spec = Window.partitionBy("tiers").orderBy(col("Percent_Float").desc())
+window_spec = Window.partitionBy("Tiers").orderBy(col("Percent_Float").desc())
 
 # Attribution du rang (Rank) à chaque Pokémon au sein de son 'tiers'
 df_ranked = df_clean.withColumn("rank", rank().over(window_spec))
@@ -46,6 +45,15 @@ df_scored = df_joined.withColumn(
     .otherwise(lit(None)) 
 ).drop("Max_Percent_Usage")
 
+window_spec_final = Window.partitionBy("Pokemon").orderBy(col("Tier_Score").asc())
+
+# Attribuer un numéro de ligne à chaque entrée de Pokémon
+# Le numéro 1 sera le Pokémon avec le Tier_Score le plus petit
+df_final_ranked = df_scored.withColumn("row_num", row_number().over(window_spec_final))
+
+# Filtrer pour ne garder que le rang 1 (le plus petit Tier_Score)
+df_unique_min_tier = df_final_ranked.filter(col("row_num") == 1).drop("row_num")
+
 # ----------------------------------------------------
 # --- ÉTAPE D'ÉCRITURE DU FICHIER ---
 # ----------------------------------------------------
@@ -53,9 +61,9 @@ df_scored = df_joined.withColumn(
 output_path = "scored_usage_data.csv"
 
 # 1. Sélectionner les colonnes finales et l'ordre souhaité
-df_final_output = df_scored.select(
+df_final_output = df_unique_min_tier.select(
     "Pokemon", 
-    "tiers", 
+    "Tiers", 
     col("Percent_Float").alias("Percent_Usage"), # Renommer pour la clarté
     "Tier_Score"
 )

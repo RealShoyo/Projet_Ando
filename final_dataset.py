@@ -45,7 +45,7 @@ df_joined.select(
     "Pokemon", 
     "Health Stat", 
     "Primary Type", 
-    "tiers", 
+    "Tiers", 
     "Tier_Score"
 ).show(10, truncate=False)
 
@@ -53,14 +53,14 @@ df_joined.select(
 
 df_final = df_joined.select(
     df_base["*"], # Conserve TOUTES les colonnes du DataFrame de base
-    df_scores["tiers"],
+    df_scores["Tiers"],
     df_scores["Percent_Usage"],
     df_scores["Tier_Score"]
 )
 
 print("\nSchéma du DataFrame FINAL après sélection :")
 df_final.where(col("Tier_Score").isNotNull()).select("Pokemon", "Tier_Score").show()
-df_final = df_final.where(col("Tier_Score").isNotNull()).dropDuplicates(["Pokemon"])
+df_final = df_final.where(col("Tier_Score").isNotNull()).dropDuplicates().orderBy("Pokedex Number")
 df_pandas = df_final.toPandas()
 
 df_pandas.to_csv(output_path, index=False)
