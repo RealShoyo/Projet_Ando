@@ -40,7 +40,7 @@ sns.heatmap(
 )
 
 plt.title('Matrice de Corrélation des Statistiques de Pokémon', fontsize=18)
-plt.show()
+
 
 plt.tight_layout() # Ajuste la mise en page pour que les étiquettes ne soient pas coupées
 plt.savefig(OUTPUT_FILE)
