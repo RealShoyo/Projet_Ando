@@ -1,0 +1,119 @@
+<h1 id="presentation-des-données">Presentation des données</h1>
+<p>Nous avons décidé de faire notre projet d’ANDO23 sur l’étude de
+l’utilisation des Pokémon dans le monde compétitif suivant leur données
+dans les jeux.</p>
+<h2 id="le-contexte">Le contexte</h2>
+<p>La franchise Pokémon est une franchise qui depuis 1995 publie des
+jeux centrés sur la capture de monstres, leur élevage et le combat entre
+eux. Elle est aujourd’hui la franchise médiatique la plus lucrative au
+monde, avec près de 150 milliards de USD en revenus.</p>
+<p>De nombreuses compétitions de combat entre Pokémon sont apparues, et
+avec elles des classements d’utilisation des différents Pokémon dans le
+monde compétitif professionnel. Ces compétitions ont une forte
+popularité à échelle mondiale, et peuvent se diviser en de nombreuses
+catégories différentes suivant les Pokémon utilisés et les modalités des
+combats.</p>
+<p>Or tous les Pokémon sont d’attribus, formes, capacitées et types
+différents, à travers de données codées dans le jeu et publiquement
+accessibles. Nous avons donc cherché à étudier les liens et
+corréllations qu’il pourrait exister entre les taux d’utilisation des
+Pokémon dans le domaine compétitif, et leur données et capacités dans
+les jeux vidéos.</p>
+<h2 id="le-sujet">Le sujet</h2>
+<p>Notre sujet est donc : - <strong>Study of Pokemon’s competitive usage
+according to game data.</strong></p>
+<h2 id="les-données">Les données</h2>
+<p>Nous avons décidé de travailler à partir de deux bases de données : -
+Une base de données regroupant toutes les données des Pokémon
+directement dans le jeu - Une base de données regroupant les
+pourcentages d’utilisation des pokémons dans les combats “solo”
+compétitifs</p>
+<p>La première base de donnée regroupe toutes les données qui
+définissent un Pokémon. Celles-ci recouvrent leurs charactéristiques
+liées à leur physique (taille, poids, genre, vitesse de croissance…) et
+celles liées à leur capacités de combat (‘type’, ‘stats’, ‘EV’…).</p>
+<p>Pour choisir la deuxième base de donnée nous avons décidé de nous
+limiter à l’étude d’un type de combat spécifiquement, les combats
+“solo”, qui consistent en l’affrontement de deux joueurs qui utilisent 6
+Pokémon chacun. Dans la catégorie “solo”, plusieurs sous-catégories
+éxistent, qui divisent tous les Pokémon par taux d’utilisation. Nous
+avons donc décidé de tous les rassembler dans une catégorie, tout en
+gardant une répartition et un classement équivalents à la répartition
+actuelle. La deuxième base de donnée regroupe donc une grande quantité
+de Pokémon classés par catégorie et taux d’utilisation dans les combats
+“solo”.</p>
+<p>Pour regrouper tous les pokemons dans un seul groupe, il était
+cependant essentiel de conserver leur classement de puissance par leur
+tier. Il existe normalement 5 tiers de puissance, et chaque pokemons
+peut apparaitre dans plusieurs tiers.Pour les regrouper, nous
+choisissons le tier dans lequel le pokemon a le plus haut taux de jeu,
+le divisons par le taux le plus élevé du tier, et on lui ajoute une
+constante dépendant de son tier. Par exemple, le meilleur pokemon du
+tier 0 aura un score de 1, puisque son taux d’utilisation est le
+meilleur taux d’utilisation du tier et la constante du tier 0 vaut 0. Au
+contraire, considérons le pire pokemon du tier 4, et imaginons son taux
+est de 5%, tandis que le meilleur du tier a 20% d’utilisation, son score
+sera alors 0,25+4=4.25 puisque la constante du tier 4 est 4. On voit
+alors que le meilleur pokemon du pire tier est quand même moins bon que
+le pire pokemon du meilleur tier: ça permet de conserver le classement
+de puissance en rejoignant tous les tiers ensemble. On remarque
+également que le meilleur pokemon du tier 0 a un score de 1, et de même
+le meilleur pokemon du tier 1 a un score de 2 etc… Ainsi on peut lisser
+le score dans une courbe plus agréable, tandis que dans les vrais taux
+d’utilisation aucun pokemons ne dépasserait pas 50% d’utilisation.</p>
+<p>Après avoir traité les 2 datasets et retiré les données inutiles,
+nous les avons réunis dans 1 datasets dont voici les données: tout
+d’abord “pokemon”: c’est le nom du pokemon. Elle n’implique rien sur la
+puissance du pokemon mais est la donnée utilisée pour différencier les
+pokemons. La deuxième “Alternate form name”: certains pokemons ont
+plusieurs formes et il est alors intéressant d’étudier leur différentes
+formes séparément car elles sont quelques différences qui pouraient tout
+changer en stratégie. Ensuite, “legendary type”: indique si le pokemon
+est légendaire ou non. Il parait assez naturel que les pokemons
+légendaires soient plus puissants, mais c’est une statistique
+intéressante à vérifier. Après nous avons “total height” et “total
+weight”: La taille et le poid du pokemon. Nous avons supposé que plus un
+pokemon est large/lourd, plus il est puissant, surtout vu que les
+pokemons légendaires ont tendance à être gros, mais nous aimerions le
+vérifier. Nous avons ensuite “Health/Attack/Defense/Special
+attack/Special deffense/Vitesse/Total stat”: Les statistiques des
+pokemons. Il est plus que naturel de suposer que plus les statistiques
+d’un pokemon sont élevées plus il est joué, mais avec les talents et
+attaques signatures, ce n’est pas nécessairement vrai. Vient après
+“catch rate”: La probabilité de capturer un pokemon une fois une
+pokeball lancée. En général les pokemons les plus puissants sont rendus
+plus difficiles à obtenir, et ainsi la chance de capture est réduite.
+Ensuite “Experience Growth”: La vitesse de montée de niveau d’un
+pokemon. Rendre un pokemon plus dur à monter de niveau est une manière
+d’équilibrer un pokemon trop puissant qui peut être intéressante à
+étudier. Après vient “Primary egg group” et “Secondary egg group”: Les
+pokemons sont réunis dans des “groupes d’oeuf” dans lesquels les
+pokemons peuvent seuelement se reproduire. Elle n’implique pas
+directement sur le taux d’utilisation, mais si un groupe se démarque
+comme plus utilisés que les autres, c’est une statistique intéressante.
+Vient ensuite “egg cycle count”: Le temps requis pour qu’un oeuf éclose.
+On pourrait penser que plus un pokemon est fort, plus il prend du temps
+à éclore, c’est à vérifier. Et enfin se trouve “Tier” et “Percent
+usage”: Les utilisations des pokemons compétitivement. C’est la
+statistique que nous souhaitons mettre en parallèle des autres qui
+indique l’utilisation compétitive des pokemons.</p>
+<h2 id="la-matrice-de-corrélation">La matrice de corrélation</h2>
+<figure>
+<img src="matrice_correlation.png" title="Matrice de corrélation"
+alt="CorrelationMatrix" />
+<figcaption aria-hidden="true">CorrelationMatrix</figcaption>
+</figure>
+<p>On observe plusieurs résultats intéressants sur cette matrice. Ce qui
+saute aux yeux c’est le catch rate entièrement négatif. C’est en fait
+normal, car plus le catch rate est bas, plus le pokemon est dur à
+capturer, et donc logiquement plus il est puissant. On aurait pu penser
+que la matrice infirmait notre hypothèse, mais en réalité elle la
+confirme. De plus on remarque que toute les statistiques ont une
+corrélation positive avec le Tier_Score, qui est notre système
+d’évaluation de compétitivité (sauf le catch rate expliqué
+précédemment), confirmant donc la pertinance de nos statistiques
+choisies. Enfin on voit que la base stat est la statistique avec la
+corrélation la plus élevée, ce qui parait cohérent: plus les
+statistiques sont élevées plus le pokemon est puissant. Cela dit, le
+fait qu’il ne dépasse pas 0.5 montre que ce n’est pas le seul
+facteur.</p>
