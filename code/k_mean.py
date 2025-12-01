@@ -25,10 +25,9 @@ import numpy as np
 import pandas as pd 
 
 
-data = pd.read_csv("dataset.csv", sep=",", header=0)
+data = pd.read_csv("raw/dataset.csv", sep=",", header=0)
 print(data)
 print(data.columns)
 
-data = data.drop(['Primary Type' , "Secondary Type" , "Female Ratio" , "Game(s) of Origin" , "Experience Growth" , "Primary Egg Group" , "Secondary Egg Group"])
 
 print(data)
