@@ -4,6 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import numpy as np
+import seaborn as sns # Ajout de seaborn pour la visualisation 1D
 
 # Charger le fichier CSV
 df = pd.read_csv("raw/final_dataset.csv")
@@ -38,13 +39,13 @@ def prepare_data(df, columns):
     scaler = StandardScaler()
     scaled_data = scaler.fit_transform(data)
     
-    return scaled_data
+    return scaled_data, scaler
 
 # Fonction principale pour exécuter K-means avec et sans PCA
 def run_final_clustering(group_name, config, df):
     k = config["k"]
     original_cols = config["cols"]
-    scaled_data = prepare_data(df, original_cols)
+    scaled_data, scaler = prepare_data(df, original_cols)
     
     print(f"==================================================")
     print(f"## 🏆 Analyse : {group_name} (k={k} optimal)")
@@ -52,7 +53,7 @@ def run_final_clustering(group_name, config, df):
     
     # --- A) K-means SANS PCA ---
     
-    print("\n--- A) K-means SANS PCA ---")
+    print("\n--- A) K-means SANS PCA (Analyse Principale) ---")
     
     kmeans_no_pca = KMeans(n_clusters=k, random_state=42, n_init=10)
     clusters_no_pca = kmeans_no_pca.fit_predict(scaled_data)
@@ -69,6 +70,31 @@ def run_final_clustering(group_name, config, df):
     tier_score_no_pca = df.groupby(f'Cluster_{group_name}_NoPCA')['Tier_Score'].agg(['count', 'mean', 'median', 'std'])
     print(f"\nTier_Score moyen par Cluster (SANS PCA) :")
     print(tier_score_no_pca.sort_values(by='mean', ascending=False).round(4))
+    
+    # --- C) Visualisation SANS PCA (pour 1 ou 2 variables) ---
+    
+    if scaled_data.shape[1] == 1:
+        # Visualisation 1D pour les groupes de variable unique (Catch Rate, Egg Cycle Count)
+        print(f"\nVisualisation 1D des Clusters : {original_cols[0]} (SANS PCA)")
+        
+        plt.figure(figsize=(10, 3))
+        # Utiliser un jitter sur l'axe des ordonnées pour mieux visualiser les points
+        y_jitter = np.random.uniform(-0.1, 0.1, size=scaled_data.shape[0])
+        plt.scatter(scaled_data[:, 0], y_jitter, 
+                    c=clusters_no_pca, cmap='viridis', marker='o', alpha=0.6)
+        
+        # Afficher les centres des clusters (sur la ligne y=0)
+        centers_no_pca_1d = kmeans_no_pca.cluster_centers_
+        plt.scatter(centers_no_pca_1d, np.zeros_like(centers_no_pca_1d), 
+                    marker='X', s=200, c='red', label='Centres de Cluster')
+        
+        plt.title(f'K-means sur {group_name} (k={k}) - SANS PCA')
+        plt.xlabel(f'{original_cols[0]} (Standardisé)')
+        plt.yticks([]) # Pas d'axe des ordonnées significatif
+        plt.legend()
+        plt.grid(axis='x')
+        plt.show()
+    
     
     # --- B) K-means AVEC PCA (pour les groupes > 1 variable) ---
     
@@ -93,8 +119,9 @@ def run_final_clustering(group_name, config, df):
         print(f"\nTier_Score moyen par Cluster (AVEC PCA) :")
         print(tier_score_pca.sort_values(by='mean', ascending=False).round(4))
         
-        # Visualisation si possible
+        # Visualisation PCA (2D)
         if n_components >= 2:
+            print("\nVisualisation des Clusters (basée sur les deux premières Composantes Principales) :")
             pca_df = pd.DataFrame(data = principal_components[:,:2], columns = ['PC1', 'PC2'])
             pca_df[f'Cluster'] = clusters_pca
             
