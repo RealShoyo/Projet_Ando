@@ -26,7 +26,7 @@ analysis_config = {
     },
     "Cycles_d'Oeuf": {
         "cols": ['Egg_Cycle_Count'],
-        "k": 3
+        "k": 5
     }
 }
 
@@ -145,3 +145,4 @@ for name, config in analysis_config.items():
 
 print("Aperçu du DataFrame avec tous les résultats de clustering :")
 print(df[['Pokemon', 'Tier_Score'] + [col for col in df.columns if 'Cluster' in col]].head())
+df.to_csv("raw/res_cluster.csv", index=False)
