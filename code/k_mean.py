@@ -64,6 +64,8 @@ def DistanceEntre2Pkms(informationPkm1 , informationPkm2 , listeTaillePlageMaxim
     tailleInfos = len(informationPkm1)
     distances = []
     for i in range (tailleInfos):
+        if (math.isnan(informationPkm1[i])):
+            informationPkm1[i] = 0
         distances.append((informationPkm1[i] - informationPkm2[i]) / listeTaillePlageMaximums[i])
     distance = 0
 
@@ -71,7 +73,7 @@ def DistanceEntre2Pkms(informationPkm1 , informationPkm2 , listeTaillePlageMaxim
         distance += distances[i]**2 
     distance = np.sqrt(distance)
     if distance is None or math.isnan(distance):
-        raise ValueError("distance ne doit pas être None ou NaN")
+        raise ValueError(str(informationPkm1))
     return distance
 
 
@@ -97,7 +99,6 @@ def findCloserCentroide(point , centroides , diffs):
     listeDistances = []
     for e in centroides :
         listeDistances.append(DistanceEntre2Pkms(point, e , diffs))
-    print(listeDistances)
     return (listeDistances.index(min(listeDistances))) ##renvoie l'indice du centroides avec la distance minimum
   
 
@@ -138,8 +139,7 @@ def actualisationCentroides(dictionnaireAppartenance, nombreCentroides, listesCe
 
     return (newListesCentroides, (newListesCentroides == listesCentroides))
 
-def main():
-    nombreCentroides = 5 ##hardcode pour le moment
+def kMean(nombreCentroides ,  nombreTourMax):
     data = recupereDuCsv(["Alternate Form Name" , "Legendary Type" , "Primary Egg Group" , "Secondary Egg Group","Tiers" ])
     diffs , minlist , maxlist = recupereListeTaillePlageMaximums(data)
     nombreStats = len(diffs)
@@ -148,13 +148,15 @@ def main():
     isCentroidsFixed = False
     dictionnaireAppartenance = {}
     compteurTour = 0
-    while not (isCentroidsFixed or compteurTour > 3):
+    while not (isCentroidsFixed or compteurTour > nombreTourMax):
         compteurTour += 1
+        print(compteurTour)
         dictionnaireAppartenance = repartitionPointsCentroides(data["Pokemon"] ,listesCentroides  , dicoStatsPokemon , diffs)
         listesCentroides , isCentroidsFixed = actualisationCentroides(dictionnaireAppartenance , nombreCentroides , listesCentroides , nombreStats , dicoStatsPokemon)
-
+    
+    print(dictionnaireAppartenance)
     return (dictionnaireAppartenance)
 
 
-main()
+kMean(5 , 100)
 
