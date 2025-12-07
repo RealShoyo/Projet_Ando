@@ -40,7 +40,7 @@ import matplotlib as plt
 import numpy as np
 import pandas as pd 
 import random
-
+import math
 
 
 
@@ -70,6 +70,8 @@ def DistanceEntre2Pkms(informationPkm1 , informationPkm2 , listeTaillePlageMaxim
     for i in range (tailleInfos):
         distance += distances[i]**2 
     distance = np.sqrt(distance)
+    if distance is None or math.isnan(distance):
+        raise ValueError("distance ne doit pas être None ou NaN")
     return distance
 
 
@@ -85,9 +87,9 @@ def makeCentroidesListes(size , nombre , minlist , maxlist):
     for i in range (nombre):
         centroide = []
         for j in range (size):
-            centroide.append(random.uniform(maxlist[j], minlist[j]))
-        listesCentroides.append(centroide)
 
+            centroide.append(random.uniform(minlist[j], maxlist[j]))
+        listesCentroides.append(centroide)
     return listesCentroides
 
         
@@ -95,8 +97,7 @@ def findCloserCentroide(point , centroides , diffs):
     listeDistances = []
     for e in centroides :
         listeDistances.append(DistanceEntre2Pkms(point, e , diffs))
-    
-
+    print(listeDistances)
     return (listeDistances.index(min(listeDistances))) ##renvoie l'indice du centroides avec la distance minimum
   
 
@@ -114,21 +115,28 @@ def repartitionPointsCentroides(listeClees , listesCentroides , dico , diffs) :
 
 
 ##Moche
-def actualisationCentroides(dictionnaireAppartenance , nombreCentroides , listesCentroides , nombreStats , dicoStatsPokemon):
-    newListesCentroides = [[] for _ in range(nombreCentroides)] 
-    for i in range(nombreCentroides): ##je fais une matrice avec des listes qui contiennent les valeurs de tous les pts qui sont rattachés à ce centroides 
-        nombrePoints = len(dictionnaireAppartenance[i])
-        matriceStats = [[] for _ in range(nombreStats)] ##Crée une liste vide contenant 
-        for indexPoint in range(nombrePoints):
+def actualisationCentroides(dictionnaireAppartenance, nombreCentroides, listesCentroides, nombreStats, dicoStatsPokemon):
+    newListesCentroides = [[0] * nombreStats for _ in range(nombreCentroides)]
+    for i in range(nombreCentroides):
+        points = dictionnaireAppartenance[i]
+        nombrePoints = len(points)
+
+        if nombrePoints == 0:
+            newListesCentroides[i] = listesCentroides[i]
+            continue
+
+        matriceStats = [[0] * nombrePoints for _ in range(nombreStats)]
+
+        for indexPoint, point_id in enumerate(points):
+            stats_point = dicoStatsPokemon[point_id]
             for indexStat in range(nombreStats):
-                matriceStats[indexStat][indexPoint] = dicoStatsPokemon[indexPoint][indexStat]
+                matriceStats[indexStat][indexPoint] = stats_point[indexStat]
 
-        for indexStats in range(nombreStats):
-            newListesCentroides[i][indexStats] = np.mean(matriceStats[indexStats])
+        for indexStat in range(nombreStats):
+            newListesCentroides[i][indexStat] = np.mean(matriceStats[indexStat])
 
 
-    return (listesCentroides , (newListesCentroides == listesCentroides))
-
+    return (newListesCentroides, (newListesCentroides == listesCentroides))
 
 def main():
     nombreCentroides = 5 ##hardcode pour le moment
@@ -140,14 +148,10 @@ def main():
     isCentroidsFixed = False
     dictionnaireAppartenance = {}
     compteurTour = 0
-    while not (isCentroidsFixed):
+    while not (isCentroidsFixed or compteurTour > 3):
         compteurTour += 1
-        print("\ntour numero" + str(compteurTour))
         dictionnaireAppartenance = repartitionPointsCentroides(data["Pokemon"] ,listesCentroides  , dicoStatsPokemon , diffs)
         listesCentroides , isCentroidsFixed = actualisationCentroides(dictionnaireAppartenance , nombreCentroides , listesCentroides , nombreStats , dicoStatsPokemon)
-
-    print("fin de programme")
-    print(dictionnaireAppartenance)
 
     return (dictionnaireAppartenance)
 
