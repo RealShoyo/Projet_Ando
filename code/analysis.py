@@ -4,10 +4,11 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns # Ajout de seaborn pour la visualisation 1D
+import seaborn as sns 
 
 # Charger le fichier CSV
-df = pd.read_csv("raw/final_dataset.csv")
+# NOTE: Le chemin est ajusté pour utiliser le fichier téléversé "final_dataset.csv"
+df = pd.read_csv("raw/final_dataset.csv") 
 df.columns = df.columns.str.replace(' ', '_')
 
 # Définition des groupes de colonnes et des k optimaux
@@ -71,7 +72,7 @@ def run_final_clustering(group_name, config, df):
     print(f"\nTier_Score moyen par Cluster (SANS PCA) :")
     print(tier_score_no_pca.sort_values(by='mean', ascending=False).round(4))
     
-    # --- C) Visualisation SANS PCA (pour 1 ou 2 variables) ---
+    # --- C) Visualisation SANS PCA (pour 1 variable) ---
     
     if scaled_data.shape[1] == 1:
         # Visualisation 1D pour les groupes de variable unique (Catch Rate, Egg Cycle Count)
@@ -106,8 +107,34 @@ def run_final_clustering(group_name, config, df):
         pca = PCA(n_components=n_components)
         principal_components = pca.fit_transform(scaled_data)
         
-        explained_variance = pca.explained_variance_ratio_.sum() * 100
+        explained_variance_ratio = pca.explained_variance_ratio_
+        explained_variance = explained_variance_ratio.sum() * 100
         print(f"Variance expliquée par les {n_components} premières composantes : {explained_variance:.1f}%")
+        
+        
+        # ************************************************************
+        # PARTIE NOUVELLE : INTERPRÉTATION DES COMPOSANTES PRINCIPALES
+        # ************************************************************
+        
+        print("\n### 🔍 Interprétation des Composantes Principales (PC)")
+        
+        # Créer le DataFrame des coefficients (Loadings)
+        pca_loadings = pd.DataFrame(
+            pca.components_.T, # Transposé de components_ pour avoir les variables en index
+            columns=[f'PC{i+1} ({explained_variance_ratio[i]*100:.1f}%)' for i in range(n_components)], 
+            index=original_cols
+        )
+        print("Coefficients de Contribution des Variables (Loadings):")
+        print(pca_loadings.round(3))
+        
+        # Ajout d'une analyse textuelle basée sur le nom du groupe
+        if group_name == "Statistiques_de_Combat":
+            print("\nAnalyse PC1: Représente la **Puissance Globale**. Elle est dominée par des coefficients positifs sur TOUTES les statistiques.")
+            print("Analyse PC2: Représente le **Style de Combat**. Cherchez l'opposition (signes opposés) entre les stats Offensives et Défensives, ou entre Attaque et Vitesse.")
+        elif group_name == "Poids_et_Taille":
+            print("\nAnalyse PC1: Représente la **Masse/Volume Physique**. Elle est dominée par des coefficients positifs sur Poids et Taille.")
+            
+        # ************************************************************
         
         kmeans_pca = KMeans(n_clusters=k, random_state=42, n_init=10)
         clusters_pca = kmeans_pca.fit_predict(principal_components)
@@ -131,8 +158,8 @@ def run_final_clustering(group_name, config, df):
             plt.scatter(centers_pca[:, 0], centers_pca[:, 1], marker='X', s=200, c='red', label='Centres de Cluster')
             
             plt.title(f'K-means sur {group_name} (k={k}, après PCA)')
-            plt.xlabel(f'Composante Principale 1 ({pca.explained_variance_ratio_[0]*100:.1f}%)')
-            plt.ylabel(f'Composante Principale 2 ({pca.explained_variance_ratio_[1]*100:.1f}%)')
+            plt.xlabel(f'Composante Principale 1 ({explained_variance_ratio[0]*100:.1f}%)')
+            plt.ylabel(f'Composante Principale 2 ({explained_variance_ratio[1]*100:.1f}%)')
             plt.legend()
             plt.grid(True)
             plt.show()
@@ -143,6 +170,7 @@ def run_final_clustering(group_name, config, df):
 for name, config in analysis_config.items():
     run_final_clustering(name, config, df)
 
+# Correction du chemin de sauvegarde
 print("Aperçu du DataFrame avec tous les résultats de clustering :")
 print(df[['Pokemon', 'Tier_Score'] + [col for col in df.columns if 'Cluster' in col]].head())
-df.to_csv("raw/res_cluster.csv", index=False)
+df.to_csv("res_cluster.csv", index=False)
